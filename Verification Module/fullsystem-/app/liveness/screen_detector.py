@@ -31,7 +31,7 @@ def detect_screen(frame, aggressive=True):
     lap_var = cv2.Laplacian(gray, cv2.CV_64F).var()
    
     # Aggressive mode should have a HIGHER threshold to flag more potential screens
-    threshold = 130 if aggressive else 80
+    threshold = 130 if aggressive else 60
     if lap_var < threshold:
         screen_indicators += 1
     total_checks += 1
@@ -62,7 +62,7 @@ def detect_screen(frame, aggressive=True):
         ratio = high_freq_energy / (low_freq_energy + 1e-6)
        
         # Screens show higher high-frequency patterns
-        if ratio > 0.10:
+        if ratio > 0.25:
             screen_indicators += 1
         total_checks += 1
     except:
@@ -109,7 +109,7 @@ def detect_screen(frame, aggressive=True):
     sat_std = np.std(saturation)
    
     # Low variance in saturation = screen
-    if sat_std < 38:
+    if sat_std < 28:
         screen_indicators += 1
     total_checks += 1
    
@@ -121,7 +121,7 @@ def detect_screen(frame, aggressive=True):
     edge_density = np.sum(edges > 0) / edges.size
    
     # Anomalous edge density
-    if edge_density < 0.04 or edge_density > 0.18:
+    if edge_density < 0.03 or edge_density > 0.25:
         screen_indicators += 1
     total_checks += 1
    
@@ -153,7 +153,7 @@ def detect_screen(frame, aggressive=True):
     texture_variance = np.mean(local_var)
    
     # Screens have lower texture variance
-    if texture_variance < 60:
+    if texture_variance < 40:
         screen_indicators += 1
     total_checks += 1
    
@@ -174,7 +174,7 @@ def detect_screen(frame, aggressive=True):
     # Final Decision - STRICT
     # ========================================
     # Require at least 4 out of 9 indicators for aggressive mode
-    required_indicators = 4 if aggressive else 5
+    required_indicators = 4 if aggressive else 6
    
     is_screen = screen_indicators >= required_indicators
    
