@@ -1,0 +1,49 @@
+# --------------------------
+# Environments & Secrets
+# --------------------------
+venv/
+env/
+.env
+.venv/
+
+# --------------------------
+# VS Code / IDEs
+# --------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --------------------------
+# Byte-compiled / Built python files
+# --------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# --------------------------
+# Distribution / packaging
+# --------------------------
+build/
+dist/
+*.egg-info/
+*.egg
+
+# --------------------------
+# Unit test / coverage reports
+# --------------------------
+.coverage
+.pytest_cache/
+htmlcov/
+
+# --------------------------
+# OS specific
+# --------------------------
+.DS_Store
+
+# --------------------------
+# Local Databases
+# --------------------------
+*.sqlite3
+*.db

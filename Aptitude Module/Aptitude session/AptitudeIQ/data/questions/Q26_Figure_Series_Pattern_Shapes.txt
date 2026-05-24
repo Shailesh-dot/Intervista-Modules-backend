@@ -1,0 +1,543 @@
+================================================================
+TOPIC 26: FIGURE SERIES (PATTERN-BASED SHAPES)
+100 Questions with Options and Answers
+================================================================
+
+INSTRUCTIONS: Study the pattern in the series of figures and
+choose the figure that comes next or completes the series.
+
+----------------------------------------------------------------
+SECTION A: SHAPE TRANSFORMATION SERIES (Q1–30)
+----------------------------------------------------------------
+
+Q1. Series: ▲ ▲▲ ▲▲▲ ▲▲▲▲ ?
+    (A) ▲▲▲▲  (B) ▲▲▲▲▲  (C) ▲▲▲  (D) ▲▲▲▲▲▲
+    ANSWER: (B)
+
+Q2. A square is divided into halves, then quarters, then eighths.
+    The next figure shows the square divided into: ?
+    (A) Tenths    (B) Twelfths
+    (C) Sixteenths (D) Sixths
+    ANSWER: (C)
+
+Q3. Series: figure with 1 line of symmetry, 2 lines, 3 lines,
+    4 lines, ?
+    (A) 4 lines  (B) 5 lines  (C) 6 lines  (D) 8 lines
+    ANSWER: (B)
+
+Q4. Figures: a circle, a circle with a horizontal diameter drawn,
+    a circle with two diameters, a circle with three diameters, ?
+    (A) Circle with four diameters    (B) Filled circle
+    (C) Circle with two diameters     (D) Circle with five diameters
+    ANSWER: (A)
+
+Q5. Pattern: a dot moves clockwise around a square's corners —
+    top-left, top-right, bottom-right, bottom-left, top-left, ?
+    (A) Top-left    (B) Top-right
+    (C) Bottom-left (D) Bottom-right
+    ANSWER: (B)
+
+Q6. Series of shapes where each shape has one fewer side than
+    the previous: octagon → heptagon → hexagon → pentagon → ?
+    (A) Pentagon  (B) Square  (C) Triangle  (D) Circle
+    ANSWER: (B)
+
+Q7. Each figure shows a rectangle with an increasing number of
+    horizontal lines inside: 1, 2, 3, 4, ?
+    (A) 4  (B) 5  (C) 6  (D) 3
+    ANSWER: (B)
+
+Q8. A series of figures shows a spiral that gains one more
+    revolution each time: 1-turn, 2-turn, 3-turn, ?
+    (A) 3-turn  (B) 4-turn  (C) 5-turn  (D) 6-turn
+    ANSWER: (B)
+
+Q9. Figures: equilateral triangle rotated 0°, 60°, 120°, 180°, ?
+    (A) 200°  (B) 220°  (C) 240°  (D) 260°
+    ANSWER: (C)
+
+Q10. A series shows nested triangles: 1 triangle, 1 inside 1,
+     1 inside 2, 1 inside 3, ?
+     (A) 1 inside 3  (B) 1 inside 4  (C) 1 inside 5  (D) 2 inside 3
+     ANSWER: (B)
+
+Q11. Figures: filled star, star with one point outlined, star
+     with two points outlined, star with three points outlined, ?
+     (A) Star with four points outlined
+     (B) Star with five points outlined (all)
+     (C) Fully outlined star
+     (D) Star with three points outlined
+     ANSWER: (A)
+
+Q12. Each figure in the series has the shape of the previous
+     figure PLUS a new triangle added to one side. Figures:
+     triangle, diamond (2 triangles), trapezoid-like (3), ?
+     (A) Pentagon-like (4 triangles)
+     (B) Hexagon-like  (5 triangles)
+     (C) Same shape
+     (D) Triangle removed
+     ANSWER: (A)
+
+Q13. Series: circle, circle with inscribed triangle, circle with
+     inscribed square, circle with inscribed pentagon, ?
+     (A) Circle with inscribed hexagon
+     (B) Circle with inscribed triangle again
+     (C) Circle with inscribed circle
+     (D) Circle with inscribed octagon
+     ANSWER: (A)
+
+Q14. Shading pattern in a 2×2 grid: TL shaded only; TL+TR shaded;
+     TL+TR+BR shaded; all 4 shaded; then: ?
+     (A) All 4 shaded   (B) 3 shaded (TR+BR+BL)
+     (C) Empty          (D) TL shaded only
+     ANSWER: (C) [pattern resets or reverses — if reversing: 3 shaded]
+     ANSWER: (D) [if cycling: back to TL only]
+
+Q15. A series: the shape gains one vertex each time —
+     3 vertices (triangle), 4 (square), 5 (pentagon), ?
+     (A) 5-vertex  (B) 6-vertex  (C) 7-vertex  (D) 8-vertex
+     ANSWER: (B)
+
+Q16. Figures show an arrow that rotates 45° counterclockwise
+     each step: →, ↗, ↑, ↖, ←, ↙, ↓, ↘, ?
+     (A) →  (B) ↗  (C) ↑  (D) ↖
+     ANSWER: (A)
+
+Q17. A dot inside a circle moves clockwise by 90° each step:
+     top, right, bottom, left, ?
+     (A) Left  (B) Right  (C) Top  (D) Bottom
+     ANSWER: (C)
+
+Q18. Number of lines in each figure: 2, 4, 8, 16, ?
+     (A) 20  (B) 24  (C) 32  (D) 64
+     ANSWER: (C)
+
+Q19. Pattern: one large shape, two medium shapes, four small
+     shapes, eight tiny shapes, ?
+     (A) Sixteen micro shapes   (B) Eight small shapes
+     (C) Four medium shapes     (D) Twelve micro shapes
+     ANSWER: (A)
+
+Q20. A series shows a clock with minute hand advancing 15 min
+     each step: 12:00, 12:15, 12:30, 12:45, ?
+     (A) 12:55  (B) 1:00  (C) 1:05  (D) 12:50
+     ANSWER: (B)
+
+Q21. Figures: an L-shape, a T-shape, an S-shape, a Z-shape, ?
+     (These are Tetromino shapes) Next: ?
+     (A) I-shape  (B) O-shape  (C) J-shape  (D) L-shape
+     ANSWER: (A) [I-tetromino is commonly next in standard enumeration]
+
+Q22. A series of hexagons where alternate segments are shaded:
+     0 segments, 1 segment, 2 alternate segments, 3 alternate, ?
+     (A) 4 segments    (B) 4 alternate segments
+     (C) 5 segments    (D) 6 segments (all)
+     ANSWER: (B)
+
+Q23. Series: diamond (rotated square), square, diamond, square, ?
+     (A) Diamond  (B) Square  (C) Pentagon  (D) Hexagon
+     ANSWER: (A)
+
+Q24. Figures: small black dot, small white dot, medium black dot,
+     medium white dot, large black dot, ?
+     (A) Large black dot   (B) Large white dot
+     (C) Huge black dot    (D) Medium white dot
+     ANSWER: (B)
+
+Q25. A pentagon rotates 72° clockwise each step. After 5 steps
+     it is back to original. Steps: 0°, 72°, 144°, 216°, 288°, ?
+     (A) 360° = same as 0°    (B) 300°
+     (C) 330°                  (D) 270°
+     ANSWER: (A)
+
+Q26. Figures show: 1 star, 2 stars, 4 stars, 8 stars, ?
+     (A) 10 stars  (B) 12 stars  (C) 16 stars  (D) 14 stars
+     ANSWER: (C)
+
+Q27. Figures show stacked horizontal lines growing taller:
+     Height 1, Height 2, Height 3, Height 4, ?
+     (A) Height 4  (B) Height 5  (C) Height 6  (D) Height 3
+     ANSWER: (B)
+
+Q28. Pattern: rectangle → rectangle with rounded corners →
+     oval → circle → ?
+     (A) Square      (B) Oval
+     (C) Pentagon    (D) Dot
+     ANSWER: (D) [continues shrinking; or repeats]
+
+Q29. A series of figures shows a triangle flipping: point up,
+     point right, point down, point left, point up, ?
+     (A) Point left   (B) Point down
+     (C) Point right  (D) Point up
+     ANSWER: (C)
+
+Q30. Figures: 0 holes, 1 hole, 2 holes, 3 holes in a shape, ?
+     (A) 3 holes  (B) 4 holes  (C) 5 holes  (D) 6 holes
+     ANSWER: (B)
+
+----------------------------------------------------------------
+SECTION B: NUMERIC & SIZE PATTERN SERIES (Q31–60)
+----------------------------------------------------------------
+
+Q31. Figures each contain a number. Series: 2, 4, 8, 16, ?
+     (A) 18  (B) 24  (C) 32  (D) 28
+     ANSWER: (C)
+
+Q32. Sizes of shapes: 100%, 75%, 50%, 25%, ?
+     (A) 10%  (B) 15%  (C) 0%  (D) 5%
+     ANSWER: (C) [continues decreasing by 25%; 0% = disappears]
+     ANSWER: (A) [if 25%→10% pattern]
+
+Q33. Figures: shape divided into 2, 3, 5, 8, 13 regions
+     (Fibonacci). Next: ?
+     (A) 18  (B) 20  (C) 21  (D) 16
+     ANSWER: (C)
+
+Q34. Side lengths of shapes in the series: 1, 2, 3, 5, 8, ?
+     (Fibonacci pattern)
+     (A) 10  (B) 11  (C) 12  (D) 13
+     ANSWER: (D)
+
+Q35. Each figure has N small squares where N = n² (n=1,2,3...):
+     1, 4, 9, 16, ?
+     (A) 20  (B) 25  (C) 30  (D) 36
+     ANSWER: (B)
+
+Q36. Area of shape (in sq units): 1, 2, 4, 8, ?
+     (A) 12  (B) 14  (C) 16  (D) 18
+     ANSWER: (C)
+
+Q37. Perimeter of shape series: 4, 8, 12, 16, ?
+     (A) 18  (B) 20  (C) 22  (D) 24
+     ANSWER: (B)
+
+Q38. Figures contain dots arranged in rows: 1, 1+2=3, 1+2+3=6,
+     1+2+3+4=10, ?
+     (A) 13  (B) 14  (C) 15  (D) 16
+     ANSWER: (C)
+
+Q39. Shapes: circle with diameter 1, 2, 4, 8, ?
+     (A) 12  (B) 14  (C) 16  (D) 18
+     ANSWER: (C)
+
+Q40. Number of sides: 10, 8, 6, 4, ?
+     (A) 3  (B) 2  (C) 1  (D) 0
+     ANSWER: (A)
+
+Q41. Figures show: 1 square, 1+3=4 squares, 4+5=9, 9+7=16, ?
+     (Add consecutive odd numbers: next odd = 9, so 16+9=25)
+     (A) 21  (B) 23  (C) 25  (D) 27
+     ANSWER: (C)
+
+Q42. Circles in each figure: 1, 4, 9, 16, 25, ?
+     (A) 30  (B) 33  (C) 36  (D) 40
+     ANSWER: (C)
+
+Q43. Weight of shapes (conceptually): feather, paperclip, coin,
+     pen, book, ? (increasing weight series)
+     (A) Laptop  (B) Paperclip  (C) Feather  (D) Coin
+     ANSWER: (A)
+
+Q44. A series of rectangles with increasing length but constant
+     width: 1×4, 1×5, 1×6, 1×7, ?
+     (A) 1×7  (B) 1×8  (C) 2×8  (D) 1×9
+     ANSWER: (B)
+
+Q45. Number of triangles visible in a series of equilateral
+     triangles divided progressively: 1, 5, 13, 25, ?
+     (Differences: 4, 8, 12 → next diff = 16 → 25+16=41)
+     (A) 35  (B) 37  (C) 41  (D) 45
+     ANSWER: (C)
+
+Q46. Shapes' interior angles sum: 180°, 360°, 540°, 720°, ?
+     (Triangle, square, pentagon, hexagon → heptagon)
+     (A) 800°  (B) 860°  (C) 900°  (D) 960°
+     ANSWER: (C)
+
+Q47. Figures contain grids: 1×1, 2×2, 3×3, 4×4, ?
+     (A) 4×4  (B) 5×5  (C) 6×6  (D) 5×6
+     ANSWER: (B)
+
+Q48. Area ratios: 1:1, 1:2, 1:4, 1:8, ?
+     (A) 1:10  (B) 1:12  (C) 1:14  (D) 1:16
+     ANSWER: (D)
+
+Q49. Figures show checkerboard patterns with increasing size:
+     2×2, 3×3, 4×4, 5×5, ?
+     (A) 5×5  (B) 6×6  (C) 7×7  (D) 8×8
+     ANSWER: (B)
+
+Q50. Number of diagonals of polygon: 0 (triangle), 2 (square),
+     5 (pentagon), 9 (hexagon), ?
+     (A) 12  (B) 14  (C) 15  (D) 18
+     ANSWER: (B) [heptagon: 7(7-3)/2 = 14]
+
+Q51. Each figure shows a square with side n: n=1,2,3,4. The
+     number of unit squares = n². For n=5: ?
+     (A) 20  (B) 24  (C) 25  (D) 30
+     ANSWER: (C)
+
+Q52. Figures: 1 circle, 3 circles, 6 circles, 10 circles
+     (triangular numbers), ?
+     (A) 13  (B) 14  (C) 15  (D) 16
+     ANSWER: (C)
+
+Q53. Pattern: shape with 1 cut, 2 cuts, 4 cuts, 8 cuts, ?
+     (A) 12  (B) 14  (C) 16  (D) 18
+     ANSWER: (C)
+
+Q54. Height of bar in bar chart series: 2, 4, 6, 8, ?
+     (A) 8  (B) 9  (C) 10  (D) 12
+     ANSWER: (C)
+
+Q55. Figures show rectangles with aspect ratios: 1:2, 1:3, 1:4,
+     1:5, ?
+     (A) 1:5  (B) 1:6  (C) 1:7  (D) 2:7
+     ANSWER: (B)
+
+Q56. A figure series where shapes shrink: 100mm, 80mm, 60mm,
+     40mm, ?
+     (A) 30mm  (B) 25mm  (C) 20mm  (D) 15mm
+     ANSWER: (C)
+
+Q57. Number of interior points in figure series: 0, 1, 3, 6, ?
+     (A) 8  (B) 9  (C) 10  (D) 11
+     ANSWER: (C)
+
+Q58. Figures show L-shaped pieces of sizes: 3, 5, 7, 9 units, ?
+     (A) 10  (B) 11  (C) 12  (D) 13
+     ANSWER: (B)
+
+Q59. A series of regular polygons, each inscribed in the previous
+     one: square in circle, triangle in square, circle in
+     triangle, square in circle, ?
+     (A) Triangle in square
+     (B) Circle in square
+     (C) Pentagon in circle
+     (D) Square in triangle
+     ANSWER: (A)
+
+Q60. Number of matches needed to build the figure: 3, 5, 7, 9, ?
+     (A) 10  (B) 11  (C) 12  (D) 13
+     ANSWER: (B)
+
+----------------------------------------------------------------
+SECTION C: ROTATION, REFLECTION & MIXED SERIES (Q61–100)
+----------------------------------------------------------------
+
+Q61. A right-angle bracket ] rotates 90° clockwise each step:
+     ], ⌐, [, L, ?
+     (A) ]  (B) ⌐  (C) [  (D) L
+     ANSWER: (A)
+
+Q62. Letters in figures follow alphabetical order skipping one:
+     A, C, E, G, ?
+     (A) H  (B) I  (C) J  (D) K
+     ANSWER: (B)
+
+Q63. Figure series: P, q, d, b, ?
+     (These are rotations/reflections of P)
+     P → rotate 180° → d → flip horizontal → ?
+     Following the cycle P, q, d, b, P...
+     (A) P  (B) q  (C) d  (D) b
+     ANSWER: (A)
+
+Q64. A figure shows a clock face. Series: 3:00, 6:00, 9:00,
+     12:00, ?
+     (A) 12:00  (B) 1:00  (C) 3:00  (D) 2:00
+     ANSWER: (C)
+
+Q65. A series of flags shows a diagonal stripe moving from
+     top-left to bottom-right. Next figure shifts stripe
+     position right by one unit each time. After 4 shifts: ?
+     (A) Stripe on far right edge    (B) Stripe off the flag
+     (C) Stripe back to far left     (D) Stripe in center
+     ANSWER: (A)
+
+Q66. Shapes: isosceles triangle pointing up, right, down, left,
+     up, right, ?
+     (A) Up  (B) Left  (C) Down  (D) Right
+     ANSWER: (C)
+
+Q67. An "F" shape in the series rotates: F, ᖷ, Ⴔ, ᖴ, ?
+     (F → 90° CW → 180° → 270° CW → 360° = F)
+     (A) F  (B) ᖷ  (C) Ⴔ  (D) ᖴ
+     ANSWER: (A)
+
+Q68. A series of dice faces showing: 1, 2, 3, 4, 5, ?
+     (A) 1  (B) 6  (C) 5  (D) 4
+     ANSWER: (B)
+
+Q69. Figures: shape with shadow on right, left, right, left, ?
+     (A) Right  (B) Left  (C) No shadow  (D) Shadow below
+     ANSWER: (A)
+
+Q70. Series: heart, spade, diamond, club, heart, spade, ?
+     (A) Club  (B) Diamond  (C) Heart  (D) Spade
+     ANSWER: (B)
+
+Q71. A series alternates between two shapes: A and B. If A is a
+     circle and B is a square, sequence: A, B, A, B, A, ?
+     (A) A  (B) B  (C) C  (D) AB
+     ANSWER: (B)
+
+Q72. Figures: triangle inside circle, circle inside triangle,
+     triangle inside circle, ?
+     (A) Triangle only    (B) Circle inside triangle
+     (C) Circle only      (D) Triangle inside square
+     ANSWER: (B)
+
+Q73. Pattern: one shape appears, then the same shape mirrored,
+     then the original, then mirrored. Series: →, ←, →, ?
+     (A) ↑  (B) ←  (C) →  (D) ↓
+     ANSWER: (B)
+
+Q74. Figures show: 0 dots outside the shape, 1 dot, 2 dots,
+     4 dots, 8 dots, ?
+     (A) 10  (B) 12  (C) 14  (D) 16
+     ANSWER: (D)
+
+Q75. A series shows overlapping shapes where the overlap area
+     grows: no overlap → 10% overlap → 20% → 30% → ?
+     (A) 35%  (B) 40%  (C) 45%  (D) 50%
+     ANSWER: (B)
+
+Q76. Figures: square rotated 0°, 15°, 30°, 45°, ?
+     (A) 50°  (B) 55°  (C) 60°  (D) 65°
+     ANSWER: (C)
+
+Q77. A series of Venn diagrams: 0 circles, 1 circle, 2 circles,
+     3 circles, ?
+     (A) 3 circles  (B) 4 circles  (C) 5 circles  (D) 6 circles
+     ANSWER: (B)
+
+Q78. A figure series shows: triangle pointing NE, SE, SW, NW, ?
+     (A) NE  (B) N  (C) E  (D) S
+     ANSWER: (A)
+
+Q79. Figures show striped patterns rotating 45° each step:
+     / stripes, × stripes, \ stripes, — stripes, ?
+     (A) / stripes    (B) | stripes
+     (C) × stripes    (D) — stripes
+     ANSWER: (B) [vertical stripes, continuing 45° rotation]
+
+Q80. A series of snowflake figures gains one more branch:
+     4-branch, 5-branch, 6-branch, ?
+     (A) 6-branch  (B) 7-branch  (C) 8-branch  (D) 9-branch
+     ANSWER: (B)
+
+Q81. Figures: 2-sided angle, 3-sided triangle, 4-sided square,
+     5-sided pentagon, ?
+     (A) 5-sided  (B) 6-sided  (C) 7-sided  (D) 8-sided
+     ANSWER: (B)
+
+Q82. In a series, every third figure is shaded. Figures: □, □,
+     ■, □, □, ■, □, □, ?
+     (A) □  (B) ■  (C) ◨  (D) ▣
+     ANSWER: (B)
+
+Q83. Shapes grow larger each step but maintain the same
+     proportions. Height: 10, 15, 20, 25, ?
+     (A) 28  (B) 30  (C) 32  (D) 35
+     ANSWER: (B)
+
+Q84. A series of figures shows: one line, cross (+), asterisk
+     (*), asterisk with extra line, ?
+     (A) Asterisk with two extra lines
+     (B) Asterisk
+     (C) Cross
+     (D) Single line
+     ANSWER: (A)
+
+Q85. A letter "N" in series: N → И (reflected) → N → И → ?
+     (A) N  (B) И  (C) Z  (D) S
+     ANSWER: (A)
+
+Q86. Series of squares: 1 square, 1 square+border, 1+border+
+     outer border, ?
+     (A) 2 nested squares    (B) 3 nested squares
+     (C) 4 nested squares    (D) 5 nested squares
+     ANSWER: (C)
+
+Q87. Pattern: big shape → divide into 4 → divide each into 4 →
+     total units: 1, 4, 16, ?
+     (A) 32  (B) 48  (C) 64  (D) 128
+     ANSWER: (C)
+
+Q88. Series of "C" shapes rotating 90° clockwise: C, U, Ↄ, ∩, ?
+     (A) C  (B) U  (C) Ↄ  (D) ∩
+     ANSWER: (A)
+
+Q89. Figures show an arrow pointing in one direction from inside
+     a box. Each step the arrow moves one position clockwise
+     around the inside of the box: top, right, bottom, left, ?
+     (A) Top  (B) Right  (C) Left  (D) Bottom
+     ANSWER: (A)
+
+Q90. Each figure is the previous one PLUS one more star:
+     1 star, 2 stars, 3 stars... This is: ?
+     (A) Geometric sequence   (B) Arithmetic sequence
+     (C) Fibonacci sequence   (D) Prime sequence
+     ANSWER: (B)
+
+Q91. Shapes: outline → outline + inner dot → outline + inner
+     circle → outline + concentric circles: 0,1,2,3 circles, ?
+     (A) 4 concentric circles  (B) 3 circles
+     (C) 5 circles             (D) 2 circles
+     ANSWER: (A)
+
+Q92. A series: square, triangle removed from corner, triangle
+     removed from 2 corners, 3, 4 corners, ?
+     (A) 5 corners removed   (B) Original square
+     (C) No shape left       (D) Circle
+     ANSWER: (A)
+
+Q93. Figures: smiley face 😊, neutral face 😐, sad face 😢,
+     smiley face, neutral face, ?
+     (A) Smiley  (B) Neutral  (C) Sad  (D) Angry
+     ANSWER: (C)
+
+Q94. A series of bar charts: bar heights are 1, 2, 3, 1, 2, 3,
+     1, 2, ?
+     (A) 1  (B) 2  (C) 3  (D) 4
+     ANSWER: (C)
+
+Q95. Pattern in figures: zigzag with 1 peak, 2 peaks, 3 peaks,
+     4 peaks, ?
+     (A) 4 peaks  (B) 5 peaks  (C) 6 peaks  (D) 7 peaks
+     ANSWER: (B)
+
+Q96. A figure shows a 3D staircase growing by one step: 1 step,
+     2 steps, 3 steps, ?
+     (A) 3 steps  (B) 4 steps  (C) 5 steps  (D) 6 steps
+     ANSWER: (B)
+
+Q97. Series of compound figures: 1 circle, 2 circles side-by-
+     side, 3 circles in a row, 4 in a row, ?
+     (A) 4 circles   (B) 5 circles
+     (C) 6 circles   (D) 7 circles
+     ANSWER: (B)
+
+Q98. A series shows a shape made of matchsticks. Triangles in
+     a row: 1 triangle = 3 sticks, 2 = 5, 3 = 7, 4 = 9. ?
+     For 5 triangles: ?
+     (A) 10  (B) 11  (C) 12  (D) 13
+     ANSWER: (B)
+
+Q99. Figures: regular polygon with n sides. Series: n=3,4,5,6,7.
+     As n increases toward infinity, the polygon approaches: ?
+     (A) An ellipse    (B) A circle
+     (C) A rectangle   (D) A line
+     ANSWER: (B)
+
+Q100. A series of Penrose tiles: the pattern is aperiodic. The
+      correct description of the next figure is: ?
+      (A) Exact repetition of the first tile
+      (B) A variation consistent with aperiodic tiling rules
+      (C) Any random tile
+      (D) A circle
+      ANSWER: (B)
+
+================================================================
+END OF TOPIC 26 — 100 QUESTIONS COMPLETE
+================================================================

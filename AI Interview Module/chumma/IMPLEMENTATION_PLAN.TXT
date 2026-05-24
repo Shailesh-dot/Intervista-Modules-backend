@@ -1,0 +1,12 @@
+goal : add a fallback for when the number of calls to groq exceeds when generating questions 
+
+STATUS: ✅ DONE
+
+SOLUTION:
+- Created question_bank.py with 100+ predefined questions across 14 skill categories
+- Skill matching engine: exact → alias → partial substring matching
+- Round-robin retrieval across matched skills for diversity
+- General pool as safety net when skills don't match
+- Integrated into question_service.py: LLM fails after 15 retries → fallback activates
+- Session tracks source via "question_source" field ("llm" or "fallback_bank")
+

@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+.env
+.pytest_cache/
+.coverage
+htmlcov/
+tests/
+.git
+.gitignore
+.tmp/

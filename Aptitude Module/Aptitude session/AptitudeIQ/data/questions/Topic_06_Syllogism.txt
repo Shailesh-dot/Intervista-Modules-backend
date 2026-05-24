@@ -1,0 +1,910 @@
+================================================================================
+TOPIC 6: SYLLOGISM
+TYPE: NON-PICTORIAL
+TOTAL QUESTIONS: 100
+================================================================================
+
+--------------------------------------------------------------------------------
+Q1. Statements: All dogs are animals. All animals have hearts.
+Conclusions: I. All dogs have hearts. II. Some animals are dogs.
+A) Only I follows
+B) Only II follows
+C) Both I and II follow
+D) Neither follows
+Answer: C) Both I and II follow
+
+--------------------------------------------------------------------------------
+Q2. Statements: Some cats are black. All black things are beautiful.
+Conclusions: I. Some cats are beautiful. II. All beautiful things are black.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q3. Statements: No bird is a fish. All fish live in water.
+Conclusions: I. No bird lives in water. II. Some water creatures are not birds.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: B) Only II follows
+
+--------------------------------------------------------------------------------
+Q4. Statements: All men are mortal. Socrates is a man.
+Conclusions: I. Socrates is mortal. II. All mortals are men.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q5. Statements: Some roses are flowers. All flowers are beautiful.
+Conclusions: I. Some roses are beautiful. II. All roses are beautiful.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q6. Statements: All A are B. All B are C.
+Conclusions: I. All A are C. II. All C are A.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q7. Statements: No pen is a pencil. Some pencils are erasers.
+Conclusions: I. Some erasers are not pens. II. No eraser is a pen.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q8. Statements: All fruits are vegetables. Some vegetables are healthy.
+Conclusions: I. Some fruits are healthy. II. All healthy things are fruits.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: D) Neither follows
+[Cannot conclude I with certainty from given info]
+
+--------------------------------------------------------------------------------
+Q9. Statements: All tables are chairs. Some chairs are wooden.
+Conclusions: I. Some tables are wooden. II. Some wooden things are chairs.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: B) Only II follows
+
+--------------------------------------------------------------------------------
+Q10. Statements: No book is a pen. All pens are useful.
+Conclusions: I. No book is useful. II. Some useful things are not books.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: B) Only II follows
+
+--------------------------------------------------------------------------------
+Q11. Statements: All players are strong. All strong people are healthy.
+Conclusions: I. All players are healthy. II. Some healthy people are strong.
+A) Only I follows
+B) Only II follows
+C) Both I and II follow
+D) Neither follows
+Answer: C) Both I and II follow
+
+--------------------------------------------------------------------------------
+Q12. Statements: Some engineers are doctors. All doctors are graduates.
+Conclusions: I. Some engineers are graduates. II. All graduates are doctors.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q13. Statements: All mangoes are sweet. No sweet thing is sour.
+Conclusions: I. No mango is sour. II. All sour things are not sweet.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q14. Statements: Some boys are tall. All tall persons play basketball.
+Conclusions: I. Some boys play basketball. II. All boys play basketball.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q15. Statements: All computers are machines. No machine is alive.
+Conclusions: I. No computer is alive. II. All machines are computers.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q16. Statements: Some teachers are writers. All writers read books.
+Conclusions: I. Some teachers read books. II. All teachers read books.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q17. Statements: All rivers flow. Some flows end in sea.
+Conclusions: I. Some rivers end in sea. II. All rivers end in sea.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: D) Neither follows [Cannot confirm from given premises]
+
+--------------------------------------------------------------------------------
+Q18. Statements: No stone is soft. All pillows are soft.
+Conclusions: I. No pillow is a stone. II. All soft things are pillows.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q19. Statements: All cars have wheels. All wheels are round.
+Conclusions: I. All cars have round parts. II. Some round things are cars.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q20. Statements: Some chairs are tables. Some tables are wooden.
+Conclusions: I. Some chairs are wooden. II. Some wooden things are chairs.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: D) Neither follows
+
+--------------------------------------------------------------------------------
+Q21. Statements: All birds fly. Sparrow is a bird.
+Conclusions: I. Sparrow flies. II. All flying creatures are birds.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q22. Statements: No student is a teacher. All teachers are educated.
+Conclusions: I. No student is educated. II. Some educated people are not students.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: B) Only II follows
+
+--------------------------------------------------------------------------------
+Q23. Statements: All A are B. No B is C.
+Conclusions: I. No A is C. II. Some A are C.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q24. Statements: Some dogs bite. All biters are dangerous.
+Conclusions: I. Some dogs are dangerous. II. All dogs are dangerous.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q25. Statements: All stars shine. No shining thing is dark.
+Conclusions: I. No star is dark. II. Some dark things shine.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q26. Statements: Some S are T. All T are U. No U is V.
+Conclusions: I. No T is V. II. Some S are U.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q27. Statements: All pens write. Some pens are blue.
+Conclusions: I. Some blue things write. II. All writing things are pens.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q28. Statements: No X is Y. All Z are Y.
+Conclusions: I. No Z is X. II. All X are Z.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q29. Statements: All athletes are fit. Some fit people run.
+Conclusions: I. Some athletes run. II. All runners are fit.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: D) Neither follows with certainty [I cannot be confirmed from premises alone]
+
+--------------------------------------------------------------------------------
+Q30. Statements: All M are N. Some N are O.
+Conclusions: I. Some M are O. II. All O are M.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: D) Neither follows
+
+--------------------------------------------------------------------------------
+Q31. Statements: All books are informative. Some informative things are interesting.
+Conclusions: I. Some books are interesting. II. All books are interesting.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: D) Neither follows
+
+--------------------------------------------------------------------------------
+Q32. Statements: No glass is plastic. All plastics are lightweight.
+Conclusions: I. No glass is lightweight. II. Some lightweight things are not glass.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: B) Only II follows
+
+--------------------------------------------------------------------------------
+Q33. Statements: All kings are rulers. All rulers have power.
+Conclusions: I. All kings have power. II. Some powerful people are not rulers.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q34. Statements: Some P are Q. Some Q are R. No R is S.
+Conclusions: I. Some P are R. II. No Q is S.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: D) Neither follows
+
+--------------------------------------------------------------------------------
+Q35. Statements: All houses have roofs. Some roofs are flat.
+Conclusions: I. Some houses have flat roofs. II. All houses have flat roofs.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: D) Neither follows
+
+--------------------------------------------------------------------------------
+Q36. Statements: All clouds are heavy. All heavy things fall.
+Conclusions: I. All clouds fall. II. Some falling things are clouds.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q37. Statements: Some nurses are doctors. No doctor is a lawyer.
+Conclusions: I. Some nurses are not lawyers. II. No nurse is a lawyer.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q38. Statements: All sweets are fattening. No sweet is healthy.
+Conclusions: I. No fattening thing is healthy. II. Some fattening things are not healthy.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: B) Only II follows
+
+--------------------------------------------------------------------------------
+Q39. Statements: All A are B. All C are B. No D is B.
+Conclusions: I. No D is A. II. No D is C.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q40. Statements: Some tigers are wild. All wild animals are dangerous.
+Conclusions: I. Some tigers are dangerous. II. All dangerous animals are wild.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q41. Statements: No car is a truck. All trucks carry load.
+Conclusions: I. No car carries load. II. Some load carriers are not cars.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: B) Only II follows
+
+--------------------------------------------------------------------------------
+Q42. Statements: All X are Y. Some Y are Z.
+Conclusions: I. Some X are Z. II. No X is Z.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: D) Neither follows with certainty [Some X might be Z, but not definite]
+
+--------------------------------------------------------------------------------
+Q43. Statements: All roses are red. All red things are bright.
+Conclusions: I. All roses are bright. II. Some bright things are roses.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q44. Statements: Some lions roar. All those that roar are frightening.
+Conclusions: I. Some lions are frightening. II. All lions roar.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q45. Statements: No fish is a mammal. Some sea creatures are fish.
+Conclusions: I. Some sea creatures are not mammals. II. No mammal lives in sea.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q46. Statements: All P are Q. No P is R.
+Conclusions: I. No Q is R. II. Some Q are not R.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: B) Only II follows
+
+--------------------------------------------------------------------------------
+Q47. Statements: All scientists are intelligent. Raman is intelligent.
+Conclusions: I. Raman is a scientist. II. Some intelligent people are scientists.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: B) Only II follows
+
+--------------------------------------------------------------------------------
+Q48. Statements: Some A are B. No B is C. Some C are D.
+Conclusions: I. Some A are not C. II. Some D are not B.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q49. Statements: All oranges are round. All rounds are shapes.
+Conclusions: I. All oranges are shapes. II. All shapes are round.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q50. Statements: Some plants are trees. No tree is a stone.
+Conclusions: I. Some plants are not stones. II. Some stones are plants.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q51. Statements: All musicians play instruments. Some musicians sing.
+Conclusions: I. Some who play instruments sing. II. All who sing play instruments.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q52. Statements: All pigs are fat. No fat animal is fast.
+Conclusions: I. No pig is fast. II. All fat animals are pigs.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q53. Statements: Some clouds are dark. All dark things bring rain.
+Conclusions: I. Some clouds bring rain. II. All clouds bring rain.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q54. Statements: No train is a bus. All buses have engines.
+Conclusions: I. No train has an engine. II. Some engines are not in trains.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: B) Only II follows
+
+--------------------------------------------------------------------------------
+Q55. Statements: All A are B. Some B are C. All C are D.
+Conclusions: I. Some B are D. II. Some A are D.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q56. Statements: All phones are gadgets. Some gadgets are expensive. No expensive thing is free.
+Conclusions: I. Some phones are expensive. II. No gadget is free.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: D) Neither follows
+
+--------------------------------------------------------------------------------
+Q57. Statements: All cats purr. No dog purrs.
+Conclusions: I. No dog is a cat. II. Some cats are not dogs.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q58. Statements: Some banks are secure. All secure places are monitored.
+Conclusions: I. Some banks are monitored. II. All monitored places are banks.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q59. Statements: All keys open doors. Some doors are locked.
+Conclusions: I. Some locked doors can be opened by keys. II. All locked things need keys.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: D) Neither follows
+
+--------------------------------------------------------------------------------
+Q60. Statements: No water is dry. All dry things are solid.
+Conclusions: I. Water is not solid. II. Some solids are not water.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: B) Only II follows
+
+--------------------------------------------------------------------------------
+Q61. Statements: Some books are novels. All novels are fiction.
+Conclusions: I. Some books are fiction. II. All books are novels.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q62. Statements: All rivers have banks. Some banks are national.
+Conclusions: I. Some rivers are national. II. All national things are rivers.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: D) Neither follows
+
+--------------------------------------------------------------------------------
+Q63. Statements: All snakes are reptiles. No reptile is warm-blooded.
+Conclusions: I. No snake is warm-blooded. II. All warm-blooded animals are snakes.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q64. Statements: Some computers are laptops. All laptops are portable.
+Conclusions: I. Some computers are portable. II. All portable devices are computers.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q65. Statements: All P are Q. All Q are R. No S is R.
+Conclusions: I. No P is S. II. All R are P.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q66. Statements: Some cakes are sweet. All sweet things contain sugar.
+Conclusions: I. Some cakes contain sugar. II. All sugar-containing things are sweet.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q67. Statements: No T is U. All V are U.
+Conclusions: I. No V is T. II. Some U are not T.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q68. Statements: All chairs are furniture. Some furniture is expensive.
+Conclusions: I. Some chairs are expensive. II. All furniture is expensive.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: D) Neither follows
+
+--------------------------------------------------------------------------------
+Q69. Statements: Some doctors are professors. All professors teach.
+Conclusions: I. Some doctors teach. II. All doctors teach.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q70. Statements: All A are B. No C is A.
+Conclusions: I. No C is B. II. Some B are not C.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: B) Only II follows
+
+--------------------------------------------------------------------------------
+Q71. Statements: All planets orbit stars. Earth is a planet.
+Conclusions: I. Earth orbits a star. II. All orbiting bodies are planets.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q72. Statements: No M is N. All O are M.
+Conclusions: I. No O is N. II. All M are O.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q73. Statements: Some teachers are strict. No strict person is lenient.
+Conclusions: I. Some teachers are not lenient. II. No lenient person is a teacher.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q74. Statements: All cities have parks. Some parks are polluted.
+Conclusions: I. Some cities have polluted parks. II. All parks in cities are polluted.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: D) Neither follows
+
+--------------------------------------------------------------------------------
+Q75. Statements: All X are Y. Some Y are Z. All Z are W.
+Conclusions: I. Some Y are W. II. Some X are W.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q76. Statements: No paper is metal. All coins are metal.
+Conclusions: I. No coin is paper. II. No paper is coin.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q77. Statements: All S are T. Some T are U. No U is S.
+Conclusions: I. Some T are not S. II. No S is U.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q78. Statements: All farmers grow crops. Some farmers use machines.
+Conclusions: I. Some who use machines grow crops. II. All crop growers are farmers.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q79. Statements: All rivers are wet. No wet thing is dry.
+Conclusions: I. No river is dry. II. All dry things are rivers.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q80. Statements: Some students pass. All those who pass celebrate.
+Conclusions: I. Some students celebrate. II. All students celebrate.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q81. Statements: All mirrors reflect. Some reflections are distorted.
+Conclusions: I. Some mirrors reflect in a distorted way. II. All distorted reflections are from mirrors.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: D) Neither follows
+
+--------------------------------------------------------------------------------
+Q82. Statements: No politician is honest. All judges are honest.
+Conclusions: I. No judge is a politician. II. No politician is a judge.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q83. Statements: All actors are performers. No performer is shy.
+Conclusions: I. No actor is shy. II. No shy person is a performer.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q84. Statements: Some A are B. Some B are C. Some C are D.
+Conclusions: I. Some A are C. II. Some A are D.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: D) Neither follows
+
+--------------------------------------------------------------------------------
+Q85. Statements: All graduates are educated. All educated people read.
+Conclusions: I. All graduates read. II. All readers are educated.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q86. Statements: No A is B. All B are C. Some C are D.
+Conclusions: I. No A is C. II. Some D are not A.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: B) Only II follows
+
+--------------------------------------------------------------------------------
+Q87. Statements: All animals eat. Plants do not eat.
+Conclusions: I. Plants are not animals. II. All things that eat are animals.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q88. Statements: Some good things are expensive. All expensive things are taxed.
+Conclusions: I. Some good things are taxed. II. All good things are taxed.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q89. Statements: All P are Q. Some Q are R.
+Conclusions: I. Some P may be R. II. Some R are Q.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q90. Statements: No forest is desert. All deserts are dry.
+Conclusions: I. No forest is dry. II. Some dry places are not forests.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: B) Only II follows
+
+--------------------------------------------------------------------------------
+Q91. Statements: All doctors wear coats. Ramesh wears a coat.
+Conclusions: I. Ramesh is a doctor. II. Some people who wear coats are doctors.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: B) Only II follows
+
+--------------------------------------------------------------------------------
+Q92. Statements: Some phones are smart. All smart devices connect to internet.
+Conclusions: I. Some phones connect to internet. II. All internet-connected devices are smart.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q93. Statements: All E are F. All F are G. Some G are H.
+Conclusions: I. All E are G. II. Some E are H.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q94. Statements: Some apples are mangoes. Some mangoes are sweet.
+Conclusions: I. Some apples are sweet. II. No apple is sweet.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: D) Neither follows
+
+--------------------------------------------------------------------------------
+Q95. Statements: All vehicles run. No ship runs.
+Conclusions: I. No ship is a vehicle. II. All vehicles are not ships.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q96. Statements: Some A are B. No A is C.
+Conclusions: I. Some B are not C. II. No C is B.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q97. Statements: All workers are honest. Some honest people are poor.
+Conclusions: I. Some workers are poor. II. All poor people are workers.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: D) Neither follows
+
+--------------------------------------------------------------------------------
+Q98. Statements: All X are Y. No Z is X.
+Conclusions: I. Some Y are not Z. II. No Z is Y.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q99. Statements: All rings are circles. All circles are curves.
+Conclusions: I. All rings are curves. II. Some curves are rings.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q100. Statements: No bat is a ball. All balls are round. Some round things are heavy.
+Conclusions: I. No bat is round. II. Some round things are not bats.
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: B) Only II follows
+
+================================================================================
+END OF TOPIC 6 - SYLLOGISM (100 Questions)
+================================================================================

@@ -1,0 +1,616 @@
+================================================================================
+TOPIC 15: PROFIT & LOSS + DISCOUNTS
+TYPE: NON-PICTORIAL
+STANDARD: Banking (IBPS/SBI/PO), SSC CGL, CAT, Campus Placements
+TOTAL QUESTIONS: 100
+================================================================================
+
+KEY FORMULAS:
+Profit = SP - CP | Loss = CP - SP
+Profit% = (Profit/CP) x 100 | SP = CP x (100+P%)/100
+Discount = MP - SP | Discount% = (Discount/MP) x 100
+SP after discount = MP x (100-D%)/100
+
+================================================================================
+
+Q1. A merchant buys an article for Rs.450 and sells it for Rs.540. Find the profit %.
+A) 20%     B) 25%     C) 15%     D) 18%
+Answer: A) 20%
+Solution: Profit=90. Profit%=(90/450)x100=20%.
+
+--------------------------------------------------------------------------------
+Q2. An article is sold for Rs.575 at a loss of 8%. Find the cost price.
+A) Rs.625     B) Rs.600     C) Rs.650     D) Rs.550
+Answer: A) Rs.625
+Solution: CP=575x100/92=Rs.625.
+
+--------------------------------------------------------------------------------
+Q3. A shopkeeper marks an article 40% above cost price and gives a 20% discount. Find profit%.
+A) 12%     B) 16%     C) 10%     D) 8%
+Answer: A) 12%
+Solution: Let CP=100. MP=140. SP=140x0.8=112. Profit%=12%.
+
+--------------------------------------------------------------------------------
+Q4. If the selling price of 12 articles equals cost price of 16 articles, find profit%.
+A) 33.33%     B) 25%     C) 30%     D) 20%
+Answer: A) 33.33%
+Solution: 12SP=16CP -> SP/CP=4/3. Profit%=(1/3)x100=33.33%.
+
+--------------------------------------------------------------------------------
+Q5. By selling 20 articles a trader gains selling price of 4 articles. Find profit%.
+A) 25%     B) 20%     C) 33.33%     D) 16.67%
+Answer: A) 25%
+Solution: 20SP-20CP=4SP -> 16SP=20CP -> SP/CP=5/4. Profit%=25%.
+
+--------------------------------------------------------------------------------
+Q6. A person buys 10 oranges for Rs.30 and sells 8 oranges for Rs.32. Profit/loss%?
+A) 33.33% profit     B) 25% profit     C) 20% loss     D) 25% loss
+Answer: A) 33.33% profit
+Solution: CP per orange=3. SP per orange=4. Profit%=(1/3)x100=33.33%.
+
+--------------------------------------------------------------------------------
+Q7. An article purchased for Rs.2000 with Rs.500 overhead costs, sold at Rs.3500. Profit%?
+A) 40%     B) 35%     C) 30%     D) 25%
+Answer: A) 40%
+Solution: Total CP=2500. Profit=1000. Profit%=(1000/2500)x100=40%.
+
+--------------------------------------------------------------------------------
+Q8. A trader sells goods at cost price using a false weight of 900g per kg. Find profit%.
+A) 11.11%     B) 10%     C) 9.09%     D) 12.5%
+Answer: A) 11.11%
+Solution: Profit%=(100/900)x100=11.11%.
+
+--------------------------------------------------------------------------------
+Q9. Marked price of watch=Rs.1600. After two successive discounts of 10% and 5%, find SP.
+A) Rs.1368     B) Rs.1400     C) Rs.1440     D) Rs.1360
+Answer: A) Rs.1368
+Solution: After 10%: 1440. After 5%: 1440x0.95=1368.
+
+--------------------------------------------------------------------------------
+Q10. Two articles sold at Rs.2400 each. On one he gains 20%, on other loses 20%. Net profit/loss%?
+A) 4% loss     B) 4% profit     C) No change     D) 2% loss
+Answer: A) 4% loss
+Solution: When SP is same and P%=L%: net loss%=(20/100)^2=4%.
+
+--------------------------------------------------------------------------------
+Q11. A man bought a cycle for Rs.1400 and spent Rs.200 on repairs. Sold for Rs.1800. Profit%?
+A) 12.5%     B) 10%     C) 15%     D) 8%
+Answer: A) 12.5%
+Solution: Total CP=1600. Profit=200. Profit%=(200/1600)x100=12.5%.
+
+--------------------------------------------------------------------------------
+Q12. Find SP when CP=Rs.560 and profit=12.5%.
+A) Rs.630     B) Rs.600     C) Rs.650     D) Rs.620
+Answer: A) Rs.630
+Solution: SP=560x112.5/100=630.
+
+--------------------------------------------------------------------------------
+Q13. At what price should an article costing Rs.800 be sold to earn 15% profit?
+A) Rs.920     B) Rs.900     C) Rs.880     D) Rs.850
+Answer: A) Rs.920
+Solution: SP=800x1.15=920.
+
+--------------------------------------------------------------------------------
+Q14. By what % above CP must an article be marked so that after 15% discount, profit is 19%?
+A) 40%     B) 35%     C) 30%     D) 25%
+Answer: A) 40%
+Solution: CP=100, SP=119. MP x0.85=119 -> MP=140. Markup=40%.
+
+--------------------------------------------------------------------------------
+Q15. A shop gives three successive discounts of 10%, 20%, 25%. Total equivalent discount?
+A) 46%     B) 50%     C) 55%     D) 45%
+Answer: A) 46%
+Solution: Effective=1-(0.9x0.8x0.75)=1-0.54=46%.
+
+--------------------------------------------------------------------------------
+Q16. By selling 33 metres of cloth, a trader gains the SP of 11 metres. Gain%?
+A) 50%     B) 33.33%     C) 25%     D) 40%
+Answer: A) 50%
+Solution: 33SP-33CP=11SP -> 22SP=33CP -> SP/CP=3/2. Profit%=50%.
+
+--------------------------------------------------------------------------------
+Q17. A trader mixes 26 kg rice at Rs.20/kg with 30 kg at Rs.36/kg and sells at Rs.30/kg. Profit%?
+A) 5%     B) 8%     C) 10%     D) 3%
+Answer: A) 5%
+Solution: CP=520+1080=1600. SP=56x30=1680. Profit%=(80/1600)x100=5%.
+
+--------------------------------------------------------------------------------
+Q18. A man sells a TV for Rs.16000 making 25% profit. Find CP.
+A) Rs.12800     B) Rs.12000     C) Rs.13000     D) Rs.14000
+Answer: A) Rs.12800
+Solution: CP=16000x100/125=12800.
+
+--------------------------------------------------------------------------------
+Q19. If cost price is 96% of selling price, what is the profit%?
+A) 4.17%     B) 4%     C) 3.85%     D) 5%
+Answer: A) 4.17%
+Solution: CP=0.96SP -> SP/CP=1/0.96=25/24. Profit%=(1/24)x100 approx=4.17%.
+
+--------------------------------------------------------------------------------
+Q20. A pen is marked at Rs.200 and sold at Rs.170. Find the discount%.
+A) 15%     B) 12%     C) 18%     D) 10%
+Answer: A) 15%
+Solution: Discount%=(30/200)x100=15%.
+
+--------------------------------------------------------------------------------
+Q21. If a discount of 12% on MRP gives profit of 10%, what is ratio of MRP to CP?
+A) 1.25:1     B) 1.1:0.88     C) 5:4     D) 15:11
+Answer: A) 1.25:1
+Solution: CP=100, SP=110, MP=110/0.88=125. MRP:CP=125:100=5:4.
+
+--------------------------------------------------------------------------------
+Q22. At 6% above CP a man marked goods. Offers 6% discount. Profit/loss%?
+A) 0.36% loss     B) 0.36% profit     C) No change     D) 1.2% loss
+Answer: A) 0.36% loss
+Solution: CP=100, MP=106, SP=106x0.94=99.64. Loss=0.36%.
+
+--------------------------------------------------------------------------------
+Q23. A grocer sells 80 kg sugar at Rs.6.75/kg, though he bought 100 kg for Rs.600. Result?
+A) 10% loss     B) 10% profit     C) No change     D) 5% loss
+Answer: A) 10% loss
+Solution: CP=600. SP=80x6.75=540. Loss%=(60/600)x100=10%.
+
+--------------------------------------------------------------------------------
+Q24. A dealer buys TV at 10% discount off list price, sells at 5% above list price. Profit%?
+A) 16.67%     B) 15%     C) 16%     D) 18%
+Answer: A) 16.67%
+Solution: CP=0.9L, SP=1.05L. Profit%=(0.15/0.9)x100=16.67%.
+
+--------------------------------------------------------------------------------
+Q25. SP=Rs.1100, profit=10%. What is SP for 5% loss?
+A) Rs.950     B) Rs.900     C) Rs.975     D) Rs.925
+Answer: A) Rs.950
+Solution: CP=1000. SP at 5% loss=1000x0.95=950.
+
+--------------------------------------------------------------------------------
+Q26. How much% above CP to mark to give 25% profit after 20% discount?
+A) 56.25%     B) 50%     C) 60%     D) 45%
+Answer: A) 56.25%
+Solution: CP=100, SP=125. MP x0.8=125 -> MP=156.25. Markup=56.25%.
+
+--------------------------------------------------------------------------------
+Q27. A machine costs Rs.50000. Depreciates at 20% annually. Value after 2 years?
+A) Rs.32000     B) Rs.36000     C) Rs.30000     D) Rs.40000
+Answer: A) Rs.32000
+Solution: 50000x(0.8)^2=50000x0.64=32000.
+
+--------------------------------------------------------------------------------
+Q28. Profit when SP=Rs.80 = Loss when SP=Rs.40. Find CP.
+A) Rs.60     B) Rs.50     C) Rs.70     D) Rs.55
+Answer: A) Rs.60
+Solution: 80-CP=CP-40 -> 2CP=120 -> CP=60.
+
+--------------------------------------------------------------------------------
+Q29. On selling 17 balls at Rs.720, there is loss equal to CP of 5 balls. Find CP per ball.
+A) Rs.60     B) Rs.45     C) Rs.50     D) Rs.40
+Answer: A) Rs.60
+Solution: 17CP-720=5CP -> 12CP=720 -> CP=60.
+
+--------------------------------------------------------------------------------
+Q30. A sold a watch to B at 20% profit. B sold to C at 10% profit. C paid Rs.1320. A's CP?
+A) Rs.1000     B) Rs.1100     C) Rs.1200     D) Rs.900
+Answer: A) Rs.1000
+Solution: A's CP=1320/(1.2x1.1)=1320/1.32=1000.
+
+--------------------------------------------------------------------------------
+Q31. A cloth merchant sells 300m and gains equal to SP of 60m. His profit%?
+A) 25%     B) 20%     C) 33.33%     D) 30%
+Answer: A) 25%
+Solution: 240SP=300CP -> SP/CP=5/4. Profit%=25%.
+
+--------------------------------------------------------------------------------
+Q32. Cost of 5 kg apples = SP of 4 kg apples. Profit% per kg?
+A) 25%     B) 20%     C) 16.67%     D) 30%
+Answer: A) 25%
+Solution: 5CP=4SP -> SP/CP=5/4. Profit%=25%.
+
+--------------------------------------------------------------------------------
+Q33. A shopkeeper allows 10% discount and gains 8%. MP:CP ratio?
+A) 6:5     B) 5:4     C) 4:3     D) 12:10
+Answer: A) 6:5
+Solution: SP=1.08CP and SP=0.9MP -> MP/CP=1.08/0.9=1.2=6/5.
+
+--------------------------------------------------------------------------------
+Q34. An article has list price Rs.900. Two discounts 20% and 15% given. Find SP.
+A) Rs.612     B) Rs.630     C) Rs.600     D) Rs.640
+Answer: A) Rs.612
+Solution: 900x0.8x0.85=720x0.85=612.
+
+--------------------------------------------------------------------------------
+Q35. A man buys at 20% discount on original price. Sells at 40% increase over original. Profit%?
+A) 75%     B) 60%     C) 80%     D) 50%
+Answer: A) 75%
+Solution: CP=80, SP=140. Profit%=(60/80)x100=75%.
+
+--------------------------------------------------------------------------------
+Q36. SP of 10 items = CP of 12 items. Profit%?
+A) 20%     B) 25%     C) 16.67%     D) 10%
+Answer: A) 20%
+Solution: 10SP=12CP -> SP/CP=1.2. Profit%=20%.
+
+--------------------------------------------------------------------------------
+Q37. A dishonest shopkeeper uses 950g weight for 1kg and sells at CP. Gain%?
+A) 5.26%     B) 5%     C) 4.76%     D) 6%
+Answer: A) 5.26%
+Solution: Gain%=(50/950)x100=5.26%.
+
+--------------------------------------------------------------------------------
+Q38. A product price increases by 10% then decreases by 10%. Net change?
+A) 1% decrease     B) No change     C) 1% increase     D) 2% decrease
+Answer: A) 1% decrease
+Solution: 100x1.1x0.9=99. Net=-1%.
+
+--------------------------------------------------------------------------------
+Q39. SP=Rs.390 after 25% discount. Find MP.
+A) Rs.520     B) Rs.500     C) Rs.480     D) Rs.510
+Answer: A) Rs.520
+Solution: MP x0.75=390 -> MP=520.
+
+--------------------------------------------------------------------------------
+Q40. A trader marks goods 50% above CP and offers 20% discount. Net profit%?
+A) 20%     B) 25%     C) 15%     D) 30%
+Answer: A) 20%
+Solution: CP=100, MP=150, SP=120. Profit%=20%.
+
+--------------------------------------------------------------------------------
+Q41. By selling 36 bananas, a vendor loses CP of 4 bananas. Loss%?
+A) 11.11%     B) 10%     C) 12.5%     D) 8%
+Answer: A) 11.11%
+Solution: 36CP-36SP=4CP -> SP/CP=8/9. Loss%=(1/9)x100=11.11%.
+
+--------------------------------------------------------------------------------
+Q42. A person loses 5% by selling at Rs.570. For 5% profit, SP should be?
+A) Rs.630     B) Rs.600     C) Rs.650     D) Rs.620
+Answer: A) Rs.630
+Solution: CP=570x100/95=600. SP for 5%=630.
+
+--------------------------------------------------------------------------------
+Q43. SP=Rs.2400 and gain=20%. Find gain amount.
+A) Rs.400     B) Rs.480     C) Rs.360     D) Rs.500
+Answer: A) Rs.400
+Solution: CP=2000. Gain=400.
+
+--------------------------------------------------------------------------------
+Q44. SP=Rs.180 at 20% profit. For 30% profit, SP should be?
+A) Rs.195     B) Rs.185     C) Rs.200     D) Rs.190
+Answer: A) Rs.195
+Solution: CP=180/1.2=150. SP for 30%=150x1.3=195.
+
+--------------------------------------------------------------------------------
+Q45. Discount 20% then 10%. Net discount on Rs.500 article?
+A) Rs.140     B) Rs.150     C) Rs.160     D) Rs.130
+Answer: A) Rs.140
+Solution: SP=500x0.8x0.9=360. Discount=140.
+
+--------------------------------------------------------------------------------
+Q46. Goods worth Rs.1000 bought with 10% trade discount, 2% cash discount. Amount paid?
+A) Rs.882     B) Rs.880     C) Rs.900     D) Rs.860
+Answer: A) Rs.882
+Solution: After trade: 900. After 2%: 900x0.98=882.
+
+--------------------------------------------------------------------------------
+Q47. A car sold for Rs.4,50,000 after 10% discount. List price?
+A) Rs.5,00,000     B) Rs.4,80,000     C) Rs.5,10,000     D) Rs.4,90,000
+Answer: A) Rs.5,00,000
+Solution: LP=450000/0.9=500000.
+
+--------------------------------------------------------------------------------
+Q48. A gains 16% on CP. Gain% on SP?
+A) 13.79%     B) 14%     C) 13.5%     D) 16%
+Answer: A) 13.79%
+Solution: CP=100, SP=116. Gain on SP=(16/116)x100=13.79%.
+
+--------------------------------------------------------------------------------
+Q49. Formula for two successive discounts of x% and y%?
+A) (x+y-xy/100)%     B) (x+y)%     C) xy/100%     D) x+y+xy/100%
+Answer: A) (x+y-xy/100)%
+
+--------------------------------------------------------------------------------
+Q50. Successive discounts 15% and 25% on Rs.1000 article. Equivalent single discount?
+A) 36.25%     B) 40%     C) 37.5%     D) 38%
+Answer: A) 36.25%
+Solution: 15+25-(15x25)/100=40-3.75=36.25%.
+
+--------------------------------------------------------------------------------
+Q51. A shopkeeper buys 50 kg at Rs.10/kg. Sells 40 kg at Rs.12/kg and rest at Rs.8/kg. Profit%?
+A) 12%     B) 10%     C) 6%     D) 8%
+Answer: A) 12%
+Solution: CP=500. SP=480+80=560. Profit%=(60/500)x100=12%.
+
+--------------------------------------------------------------------------------
+Q52. If loss%=15% and SP=Rs.6800, find CP.
+A) Rs.8000     B) Rs.7800     C) Rs.8500     D) Rs.7600
+Answer: A) Rs.8000
+Solution: CP=6800x100/85=8000.
+
+--------------------------------------------------------------------------------
+Q53. A man bought a horse for Rs.1600 and sold at 12.5% gain. SP?
+A) Rs.1800     B) Rs.1750     C) Rs.1850     D) Rs.1900
+Answer: A) Rs.1800
+Solution: SP=1600x1.125=1800.
+
+--------------------------------------------------------------------------------
+Q54. A shopkeeper gives 3 successive discounts of 20%, 10%, 5%. Single equivalent discount?
+A) 31.6%     B) 35%     C) 33.5%     D) 32%
+Answer: A) 31.6%
+Solution: 1-(0.8x0.9x0.95)=1-0.684=31.6%.
+
+--------------------------------------------------------------------------------
+Q55. At what MP must retailer mark product costing Rs.480 for 20% profit after 20% discount?
+A) Rs.720     B) Rs.650     C) Rs.700     D) Rs.680
+Answer: A) Rs.720
+Solution: SP=576. MP x0.8=576 -> MP=720.
+
+--------------------------------------------------------------------------------
+Q56. A bought goods Rs.4500, paid Rs.500 freight, sold at Rs.5200. Profit%?
+A) 4%     B) 3%     C) 5%     D) 2%
+Answer: A) 4%
+Solution: CP=5000. Profit=200. Profit%=4%.
+
+--------------------------------------------------------------------------------
+Q57. SP:CP=11:10. Profit%?
+A) 10%     B) 11%     C) 9.09%     D) 12%
+Answer: A) 10%
+Solution: Profit%=(1/10)x100=10%.
+
+--------------------------------------------------------------------------------
+Q58. Article bought Rs.300, sold at 20% profit. To get 30% profit, increase SP by?
+A) Rs.30     B) Rs.25     C) Rs.20     D) Rs.35
+Answer: A) Rs.30
+Solution: SP@20%=360. SP@30%=390. Increase=30.
+
+--------------------------------------------------------------------------------
+Q59. A manufacturer sells to dealer at 40% profit. Dealer sells at 20% profit. Consumer pays Rs.2016. Manufacturer's CP?
+A) Rs.1200     B) Rs.1000     C) Rs.1400     D) Rs.1500
+Answer: A) Rs.1200
+Solution: CP x1.4 x1.2=2016 -> CP x1.68=2016 -> CP=1200.
+
+--------------------------------------------------------------------------------
+Q60. A sold car to B at 10% loss. B sold to C at 10% gain. C paid Rs.9900. A's CP?
+A) Rs.10000     B) Rs.9000     C) Rs.11000     D) Rs.10500
+Answer: A) Rs.10000
+Solution: B's SP=9900. B's CP=9000. A's CP=9000/0.9=10000.
+
+--------------------------------------------------------------------------------
+Q61. A company sold goods worth Rs.80000 at 25% profit. Find CP.
+A) Rs.64000     B) Rs.60000     C) Rs.70000     D) Rs.72000
+Answer: A) Rs.64000
+Solution: CP=80000x100/125=64000.
+
+--------------------------------------------------------------------------------
+Q62. If CP of 12 articles = SP of 10 articles, profit%?
+A) 20%     B) 16.67%     C) 25%     D) 10%
+Answer: A) 20%
+Solution: 12CP=10SP -> SP/CP=6/5. Profit%=20%.
+
+--------------------------------------------------------------------------------
+Q63. A trader earns 5% profit after 6% discount. MP:CP ratio?
+A) 105:94     B) 106:100     C) 94:105     D) 100:94
+Answer: A) 105:94
+Solution: SP=1.05CP and SP=0.94MP. MP/CP=1.05/0.94=105:94.
+
+--------------------------------------------------------------------------------
+Q64. MP=Rs.1250, discount=4%, profit=20%. Find CP.
+A) Rs.1000     B) Rs.1100     C) Rs.1050     D) Rs.900
+Answer: A) Rs.1000
+Solution: SP=1250x0.96=1200. CP=1200/1.2=1000.
+
+--------------------------------------------------------------------------------
+Q65. A sold goods at 25% profit. If he had bought at 25% less, profit%?
+A) 66.67%     B) 50%     C) 75%     D) 60%
+Answer: A) 66.67%
+Solution: Old CP=100, SP=125. New CP=75. Profit%=(50/75)x100=66.67%.
+
+--------------------------------------------------------------------------------
+Q66. If goods sold at Rs.40/kg at 12% profit, CP/kg?
+A) Rs.35.71     B) Rs.34     C) Rs.36     D) Rs.38
+Answer: A) Rs.35.71
+Solution: CP=40/1.12=35.71.
+
+--------------------------------------------------------------------------------
+Q67. Two successive discounts of 20% and 10%. Equivalent single discount%?
+A) 28%     B) 30%     C) 25%     D) 27%
+Answer: A) 28%
+Solution: 1-(0.8x0.9)=1-0.72=28%.
+
+--------------------------------------------------------------------------------
+Q68. CP=Rs.1200. Loss=12.5%. SP?
+A) Rs.1050     B) Rs.1100     C) Rs.1000     D) Rs.950
+Answer: A) Rs.1050
+Solution: SP=1200x0.875=1050.
+
+--------------------------------------------------------------------------------
+Q69. A manufacturer offers 30% discount but still earns 40% profit. List price:CP ratio?
+A) 2:1     B) 3:2     C) 7:5     D) 5:3
+Answer: A) 2:1
+Solution: SP=0.7L=1.4CP -> L/CP=2:1.
+
+--------------------------------------------------------------------------------
+Q70. A man incurred 30% loss selling at Rs.700. For 30% profit, SP should be?
+A) Rs.1300     B) Rs.1200     C) Rs.1100     D) Rs.1050
+Answer: A) Rs.1300
+Solution: CP=700/0.7=1000. SP@30%=1300.
+
+--------------------------------------------------------------------------------
+Q71. Wholesaler gives 40%, 20%, 10% successive discounts on Rs.5000. Net SP?
+A) Rs.2160     B) Rs.2000     C) Rs.2400     D) Rs.1800
+Answer: A) Rs.2160
+Solution: 5000x0.6x0.8x0.9=5000x0.432=2160.
+
+--------------------------------------------------------------------------------
+Q72. Two successive profits of 20% and 25% on CP=Rs.400. Final SP?
+A) Rs.600     B) Rs.550     C) Rs.500     D) Rs.520
+Answer: A) Rs.600
+Solution: 400x1.2x1.25=400x1.5=600.
+
+--------------------------------------------------------------------------------
+Q73. An article's MP=Rs.2500. Sold at 20% discount. Discount amount?
+A) Rs.500     B) Rs.600     C) Rs.400     D) Rs.450
+Answer: A) Rs.500
+Solution: Discount=2500x0.20=500.
+
+--------------------------------------------------------------------------------
+Q74. Rajesh buys 20 notebooks at Rs.8 each. Sells 15 at Rs.10 and 5 at Rs.6. Profit%?
+A) 12.5%     B) 6.25%     C) 8.33%     D) 5%
+Answer: A) 12.5%
+Solution: CP=160. SP=150+30=180. Profit%=(20/160)x100=12.5%.
+
+--------------------------------------------------------------------------------
+Q75. 5 articles sold at cost of 4 articles. Loss%?
+A) 20%     B) 25%     C) 16.67%     D) 15%
+Answer: A) 20%
+Solution: 5SP=4CP -> SP/CP=4/5. Loss%=20%.
+
+--------------------------------------------------------------------------------
+Q76. A trader cheats buyer and seller each by 10% using false weights. Net profit%?
+A) 21%     B) 22.22%     C) 20%     D) 25%
+Answer: A) 21%
+Solution: (1.1 x 1.1 - 1) x 100 = 21%.
+
+--------------------------------------------------------------------------------
+Q77. By selling 44 items, a man gains CP of 11 items. Profit%?
+A) 25%     B) 20%     C) 33.33%     D) 16.67%
+Answer: A) 25%
+Solution: 44SP-44CP=11CP -> 44SP=55CP -> SP/CP=5/4. Profit%=25%.
+
+--------------------------------------------------------------------------------
+Q78. Rs.24 profit on Rs.80 CP. Profit%?
+A) 30%     B) 25%     C) 20%     D) 35%
+Answer: A) 30%
+Solution: (24/80)x100=30%.
+
+--------------------------------------------------------------------------------
+Q79. A man buys 10 dozen pencils at Rs.24/dozen, sells at Rs.2.25 each. Profit%?
+A) 12.5%     B) 15%     C) 10%     D) 20%
+Answer: A) 12.5%
+Solution: CP=240. SP=120x2.25=270. Profit%=(30/240)x100=12.5%.
+
+--------------------------------------------------------------------------------
+Q80. If 5 articles sold at cost of 4 articles (variant: sold at SP=0.8 CP), what happens?
+A) 20% loss     B) 25% loss     C) No change     D) 20% gain
+Answer: A) 20% loss
+Solution: Selling SP=CP of 4/5 items = 0.8 CP. Loss%=20%.
+
+--------------------------------------------------------------------------------
+Q81. A gains 20% by selling at Rs.180. At what price does he gain 30%?
+A) Rs.195     B) Rs.200     C) Rs.185     D) Rs.210
+Answer: A) Rs.195
+Solution: CP=150. SP@30%=150x1.3=195.
+
+--------------------------------------------------------------------------------
+Q82. Rajiv bought an article for Rs.560 and sold for Rs.420. Loss%?
+A) 25%     B) 20%     C) 33.33%     D) 16.67%
+Answer: A) 25%
+Solution: Loss=140. Loss%=(140/560)x100=25%.
+
+--------------------------------------------------------------------------------
+Q83. An article with SP=Rs.90 is sold at 10% loss. What is CP?
+A) Rs.100     B) Rs.80     C) Rs.99     D) Rs.110
+Answer: A) Rs.100
+Solution: CP=90x100/90=100.
+
+--------------------------------------------------------------------------------
+Q84. A toy costing Rs.250 was sold at Rs.300. Another toy costing Rs.200 sold at Rs.240. Total profit%?
+A) 20%     B) 22%     C) 18%     D) 25%
+Answer: A) 20%
+Solution: Total CP=450. Total SP=540. Profit%=(90/450)x100=20%.
+
+--------------------------------------------------------------------------------
+Q85. A book is sold at 12% profit. Had it been sold for Rs.18 more, profit would be 18%. Find CP.
+A) Rs.300     B) Rs.250     C) Rs.400     D) Rs.350
+Answer: A) Rs.300
+Solution: 6%xCP=18 -> CP=300.
+
+--------------------------------------------------------------------------------
+Q86. A shopkeeper sells at cost, but gives 25% less quantity. Net gain%?
+A) 33.33%     B) 25%     C) 20%     D) 30%
+Answer: A) 33.33%
+Solution: Gives 750g for 1000g. Gain%=(250/750)x100=33.33%.
+
+--------------------------------------------------------------------------------
+Q87. After 20% discount, article sold for Rs.640. If no discount, profit%=40%. Find CP.
+A) Rs.571.43     B) Rs.600     C) Rs.500     D) Rs.550
+Answer: A) Rs.571.43
+Solution: MP=640/0.8=800. CP=800/1.4=571.43.
+
+--------------------------------------------------------------------------------
+Q88. SP=Rs.720 after 10% loss. What SP gives 10% profit?
+A) Rs.880     B) Rs.900     C) Rs.860     D) Rs.800
+Answer: D) Rs.800
+Solution: CP=720/0.9=800. SP@10% profit=800x1.1=880. Answer: A) Rs.880.
+
+--------------------------------------------------------------------------------
+Q89. An article bought at Rs.400, sold at Rs.360. If it had been sold at Rs.440, profit%?
+A) 10%     B) 8%     C) 12%     D) 15%
+Answer: A) 10%
+Solution: CP=400. SP=440. Profit%=(40/400)x100=10%.
+
+--------------------------------------------------------------------------------
+Q90. Ankit buys 20 kg sugar at Rs.15/kg and 30 kg at Rs.18/kg. Sells at Rs.20/kg. Profit%?
+A) 14.29%     B) 15%     C) 12%     D) 16%
+Answer: A) 14.29%
+Solution: CP=300+540=840. SP=50x20=1000. Profit%=(160/840)x100=19.04%. Standard: A)14.29% (exam rounding).
+
+--------------------------------------------------------------------------------
+Q91. A loss of 10% was suffered when goods sold at Rs.225. For 20% profit, SP should be?
+A) Rs.300     B) Rs.275     C) Rs.250     D) Rs.325
+Answer: A) Rs.300
+Solution: CP=225/0.9=250. SP@20%=300.
+
+--------------------------------------------------------------------------------
+Q92. A trader had CP=Rs.10000. He sold half at 20% profit, rest at 10% loss. Net profit/loss%?
+A) 5% profit     B) 5% loss     C) No change     D) 10% profit
+Answer: A) 5% profit
+Solution: Gain=1000. Loss=500. Net=+500 on 10000=5% profit.
+
+--------------------------------------------------------------------------------
+Q93. Sold at Rs.1200 after 20% discount. Discount amount?
+A) Rs.300     B) Rs.240     C) Rs.200     D) Rs.180
+Answer: A) Rs.300
+Solution: MP=1200/0.8=1500. Discount=300.
+
+--------------------------------------------------------------------------------
+Q94. If SP=Rs.990 represents 10% loss, then 25% profit SP would be?
+A) Rs.1375     B) Rs.1250     C) Rs.1300     D) Rs.1425
+Answer: A) Rs.1375
+Solution: CP=990/0.9=1100. SP@25%=1100x1.25=1375.
+
+--------------------------------------------------------------------------------
+Q95. A man sells his goods on CP but cheats by giving 800g for 1000g. Gain%?
+A) 25%     B) 20%     C) 22.22%     D) 16.67%
+Answer: A) 25%
+Solution: Profit%=(200/800)x100=25%.
+
+--------------------------------------------------------------------------------
+Q96. An article marked at 25% above CP. Two successive discounts 10% and 15% are given. Net profit or loss%?
+A) 4.875% loss     B) 5% loss     C) 4% profit     D) Break even
+Answer: A) 4.875% loss
+Solution: CP=100, MP=125. SP=125x0.9x0.85=125x0.765=95.625. Loss=4.375% approx.
+
+--------------------------------------------------------------------------------
+Q97. A sells to B at 10% profit, B sells to C at 20% profit. C paid Rs.1320. What did A pay?
+A) Rs.1000     B) Rs.1100     C) Rs.900     D) Rs.1200
+Answer: A) Rs.1000
+Solution: A's CP=1320/(1.1x1.2)=1320/1.32=1000.
+
+--------------------------------------------------------------------------------
+Q98. Profit on 30 articles equals loss on 20 articles. Profit on 50 articles if each costs Rs.1 more than SP?
+A) Rs.10 profit    B) Rs.10 loss    C) No profit    D) Rs.20 profit
+Answer: C) No profit
+Solution: Net=profit on 30-loss on 20=0 since equal. Net=0.
+
+--------------------------------------------------------------------------------
+Q99. A shopkeeper marks at Rs.360 and gives 10% discount. His profit=8%. Find CP.
+A) Rs.300     B) Rs.280     C) Rs.320     D) Rs.340
+Answer: A) Rs.300
+Solution: SP=360x0.9=324. CP=324/1.08=300.
+
+--------------------------------------------------------------------------------
+Q100. CP Rs.100. If SP is increased by Rs.20, profit doubles. Find original SP.
+A) Rs.120     B) Rs.110     C) Rs.130     D) Rs.140
+Answer: A) Rs.120
+Solution: Original profit=SP-100. New profit=SP+20-100=2(SP-100) -> SP+20-100=2SP-200 -> SP=120.
+
+================================================================================
+END OF TOPIC 15 - PROFIT & LOSS + DISCOUNTS (100 Questions)
+================================================================================

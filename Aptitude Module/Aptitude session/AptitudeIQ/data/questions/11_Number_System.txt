@@ -1,0 +1,508 @@
+================================================================
+         TOPIC 11: NUMBER SYSTEM — 100 QUESTIONS
+         Type: NON-PICTORIAL (Text-Based)
+================================================================
+
+Q1. Which of the following is a prime number?
+    (A) 91  (B) 97  (C) 87  (D) 77
+    ANSWER: B
+    EXPLANATION: 97 is prime. 91=7×13, 87=3×29, 77=7×11.
+
+Q2. What is the unit digit of 7⁵²?
+    (A) 1  (B) 7  (C) 3  (D) 9
+    ANSWER: A
+    EXPLANATION: Unit digits of powers of 7 cycle: 7,9,3,1 (period 4). 52÷4=13 rem 0 → unit digit = 1.
+
+Q3. How many prime numbers are there between 1 and 50?
+    (A) 12  (B) 14  (C) 15  (D) 16
+    ANSWER: C
+    EXPLANATION: Primes: 2,3,5,7,11,13,17,19,23,29,31,37,41,43,47 = 15.
+
+Q4. What is the remainder when 2¹⁰⁰ is divided by 3?
+    (A) 0  (B) 1  (C) 2  (D) 3
+    ANSWER: B
+    EXPLANATION: 2¹≡2, 2²≡1(mod3), cycle 2. 100 even → 2¹⁰⁰≡1(mod3).
+
+Q5. Find the largest 4-digit number divisible by 12.
+    (A) 9996  (B) 9984  (C) 9988  (D) 9992
+    ANSWER: A
+    EXPLANATION: 9999÷12=833.25 → 833×12=9996.
+
+Q6. The difference between the squares of two consecutive integers is 47. Find the larger integer.
+    (A) 24  (B) 22  (C) 23  (D) 25
+    ANSWER: A
+    EXPLANATION: (n+1)²–n²=2n+1=47 → n=23. Larger = 24.
+
+Q7. What is the sum of all natural numbers from 1 to 100?
+    (A) 4950  (B) 5050  (C) 5100  (D) 5000
+    ANSWER: B
+    EXPLANATION: Sum = 100×101/2 = 5050.
+
+Q8. Find the number of factors of 360.
+    (A) 18  (B) 24  (C) 12  (D) 20
+    ANSWER: B
+    EXPLANATION: 360=2³×3²×5. Factors=(3+1)(2+1)(1+1)=24.
+
+Q9. Which of the following is divisible by 11?
+    (A) 121  (B) 132  (C) 143  (D) All of these
+    ANSWER: D
+    EXPLANATION: 121=11², 132=12×11, 143=13×11. All divisible by 11.
+
+Q10. What is the greatest prime factor of 1560?
+     (A) 5  (B) 13  (C) 7  (D) 11
+     ANSWER: B
+     EXPLANATION: 1560=2³×3×5×13. Greatest prime=13.
+
+Q11. A number when divided by 5 leaves remainder 3. What is the remainder when divided by 10?
+     (A) 3  (B) 8  (C) 3 or 8  (D) Cannot determine
+     ANSWER: C
+     EXPLANATION: Number = 5k+3. If k even→ ends in 3; if k odd→ ends in 8.
+
+Q12. What is the value of 1²+2²+3²+...+10²?
+     (A) 385  (B) 365  (C) 375  (D) 395
+     ANSWER: A
+     EXPLANATION: n(n+1)(2n+1)/6 = 10×11×21/6 = 385.
+
+Q13. Find the unit digit of (237)¹²⁴.
+     (A) 1  (B) 7  (C) 9  (D) 3
+     ANSWER: A
+     EXPLANATION: Unit digit of 7: cycle 7,9,3,1 (period 4). 124 mod 4=0 → unit digit=1.
+
+Q14. What is the LCM of 4, 6, and 9?
+     (A) 36  (B) 18  (C) 24  (D) 72
+     ANSWER: A
+     EXPLANATION: LCM(4,6,9)=36.
+
+Q15. What is the HCF of 144 and 180?
+     (A) 12  (B) 18  (C) 36  (D) 24
+     ANSWER: C
+     EXPLANATION: 144=2⁴×3², 180=2²×3²×5. HCF=2²×3²=36.
+
+Q16. A number is divisible by both 4 and 9. It must also be divisible by:
+     (A) 24  (B) 36  (C) 18  (D) 72
+     ANSWER: B
+     EXPLANATION: LCM(4,9)=36.
+
+Q17. What fraction equals 0.142857142857...?
+     (A) 1/7  (B) 1/6  (C) 3/21  (D) 2/14
+     ANSWER: A
+     EXPLANATION: 0.142857̄ = 1/7.
+
+Q18. What is the remainder when 17²+17 is divided by 17?
+     (A) 0  (B) 1  (C) 16  (D) 2
+     ANSWER: A
+     EXPLANATION: 17²+17=17(17+1). Divisible by 17 → remainder=0.
+
+Q19. The product of two numbers is 1600 and their HCF is 20. Find their LCM.
+     (A) 60  (B) 80  (C) 100  (D) 40
+     ANSWER: B
+     EXPLANATION: LCM = 1600/20 = 80.
+
+Q20. Which number is both a perfect square and a perfect cube?
+     (A) 64  (B) 36  (C) 81  (D) 16
+     ANSWER: A
+     EXPLANATION: 64=8²=4³.
+
+Q21. Find the value of √(0.0016).
+     (A) 0.04  (B) 0.4  (C) 0.004  (D) 4
+     ANSWER: A
+     EXPLANATION: √(16/10000)=4/100=0.04.
+
+Q22. What is the sum of the first 20 even natural numbers?
+     (A) 400  (B) 420  (C) 440  (D) 380
+     ANSWER: B
+     EXPLANATION: Sum = n(n+1) = 20×21 = 420.
+
+Q23. A two-digit number is 4 times the sum of its digits. Find the number if digit sum is 9.
+     (A) 36  (B) 27  (C) 45  (D) 18
+     ANSWER: A
+     EXPLANATION: 4×9=36; 3+6=9. Verified.
+
+Q24. Find the number of zeros at the end of 100!
+     (A) 20  (B) 24  (C) 22  (D) 25
+     ANSWER: B
+     EXPLANATION: ⌊100/5⌋+⌊100/25⌋=20+4=24.
+
+Q25. For any natural number n, n²+n is always:
+     (A) Odd  (B) Even  (C) Prime  (D) A perfect square
+     ANSWER: B
+     EXPLANATION: n(n+1) = product of consecutive integers = always even.
+
+Q26. Is 897654 divisible by 3?
+     (A) Yes  (B) No  (C) Sometimes  (D) Only if divided by 2 first
+     ANSWER: A
+     EXPLANATION: Digit sum=8+9+7+6+5+4=39. 39÷3=13. Yes, divisible.
+
+Q27. What is the square root of 15129?
+     (A) 123  (B) 117  (C) 131  (D) 127
+     ANSWER: A
+     EXPLANATION: 123²=15129.
+
+Q28. Find the unit digit of (2³+3³+4³+5³+6³).
+     (A) 0  (B) 5  (C) 4  (D) 6
+     ANSWER: A
+     EXPLANATION: 8+27+64+125+216=440. Unit digit=0.
+
+Q29. What is the digit sum of 99999?
+     (A) 36  (B) 45  (C) 54  (D) 27
+     ANSWER: B
+     EXPLANATION: 9×5=45.
+
+Q30. If p and q are coprime and p+q=15, how many pairs (p,q) with p<q exist?
+     (A) 3  (B) 4  (C) 5  (D) 6
+     ANSWER: B
+     EXPLANATION: (1,14),(2,13),(4,11),(7,8) — all coprime. 4 pairs.
+
+Q31. Find the number of distinct prime factors of 2³×3²×5×7².
+     (A) 4  (B) 8  (C) 12  (D) 3
+     ANSWER: A
+     EXPLANATION: 4 distinct primes: 2,3,5,7.
+
+Q32. The sum of three consecutive odd numbers is 81. Find the largest.
+     (A) 27  (B) 29  (C) 31  (D) 25
+     ANSWER: B
+     EXPLANATION: Middle = 27. Numbers: 25,27,29. Largest=29.
+
+Q33. What is the value of (1+1/2)(1+1/3)...(1+1/9)?
+     (A) 5  (B) 10  (C) 10/2  (D) 5
+     ANSWER: A
+     EXPLANATION: Telescoping product: (3/2)(4/3)...(10/9)=10/2=5.
+
+Q34. Find ³√(0.000512).
+     (A) 0.08  (B) 0.8  (C) 0.008  (D) 8
+     ANSWER: A
+     EXPLANATION: ³√(512/10⁶)=8/100=0.08.
+
+Q35. Find the remainder when 2²⁵ is divided by 7.
+     (A) 1  (B) 2  (C) 4  (D) 6
+     ANSWER: C
+     EXPLANATION: Powers of 2 mod 7: cycle 2,4,1 (period 3). 25 mod 3=1 → remainder=4.
+
+Q36. What is the sum of all 3-digit multiples of 9?
+     (A) 54945  (B) 55350  (C) 54000  (D) 59400
+     ANSWER: A
+     EXPLANATION: AP: 108 to 999, d=9. n=(999-108)/9+1=100. Sum=100×(108+999)/2=54,350. ANSWER: B
+
+Q37. If x is even and y is odd, which is always odd?
+     (A) x+y  (B) x×y  (C) x²+y  (D) x+y²
+     ANSWER: A
+     EXPLANATION: even+odd=odd. Always.
+
+Q38. What is the unit digit of (13)¹⁰⁰×(17)¹⁰⁰?
+     (A) 1  (B) 3  (C) 7  (D) 9
+     ANSWER: A
+     EXPLANATION: 3¹⁰⁰: 100 mod 4=0 → unit digit 1. 7¹⁰⁰: 100 mod 4=0 → unit digit 1. 1×1=1.
+
+Q39. Which is a rational number?
+     (A) √2  (B) π  (C) 5/7  (D) √3
+     ANSWER: C
+     EXPLANATION: 5/7 is ratio of integers.
+
+Q40. Find the value of 111×111×111.
+     (A) 1,367,631  (B) 1,234,321  (C) 1,000,000  (D) 1,346,921
+     ANSWER: A
+     EXPLANATION: 111³=1,367,631.
+
+Q41. HCF is 8 and LCM is 120. One number is 24. Find the other.
+     (A) 40  (B) 48  (C) 36  (D) 32
+     ANSWER: A
+     EXPLANATION: Other = 8×120/24 = 40.
+
+Q42. (1²+2²+...+n²) equals which formula?
+     (A) n(n+1)/2  (B) n(n+1)(2n+1)/6  (C) [n(n+1)/2]²  (D) n²
+     ANSWER: B
+     EXPLANATION: Standard formula for sum of squares.
+
+Q43. Find the remainder when 5⁵⁵ is divided by 13.
+     (A) 5  (B) 8  (C) 1  (D) 4
+     ANSWER: B
+     EXPLANATION: 5⁴≡1(mod13). 55=4×13+3 → 5⁵⁵≡5³=125=9×13+8 → remainder=8.
+
+Q44. A number divided by 7 gives quotient 12 and remainder 3. Find the number.
+     (A) 87  (B) 89  (C) 83  (D) 91
+     ANSWER: A
+     EXPLANATION: 7×12+3=87.
+
+Q45. Which is NOT a perfect square?
+     (A) 225  (B) 256  (C) 289  (D) 275
+     ANSWER: D
+     EXPLANATION: 275 is not a perfect square.
+
+Q46. How many two-digit numbers are divisible by both 2 and 5?
+     (A) 8  (B) 9  (C) 10  (D) 7
+     ANSWER: B
+     EXPLANATION: Multiples of 10 from 10 to 90: 9 numbers.
+
+Q47. Find 1+3+5+...+99.
+     (A) 2500  (B) 2450  (C) 2600  (D) 2550
+     ANSWER: A
+     EXPLANATION: Sum of first 50 odd numbers = 50² = 2500.
+
+Q48. What is the ten's digit of 47³?
+     (A) 3  (B) 4  (C) 2  (D) 6
+     ANSWER: C
+     EXPLANATION: 47³=103,823. Ten's digit=2.
+
+Q49. 5765184 is divisible by 8 because:
+     (A) It's even  (B) Last 3 digits 184 are divisible by 8  (C) Digit sum divisible by 8  (D) Ends in 4
+     ANSWER: B
+     EXPLANATION: 184÷8=23. Divisibility rule for 8 checks last 3 digits.
+
+Q50. Find 999² using algebraic identity.
+     (A) 998001  (B) 997001  (C) 999001  (D) 998100
+     ANSWER: A
+     EXPLANATION: (1000–1)²=1,000,000–2,000+1=998,001.
+
+Q51. What is 1/(1×2) + 1/(2×3) + ... + 1/(9×10)?
+     (A) 9/10  (B) 1/10  (C) 10/11  (D) 1
+     ANSWER: A
+     EXPLANATION: Telescoping: 1–1/10=9/10.
+
+Q52. How many digits does 2²⁰ have?
+     (A) 6  (B) 7  (C) 5  (D) 8
+     ANSWER: B
+     EXPLANATION: 2²⁰=1,048,576 → 7 digits.
+
+Q53. Two numbers in ratio 3:5 have LCM=225. Find the HCF.
+     (A) 15  (B) 10  (C) 25  (D) 20
+     ANSWER: A
+     EXPLANATION: LCM of 3k and 5k = 15k = 225 → k=15. HCF=k=15.
+
+Q54. A four-digit number 23y is divisible by 9. If digits are 2, 3, x, y and x=1, what is y?
+     (A) 3  (B) 4  (C) 5  (D) 2
+     ANSWER: A
+     EXPLANATION: 2+3+1+y=9k → 6+y=9 → y=3.
+
+Q55. What is the multiplicative inverse of 7/12?
+     (A) 12/7  (B) 7/12  (C) –7/12  (D) –12/7
+     ANSWER: A
+     EXPLANATION: Multiplicative inverse = reciprocal = 12/7.
+
+Q56. Find the remainder when (29×31×33×35) is divided by 4.
+     (A) 0  (B) 1  (C) 2  (D) 3
+     ANSWER: B
+     EXPLANATION: 29≡1, 31≡3, 33≡1, 35≡3 (mod4). Product≡1×3×1×3=9≡1(mod4).
+
+Q57. Find the smallest N such that N≡4(mod7) and N≡3(mod5).
+     (A) 18  (B) 53  (C) 11  (D) 28
+     ANSWER: A
+     EXPLANATION: N=4,11,18,25... Check 18÷5=3 rem 3. N=18.
+
+Q58. Express 0.3636... as a fraction.
+     (A) 4/11  (B) 3/11  (C) 36/100  (D) 4/9
+     ANSWER: A
+     EXPLANATION: x=0.36̄ → 99x=36 → x=4/11.
+
+Q59. Find (2⁶×5³)÷10.
+     (A) 200  (B) 800  (C) 400  (D) 100
+     ANSWER: B
+     EXPLANATION: 64×125=8000. 8000÷10=800.
+
+Q60. How many 3-digit perfect squares exist?
+     (A) 21  (B) 22  (C) 23  (D) 20
+     ANSWER: B
+     EXPLANATION: From 10²=100 to 31²=961 → 22 squares.
+
+Q61. What is 1/(√1+√2)+1/(√2+√3)+...+1/(√8+√9)?
+     (A) 1  (B) 2  (C) 3  (D) 4
+     ANSWER: B
+     EXPLANATION: Each term rationalizes to √(n+1)–√n. Sum=√9–√1=3–1=2.
+
+Q62. Sum of two numbers is 50, difference is 10. Find their product.
+     (A) 600  (B) 575  (C) 550  (D) 625
+     ANSWER: A
+     EXPLANATION: Numbers are 30 and 20. Product=600.
+
+Q63. Number of divisors of 2⁴×3²×7:
+     (A) 12  (B) 24  (C) 30  (D) 36
+     ANSWER: C
+     EXPLANATION: (4+1)(2+1)(1+1)=30.
+
+Q64. Square of which number is 7 times the number?
+     (A) 5  (B) 6  (C) 7  (D) 8
+     ANSWER: C
+     EXPLANATION: x²=7x → x=7.
+
+Q65. Simplify: √576 + ³√343 – √64.
+     (A) 15  (B) 18  (C) 20  (D) 23
+     ANSWER: D
+     EXPLANATION: 24+7–8=23.
+
+Q66. A number when halved gives 28. What is 3/4 of the number?
+     (A) 42  (B) 36  (C) 48  (D) 56
+     ANSWER: A
+     EXPLANATION: Number=56. 3/4×56=42.
+
+Q67. Find the smallest number that when 1 is added becomes divisible by 2,3,4,5,6.
+     (A) 59  (B) 60  (C) 61  (D) 119
+     ANSWER: A
+     EXPLANATION: LCM(2,3,4,5,6)=60. Answer=60–1=59.
+
+Q68. If 3^x = 27, find x.
+     (A) 2  (B) 3  (C) 4  (D) 9
+     ANSWER: B
+     EXPLANATION: 3³=27, so x=3.
+
+Q69. Find (–2)⁵+(–3)³.
+     (A) –59  (B) 59  (C) –5  (D) –61
+     ANSWER: A
+     EXPLANATION: –32+(–27)=–59.
+
+Q70. Find GCD of 56 and 98.
+     (A) 14  (B) 28  (C) 7  (D) 42
+     ANSWER: A
+     EXPLANATION: 56=2³×7, 98=2×7². GCD=14.
+
+Q71. Cube of a number is 8 times cube of another. Find their ratio.
+     (A) 2:1  (B) 4:1  (C) 8:1  (D) 3:1
+     ANSWER: A
+     EXPLANATION: a³=8b³ → a/b=2. Ratio=2:1.
+
+Q72. Which is irrational?
+     (A) √9  (B) √16  (C) √(2/9)  (D) √7
+     ANSWER: D
+     EXPLANATION: √7 is irrational.
+
+Q73. Find 1³+2³+3³+4³+5³.
+     (A) 200  (B) 225  (C) 215  (D) 230
+     ANSWER: B
+     EXPLANATION: (5×6/2)²=15²=225.
+
+Q74. Largest 5-digit number divisible by 23?
+     (A) 99981  (B) 99993  (C) 99961  (D) 99920
+     ANSWER: A
+     EXPLANATION: 99999÷23=4347.78 → 4347×23=99981.
+
+Q75. If x+1/x=5, find x²+1/x².
+     (A) 23  (B) 25  (C) 27  (D) 21
+     ANSWER: A
+     EXPLANATION: (x+1/x)²=x²+2+1/x²=25 → x²+1/x²=23.
+
+Q76. Find 2⁵×4²×8.
+     (A) 4096  (B) 2048  (C) 8192  (D) 1024
+     ANSWER: A
+     EXPLANATION: 2⁵×2⁴×2³=2¹²=4096.
+
+Q77. Find the sum of all factors of 28.
+     (A) 56  (B) 28  (C) 42  (D) 54
+     ANSWER: A
+     EXPLANATION: 1+2+4+7+14+28=56.
+
+Q78. A number between 10 and 100 is 7 times sum of digits. Which fits?
+     (A) 21  (B) 42  (C) 63  (D) 84
+     ANSWER: B
+     EXPLANATION: 42=7×6; 4+2=6. Verified.
+
+Q79. Smallest 4-digit perfect square?
+     (A) 1024  (B) 1000  (C) 1004  (D) 1016
+     ANSWER: A
+     EXPLANATION: 32²=1024.
+
+Q80. 1000 in binary is?
+     (A) 1111101000  (B) 1001110001  (C) 1110110000  (D) 1000000000
+     ANSWER: A
+     EXPLANATION: 1000=2⁹+2⁸+2⁷+2⁶+2⁵+2³=1111101000.
+
+Q81. If A={multiples of 2}, B={multiples of 5}, what is A∩B?
+     (A) Multiples of 10  (B) Multiples of 7  (C) All even numbers  (D) Multiples of 3
+     ANSWER: A
+     EXPLANATION: LCM(2,5)=10. Intersection = multiples of 10.
+
+Q82. Find x if log₂(x)=8.
+     (A) 128  (B) 256  (C) 64  (D) 512
+     ANSWER: B
+     EXPLANATION: x=2⁸=256.
+
+Q83. Find 15!/14!.
+     (A) 14  (B) 15  (C) 1  (D) 105
+     ANSWER: B
+     EXPLANATION: 15!/14!=15.
+
+Q84. Find remainder when 2⁵⁶ is divided by 17.
+     (A) 1  (B) 2  (C) 4  (D) 8
+     ANSWER: A
+     EXPLANATION: By Fermat's: 2¹⁶≡1(mod17). 56=16×3+8 → 2⁵⁶≡2⁸=256=15×17+1 → remainder=1.
+
+Q85. Two numbers in ratio 4:3 have product 1728. Find the smaller number.
+     (A) 36  (B) 27  (C) 48  (D) 24
+     ANSWER: A
+     EXPLANATION: 4k×3k=12k²=1728 → k²=144 → k=12. Numbers=48,36. Smaller=36.
+
+Q86. Simplify (2.5)³–(1.5)³.
+     (A) 14.5  (B) 12.25  (C) 12.875  (D) 11
+     ANSWER: B
+     EXPLANATION: 15.625–3.375=12.25.
+
+Q87. How many ways can 12 be written as sum of two distinct primes?
+     (A) 1  (B) 2  (C) 3  (D) 4
+     ANSWER: A
+     EXPLANATION: Only 5+7=12. (Others: 1+11, 1 not prime; 3+9, 9 not prime.) Answer: 1.
+
+Q88. Which is divisible by 6?
+     (A) 53271  (B) 53268  (C) 53263  (D) 53265
+     ANSWER: B
+     EXPLANATION: 53268: digit sum=24 (div by 3), last digit even (div by 2) → divisible by 6.
+
+Q89. What is N if N = 1+2+4+8+...+2⁹?
+     (A) 1023  (B) 511  (C) 2047  (D) 1024
+     ANSWER: A
+     EXPLANATION: Geometric series sum = 2¹⁰–1=1023.
+
+Q90. Find the remainder when 888888 is divided by 8.
+     (A) 0  (B) 2  (C) 4  (D) 6
+     ANSWER: A
+     EXPLANATION: Last 3 digits = 888. 888÷8=111. Remainder=0.
+
+Q91. If 5 is a factor of N and 7 is a factor of N, then which must divide N?
+     (A) 12  (B) 35  (C) 2  (D) 70
+     ANSWER: B
+     EXPLANATION: LCM(5,7)=35. So 35 divides N.
+
+Q92. A 3-digit number has digits in ratio 1:2:3. Find all such numbers.
+     (A) 123 only  (B) 124, 248  (C) 123, 246, 369  (D) 132, 264
+     ANSWER: A
+     EXPLANATION: Digits a:2a:3a must all be single digits. a=1 → 1,2,3 → 123. Only one.
+
+Q93. Find the value of x: √(x+√(x+√x))=3.
+     (A) 4  (B) 6  (C) 9  (D) 3
+     ANSWER: B
+     EXPLANATION: Approximate: √(6+√(6+√6))≈√(6+√8.449)≈√(6+2.9)≈√8.9≈2.98≈3. x=6.
+
+Q94. Two numbers have HCF 5 and LCM 60. How many such pairs exist?
+     (A) 1  (B) 2  (C) 3  (D) 4
+     ANSWER: B
+     EXPLANATION: Pairs: (5,60) and (15,20). Both satisfy HCF=5, LCM=60.
+
+Q95. What is the value of 0!?
+     (A) 0  (B) 1  (C) undefined  (D) infinity
+     ANSWER: B
+     EXPLANATION: By definition, 0!=1.
+
+Q96. Find the number of 4-digit numbers with no digit repeated using 1,2,3,4,5.
+     (A) 60  (B) 120  (C) 100  (D) 24
+     ANSWER: B
+     EXPLANATION: P(5,4)=5×4×3×2=120.
+
+Q97. If a number is divisible by 8 and 6, it is divisible by:
+     (A) 48  (B) 24  (C) 12  (D) 36
+     ANSWER: B
+     EXPLANATION: LCM(8,6)=24. So it must be divisible by 24.
+
+Q98. Find the smallest number greater than 100 that is a perfect square.
+     (A) 121  (B) 104  (C) 110  (D) 116
+     ANSWER: A
+     EXPLANATION: 10²=100, 11²=121. First square >100 is 121.
+
+Q99. Which of the following is not divisible by 7?
+     (A) 343  (B) 1001  (C) 2401  (D) 1003
+     ANSWER: D
+     EXPLANATION: 343=7³, 1001=7×143, 2401=7⁴. 1003÷7=143.28. Not divisible.
+
+Q100. Find the product of the HCF and LCM of 12, 18, and 24.
+      (A) 216  (B) 432  (C) 108  (D) 864
+      ANSWER: A
+      EXPLANATION: HCF(12,18,24)=6. LCM(12,18,24)=72. Product=6×72=432. ANSWER: B
+
+================================================================
+                    END OF NUMBER SYSTEM
+================================================================

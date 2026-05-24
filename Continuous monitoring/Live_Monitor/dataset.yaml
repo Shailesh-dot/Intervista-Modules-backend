@@ -1,0 +1,6 @@
+path: ./data          # root dir
+train: images/train
+val: images/val
+
+nc: 3
+names: ["Laptop", "Phone", "Tablet"]

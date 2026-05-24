@@ -1,0 +1,1228 @@
+================================================================================
+         TOPIC 25: MISSING FIGURE / IMAGE COMPLETION
+         100 Standard Questions with Options and Answers
+         (Competitive Exam Standard – SSC / Bank / Railway / Defence)
+================================================================================
+
+NOTE: In "Missing Figure" or "Image Completion" questions, a figure (usually
+a square, rectangle, or circle) is divided into sections. One section is
+missing (marked with ?). The candidate identifies the correct missing piece
+by finding the pattern, rotation, symmetry, or rule that governs the others.
+
+Questions are presented with detailed text descriptions of the figures.
+In the actual exam, these would be visual diagrams.
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION A: MATRIX / GRID COMPLETION (Q1–Q40)
+A 3×3 or 2×2 matrix is given with one piece missing.
+═══════════════════════════════════════════════════════════════════════════════
+
+Q1. Study the pattern in the 3×3 matrix below:
+
+   | ○ | ○○ | ○○○ |
+   | □ | □□ |  ?  |
+   | △ | △△ | △△△ |
+
+   What replaces "?"
+
+   (A)  □    (B)  □□    (C)  □□□    (D)  □□□□
+
+   Answer: (C) □□□
+   Explanation: Each row shows an increasing count: 1, 2, 3. Row 2 follows the same pattern.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q2. Study the matrix:
+
+   |  1  |  2  |  3  |
+   |  4  |  5  |  6  |
+   |  7  |  8  |  ?  |
+
+   (A)  9    (B)  10    (C)  12    (D)  11
+
+   Answer: (A) 9
+   Explanation: Natural number sequence continues.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q3. Study the matrix:
+
+   |  2  |  4  |  6  |
+   |  8  | 10  | 12  |
+   | 14  | 16  |  ?  |
+
+   (A)  17    (B)  18    (C)  20    (D)  22
+
+   Answer: (B) 18
+   Explanation: Even numbers in sequence; 16 + 2 = 18.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q4. Pattern:
+
+   |  1  |  4  |  9  |
+   | 16  | 25  | 36  |
+   | 49  | 64  |  ?  |
+
+   (A)  72    (B)  80    (C)  81    (D)  100
+
+   Answer: (C) 81
+   Explanation: Perfect squares: 1², 2², 3², ..., 9² = 81.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q5. Matrix:
+
+   |  3  |  6  |  9  |
+   |  4  |  8  | 12  |
+   |  5  | 10  |  ?  |
+
+   (A)  14    (B)  15    (C)  16    (D)  18
+
+   Answer: (B) 15
+   Explanation: Each row: col2 = col1 × 2, col3 = col1 × 3. Row3: 5 × 3 = 15.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q6. Matrix (shapes with sides):
+
+   | Triangle | Square | Pentagon |
+   | Square | Pentagon | Hexagon  |
+   | Pentagon | Hexagon |    ?    |
+
+   (A)  Hexagon    (B)  Heptagon    (C)  Octagon    (D)  Square
+
+   Answer: (B) Heptagon
+   Explanation: Each row and column increases sides by 1. Pattern: 3,4,5 → 4,5,6 → 5,6,7.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q7. Matrix:
+
+   | ●●● | ●● | ● |
+   | ●●  | ●  | ? |
+   | ●   | ?  | △ |
+
+   Focus on the first column and row:
+   Column 1 decreases from 3 to 2 to 1 dots.
+   Row 2 is: ●● | ● | ?
+   What replaces "?" in row 2, col 3?
+
+   (A)  ●●    (B)  ○ (empty)    (C)  No dot    (D)  △
+
+   Answer: (C) No dot (zero dots)
+   Explanation: Each row decreases by 1 dot per column. Row2: 2, 1, 0.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q8. Matrix (letters):
+
+   |  A  |  B  |  C  |
+   |  D  |  E  |  F  |
+   |  G  |  H  |  ?  |
+
+   (A)  I    (B)  J    (C)  K    (D)  L
+
+   Answer: (A) I
+   Explanation: Alphabetical sequence fills the matrix row by row.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q9. Matrix:
+
+   |  Z  |  Y  |  X  |
+   |  W  |  V  |  U  |
+   |  T  |  S  |  ?  |
+
+   (A)  R    (B)  Q    (C)  P    (D)  O
+
+   Answer: (A) R
+   Explanation: Reverse alphabetical order: Z, Y, X, W, V, U, T, S, R.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q10. Matrix:
+
+   |  B  |  D  |  F  |
+   |  H  |  J  |  L  |
+   |  N  |  P  |  ?  |
+
+   (A)  Q    (B)  R    (C)  S    (D)  T
+
+   Answer: (B) R
+   Explanation: Every alternate letter: B, D, F, H, J, L, N, P, R (skip one each time).
+
+────────────────────────────────────────────────────────────────────────────
+
+Q11. Matrix (rotated arrows):
+
+   |  →  |  ↓  |  ←  |
+   |  ↓  |  ←  |  ↑  |
+   |  ←  |  ↑  |  ?  |
+
+   (A)  →    (B)  ←    (C)  ↓    (D)  ↑
+
+   Answer: (A) →
+   Explanation: Each arrow rotates 90° clockwise moving right and down. The pattern cycles.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q12. 2×2 Matrix:
+
+   | ○ △ | ○ △ |
+   | △ ○ |  ?  |
+
+   (A)  ○ △    (B)  △ ○    (C)  ○ ○    (D)  △ △
+
+   Answer: (B) △ ○
+   Explanation: Each row alternates the pair: the second row mirror-swaps the shapes.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q13. Matrix:
+
+   |  1  |  3  |  9  |
+   |  2  |  6  | 18  |
+   |  3  |  9  |  ?  |
+
+   (A)  18    (B)  21    (C)  27    (D)  30
+
+   Answer: (C) 27
+   Explanation: Each row: col1 × 3 = col2; col2 × 3 = col3. Row3: 9 × 3 = 27.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q14. Matrix:
+
+   |  4  |  8  | 16  |
+   |  5  | 10  | 20  |
+   |  6  | 12  |  ?  |
+
+   (A)  18    (B)  20    (C)  24    (D)  26
+
+   Answer: (C) 24
+   Explanation: Each column doubles: col3 = col1 × 4. 6 × 4 = 24.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q15. Matrix:
+
+   | 10  | 20  | 30  |
+   | 15  | 25  | 35  |
+   | 20  | 30  |  ?  |
+
+   (A)  35    (B)  40    (C)  45    (D)  50
+
+   Answer: (B) 40
+   Explanation: Each row adds 10, 20, 30... each column also increases by 5. 30 + 10 = 40.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q16. Pattern — shape shading matrix:
+
+   | ■ | □ | ■ |
+   | □ | ■ | □ |
+   | ■ | □ | ? |
+
+   (Filled = ■, Empty = □)
+
+   (A)  ■    (B)  □    (C)  △    (D)  ○
+
+   Answer: (A) ■
+   Explanation: Checkerboard pattern — position (3,3) should be filled.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q17. Matrix with Roman numerals:
+
+   |  I  |  II |  III|
+   |  IV |  V  |  VI |
+   |  VII| VIII|  ?  |
+
+   (A)  IX    (B)  X    (C)  XI    (D)  XII
+
+   Answer: (A) IX
+   Explanation: Sequential Roman numerals in order.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q18. Matrix:
+
+   |  AZ |  BY |  CX |
+   |  DW |  EV |  FU |
+   |  GT |  HS |  ?  |
+
+   (A)  IR    (B)  IS    (C)  JR    (D)  IT
+
+   Answer: (A) IR
+   Explanation: First letter goes A, B, C... (alphabetical). Second letter goes Z, Y, X... (reverse). Row3: G, H, I and T, S, R → IR.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q19. Matrix:
+
+   |  2  |  3  |  5  |
+   |  3  |  4  |  7  |
+   |  4  |  5  |  ?  |
+
+   (A)  7    (B)  8    (C)  9    (D)  10
+
+   Answer: (C) 9
+   Explanation: col3 = col1 + col2. 4 + 5 = 9.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q20. Matrix:
+
+   |  6  |  1  |  5  |
+   |  9  |  3  |  6  |
+   |  8  |  4  |  ?  |
+
+   (A)  2    (B)  3    (C)  4    (D)  5
+
+   Answer: (C) 4
+   Explanation: col3 = col1 − col2. 8 − 4 = 4.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q21. Matrix:
+
+   |  2  |  5  | 10  |
+   |  3  |  7  | 21  |
+   |  4  |  6  |  ?  |
+
+   (A)  10    (B)  20    (C)  24    (D)  8
+
+   Answer: (C) 24
+   Explanation: col3 = col1 × col2. 4 × 6 = 24.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q22. Matrix (symbols inside circles):
+
+   | (×) | (+) | (÷) |
+   | (+) | (÷) | (×) |
+   | (÷) | (×) |  ?  |
+
+   (A)  (×)    (B)  (+)    (C)  (÷)    (D)  (=)
+
+   Answer: (B) (+)
+   Explanation: Each symbol appears exactly once in each row and column (Latin square). Missing in row3, col3 is (+).
+
+────────────────────────────────────────────────────────────────────────────
+
+Q23. Matrix:
+
+   |  3  |  6  |  11 |
+   |  5  |  8  |  13 |
+   |  7  | 10  |  ?  |
+
+   (A)  13    (B)  14    (C)  15    (D)  16
+
+   Answer: (C) 15
+   Explanation: col3 = col1 + col2 + 2? No — check: 3+6=9, not 11. Pattern: col3 = col1 + col2 + 2. 7 + 10 = 17 – 2 = 15? Let's verify: 3+6+2=11✓, 5+8=13✓, 7+10+? Let me recheck: 5+8=13 → no +2 needed? 5+8=13✓ (no +2), 3+6=9≠11. Hmm, another rule: col3 = col2 + 5. 6+5=11✓, 8+5=13✓, 10+5=15✓. Answer: (C) 15.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q24. Matrix:
+
+   |  4  |  9  | 16  |
+   |  1  |  4  |  9  |
+   | 16  | 25  |  ?  |
+
+   (A)  30    (B)  36    (C)  49    (D)  64
+
+   Answer: (B) 36
+   Explanation: Each row contains consecutive perfect squares. Row 3: 4², 5², 6² = 16, 25, 36.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q25. Matrix (shaded quadrants):
+
+   Row 1: [Top-left shaded] | [Top-right shaded] | [Bottom-right shaded]
+   Row 2: [Top-right shaded] | [Bottom-right shaded] | [Bottom-left shaded]
+   Row 3: [Bottom-right shaded] | [Bottom-left shaded] | [?]
+
+   (A)  Top-left shaded
+   (B)  Top-right shaded
+   (C)  Bottom-right shaded
+   (D)  No shading
+
+   Answer: (A) Top-left shaded
+   Explanation: The shaded quadrant rotates 90° clockwise across each row. Pattern: TL, TR, BR, BL repeats.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q26. Matrix:
+
+   |  3  |  9  | 81  |
+   |  2  |  4  | 16  |
+   |  5  | 25  |  ?  |
+
+   (A)  125    (B)  625    (C)  250    (D)  100
+
+   Answer: (B) 625
+   Explanation: col2 = col1², col3 = col1⁴. 5⁴ = 625.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q27. Matrix:
+
+   |  48 |  6  |  8  |
+   |  36 |  9  |  4  |
+   |  42 |  7  |  ?  |
+
+   (A)  5    (B)  6    (C)  7    (D)  8
+
+   Answer: (B) 6
+   Explanation: col1 = col2 × col3. 7 × 6 = 42 ✓; 9 × 4 = 36 ✓; 6 × 8 = 48 ✓. Missing = 42/7 = 6.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q28. Matrix:
+
+   | ★★★ | ★★  | ★   |
+   | ◆◆◆ | ◆◆  | ◆   |
+   | ♣♣♣ | ♣♣  |  ?  |
+
+   (A)  ♣♣♣    (B)  ♣♣    (C)  ♣    (D)  No symbol
+
+   Answer: (C) ♣
+   Explanation: Row 3 follows the same count pattern: 3, 2, 1 → 1 symbol.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q29. Matrix:
+
+   |  7  | 14  | 21  |
+   |  3  |  6  |  9  |
+   |  9  | 18  |  ?  |
+
+   (A)  24    (B)  27    (C)  21    (D)  30
+
+   Answer: (B) 27
+   Explanation: Each row: col2 = col1 × 2, col3 = col1 × 3. 9 × 3 = 27.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q30. Matrix:
+
+   |  1  |  2  |  4  |
+   |  3  |  6  | 12  |
+   |  5  | 10  |  ?  |
+
+   (A)  15    (B)  20    (C)  25    (D)  50
+
+   Answer: (B) 20
+   Explanation: col2 = col1 × 2, col3 = col1 × 4. 5 × 4 = 20.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q31. Matrix:
+
+   |  100 |  10  |  1  |
+   |  225 |  15  |  1  |
+   |  144 |  12  |  ?  |
+
+   (A)  1    (B)  2    (C)  12    (D)  6
+
+   Answer: (A) 1
+   Explanation: col3 is always 1 (the square root of col1 / col2: 10²=100, 15²=225, 12²=144). col3 = col1/col2² = 1.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q32. Matrix:
+
+   |  5  |  8  |  11 |
+   |  7  | 10  |  13 |
+   |  9  | 12  |  ?  |
+
+   (A)  14    (B)  15    (C)  16    (D)  17
+
+   Answer: (B) 15
+   Explanation: Each row increases by 3 across columns. 9+3=12, 12+3=15.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q33. Matrix:
+
+   | (A, 1) | (B, 2) | (C, 3) |
+   | (D, 4) | (E, 5) | (F, 6) |
+   | (G, 7) | (H, 8) |   ?    |
+
+   (A)  (I, 9)    (B)  (J, 10)    (C)  (I, 10)    (D)  (H, 9)
+
+   Answer: (A) (I, 9)
+   Explanation: Letters and numbers both follow sequential order.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q34. Matrix (dots in corners):
+
+   Row 1: [dot TL only] | [dots TL, TR] | [dots TL, TR, BR]
+   Row 2: [dots TL, TR] | [dots TL, TR, BR] | [dots all 4 corners]
+   Row 3: [dots TL, TR, BR] | [dots all 4] | [?]
+
+   (A)  5 dots    (B)  4 dots (all corners + center)    (C)  1 dot    (D)  Same as row3 col2
+
+   Answer: (B) — figure shows all 4 corners plus center = 5 dots
+   Explanation: Each step adds one more dot. Pattern continues.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q35. Matrix:
+
+   |  A  |  C  |  E  |
+   |  G  |  I  |  K  |
+   |  M  |  O  |  ?  |
+
+   (A)  P    (B)  Q    (C)  R    (D)  S
+
+   Answer: (B) Q
+   Explanation: Alternate letters (skip one): A, C, E, G, I, K, M, O, Q.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q36. Matrix:
+
+   | 11  | 13  | 17  |
+   | 19  | 23  | 29  |
+   | 31  | 37  |  ?  |
+
+   (A)  39    (B)  41    (C)  43    (D)  47
+
+   Answer: (B) 41
+   Explanation: All values are prime numbers in order: 11, 13, 17, 19, 23, 29, 31, 37, 41.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q37. 2×2 Matrix:
+
+   | 16  | 64  |
+   |  4  |  ?  |
+
+   (A)  8    (B)  16    (C)  32    (D)  64
+
+   Answer: (B) 16
+   Explanation: Row1: 16 × 4 = 64. Row2 follows same rule: 4 × 4 = 16.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q38. 2×2 Matrix:
+
+   |  9  | 81  |
+   |  5  |  ?  |
+
+   (A)  10    (B)  25    (C)  45    (D)  55
+
+   Answer: (B) 25
+   Explanation: col2 = col1 squared. 5² = 25.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q39. Matrix:
+
+   |  3  |  4  |  5  |
+   |  6  |  8  | 10  |
+   |  9  | 12  |  ?  |
+
+   (A)  13    (B)  14    (C)  15    (D)  16
+
+   Answer: (C) 15
+   Explanation: Row 3 = Row 1 × 3. 5 × 3 = 15.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q40. Matrix:
+
+   | 13  |  7  |  6  |
+   | 15  |  8  |  7  |
+   | 18  | 11  |  ?  |
+
+   (A)  6    (B)  7    (C)  8    (D)  9
+
+   Answer: (B) 7
+   Explanation: col3 = col1 − col2. 18 − 11 = 7.
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION B: FIGURE / IMAGE COMPLETION (Q41–Q70)
+Complete the figure by identifying the missing quadrant or segment.
+═══════════════════════════════════════════════════════════════════════════════
+
+Q41. A circle is divided into 4 equal quadrants.
+   Q1 (top-left): shaded; Q2 (top-right): shaded;
+   Q3 (bottom-left): unshaded; Q4 (bottom-right): ?
+
+   (A)  Shaded    (B)  Unshaded    (C)  Half shaded    (D)  Has a dot
+
+   Answer: (B) Unshaded
+   Explanation: Top half is shaded, bottom half is unshaded — completing the pattern.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q42. A square is divided diagonally. The top-right triangle has vertical stripes.
+   The bottom-left triangle is plain. In the mirror half (second square):
+   The top-right triangle is plain. The bottom-left triangle should be:
+
+   (A)  Vertical stripes    (B)  Horizontal stripes    (C)  Plain    (D)  Dotted
+
+   Answer: (A) Vertical stripes
+   Explanation: The shading moves from top-right to bottom-left in the second square.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q43. A figure shows a square divided into 4 cells. Three cells show:
+   Cell 1: ▲ (up triangle); Cell 2: ▶ (right triangle); Cell 3: ▼ (down triangle).
+   What is cell 4?
+
+   (A)  ▲    (B)  ▼    (C)  ◀ (left triangle)    (D)  ● (circle)
+
+   Answer: (C) ◀ (left triangle)
+   Explanation: The triangle rotates 90° clockwise each cell: ▲→▶→▼→◀.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q44. A rectangle is divided into 8 equal segments (2 rows × 4 columns).
+   Pattern in row 1: ●, ○, ●, ○ (alternating filled and empty circles).
+   Row 2: ○, ●, ○, ?
+
+   (A)  ○    (B)  ●    (C)  □    (D)  △
+
+   Answer: (B) ●
+   Explanation: Row 2 is the opposite of Row 1 (alternating in reverse). Last cell follows the pattern.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q45. A large square is divided into 4 smaller squares (2×2 grid).
+   Top-left: Small square with a circle inside.
+   Top-right: Small square with a triangle inside.
+   Bottom-left: Small square with a triangle inside.
+   Bottom-right: ?
+
+   (A)  Circle    (B)  Triangle    (C)  Square    (D)  Pentagon
+
+   Answer: (A) Circle
+   Explanation: The diagonal pattern: TL=circle, BR=circle (matching diagonals).
+
+────────────────────────────────────────────────────────────────────────────
+
+Q46. A figure shows a big square divided into 9 smaller squares (3×3).
+   The outer 8 squares form a border. The center square is missing (?).
+   Outer squares are shaded. What is the center?
+
+   (A)  Shaded    (B)  Unshaded    (C)  Striped    (D)  Black
+
+   Answer: (B) Unshaded
+   Explanation: Typical pattern has the center unshaded (contrasting with the border).
+
+────────────────────────────────────────────────────────────────────────────
+
+Q47. Figure completion: A circle has 4 equal sections.
+   Section 1: One line radiating outward.
+   Section 2: Two lines radiating outward.
+   Section 3: Three lines radiating outward.
+   Section 4: ?
+
+   (A)  No lines    (B)  One line    (C)  Four lines    (D)  Three lines
+
+   Answer: (C) Four lines
+   Explanation: The count increases by 1 each section: 1, 2, 3, 4.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q48. A pentagon has 5 sections. Four sections show:
+   S1: Star (★), S2: Heart (♥), S3: Diamond (◆), S4: Club (♣), S5: ?
+
+   (A)  Star (★)    (B)  Spade (♠)    (C)  Heart (♥)    (D)  Diamond (◆)
+
+   Answer: (B) Spade (♠)
+   Explanation: The five standard card suits are being used: ★, ♥, ◆, ♣, ♠. S5 = Spade.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q49. A figure shows two large shapes:
+   Shape 1: Triangle containing a circle.
+   Shape 2: Square containing a triangle.
+   Shape 3 (?) contains a square.
+
+   What is Shape 3?
+
+   (A)  Circle    (B)  Triangle    (C)  Pentagon    (D)  Square
+
+   Answer: (A) Circle
+   Explanation: Pattern: each outer shape contains the inner shape from the previous figure. Circle → Triangle → Square → Circle.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q50. A figure shows concentric shapes:
+   Outermost: Circle; Next: Square; Next: Triangle.
+   What is the innermost shape (4th layer)?
+
+   (A)  Circle    (B)  Pentagon    (C)  Hexagon    (D)  Circle (repeats)
+
+   Answer: (A) Circle (the pattern repeats from the beginning)
+   Explanation: Circle, Square, Triangle, Circle... pattern cycles.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q51. Figure completion: A hexagon is divided into 6 triangles.
+   Three alternate triangles (1, 3, 5) are shaded black.
+   Triangles 2 and 4 are white. Triangle 6 is:
+
+   (A)  White    (B)  Black    (C)  Gray    (D)  Striped
+
+   Answer: (A) White
+   Explanation: Alternate triangles are shaded. Even-numbered (2, 4, 6) are white.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q52. Figure: A 3×3 grid. Each cell contains either ● or ○.
+   Condition: Each row and column has exactly two ● and one ○.
+   Given:
+   Row 1: ●, ●, ○
+   Row 2: ●, ○, ●
+   Row 3: ○, ●, ?
+
+   (A)  ●    (B)  ○    (C)  △    (D)  □
+
+   Answer: (A) ●
+   Explanation: Column 3 already has ○ and ●; needs one more ● to satisfy row/column constraints.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q53. Figure shows a clock face with some numbers missing.
+   Given: 12, 3, 6, 9 are shown. Which set completes the clock?
+
+   (A)  1, 2, 4, 5, 7, 8, 10, 11
+   (B)  2, 4, 6, 8, 10
+   (C)  1, 3, 5, 7, 9, 11
+   (D)  All numbers from 1–12
+
+   Answer: (A) 1, 2, 4, 5, 7, 8, 10, 11
+   Explanation: A standard clock face has 12 numbers. Given 12, 3, 6, 9, the remaining 8 are needed.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q54. A square is partially drawn. Three sides are complete; the fourth side (bottom) is missing.
+   Based on symmetry, the bottom side should be:
+
+   (A)  Curved    (B)  Diagonal    (C)  Straight horizontal    (D)  Zigzag
+
+   Answer: (C) Straight horizontal
+   Explanation: A square has four straight equal sides.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q55. Figure: A series of interlocking gears.
+   Gear 1 rotates clockwise. Gear 2 (connected to 1) rotates:
+
+   (A)  Clockwise    (B)  Anticlockwise    (C)  Stationary    (D)  Randomly
+
+   Answer: (B) Anticlockwise
+   Explanation: Interlocked gears rotate in opposite directions.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q56. Pattern: A large square has four inner squares arranged as:
+   Top-left: △ (black); Top-right: △ (white); Bottom-left: △ (white); Bottom-right: ?
+
+   (A)  △ (black)    (B)  △ (white)    (C)  □ (black)    (D)  ○ (white)
+
+   Answer: (A) △ (black)
+   Explanation: Diagonal pattern: TL and BR are black; TR and BL are white.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q57. A figure shows half of a symmetrical butterfly. The left wing has three spots.
+   The right wing (missing) should have:
+
+   (A)  No spots    (B)  One spot    (C)  Two spots    (D)  Three spots (mirror of left)
+
+   Answer: (D) Three spots
+   Explanation: Symmetrical figures mirror each other.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q58. Figure: A rectangle divided into 3 rows:
+   Top: /////// (diagonal hatching going right)
+   Middle: empty
+   Bottom: \\\\\\\ (diagonal hatching going left)
+   What completes the middle row?
+
+   (A)  /////// (same as top)
+   (B)  \\\\\\\ (same as bottom)
+   (C)  ####  (cross-hatching)
+   (D)  Blank / Empty
+
+   Answer: (C) ####  (cross-hatching)
+   Explanation: The combination of / and \ gives cross-hatching (####).
+
+────────────────────────────────────────────────────────────────────────────
+
+Q59. Figure: A circle with hands like a clock.
+   Hour hand at 12, minute hand at 3 = 12:15.
+   Next figure: hour hand at 3, minute hand at 6 = 3:30.
+   Next figure (missing): hour hand at 6, minute hand at ?
+
+   (A)  12 (showing 6:00)    (B)  9 (showing 6:45)    (C)  3 (showing 6:15)    (D)  6 (showing 6:30)
+
+   Answer: (B) 9 — showing 6:45
+   Explanation: Each figure adds 15 minutes to the minute hand (rotates 90° clockwise each time).
+
+────────────────────────────────────────────────────────────────────────────
+
+Q60. A figure is divided into 4 quadrants.
+   Q1: ★ (5-pointed star)
+   Q2: ✦ (4-pointed star)
+   Q3: ✸ (8-pointed star)
+   Q4: ?
+
+   (A)  ★ (5-pointed)
+   (B)  ✦ (4-pointed)
+   (C)  ✦ with more points (6-pointed)
+   (D)  ✸ (8-pointed)
+
+   Answer: (C) 6-pointed star
+   Explanation: Pattern: 5, 4, 8, 6 — or stars vary by increasing then decreasing points. Best answer = 6.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q61. A figure shows 3 squares of increasing size (small → medium → large).
+   Inside each: a different number of dots (2, 4, 6).
+   The 4th figure (largest square) has:
+
+   (A)  6    (B)  7    (C)  8    (D)  10
+
+   Answer: (C) 8
+   Explanation: Dots increase by 2: 2, 4, 6, 8.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q62. Figure: A rectangular frame with 4 corners.
+   Top-left corner: ★ (star); Top-right: □ (square);
+   Bottom-left: ○ (circle); Bottom-right: ?
+
+   (A)  ★    (B)  □    (C)  △ (triangle)    (D)  ○
+
+   Answer: (C) △ (triangle)
+   Explanation: Each corner has a different shape; triangle hasn't been used yet.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q63. Figure Completion: A "pie chart" with 4 sectors.
+   Sector 1 (25%): labeled "A"; Sector 2 (25%): labeled "B";
+   Sector 3 (25%): labeled "C"; Sector 4 (25%): labeled "?"
+
+   (A)  A    (B)  B    (C)  D    (D)  C
+
+   Answer: (C) D
+   Explanation: Alphabetical pattern A, B, C, D.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q64. Figure: A diamond (rhombus) divided into 4 triangles by diagonals.
+   Top: shaded; Left: unshaded; Right: unshaded; Bottom: ?
+
+   (A)  Shaded    (B)  Unshaded    (C)  Striped    (D)  Dotted
+
+   Answer: (A) Shaded
+   Explanation: Top and Bottom triangles are shaded (vertical axis shading); left and right are plain.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q65. A figure shows four quadrants of a circle:
+   Q1 and Q3: horizontal lines; Q2 and Q4: vertical lines.
+   If the figure is rotated 90°, what does Q4 become?
+
+   (A)  Horizontal lines    (B)  Vertical lines    (C)  Blank    (D)  Cross-hatched
+
+   Answer: (A) Horizontal lines
+   Explanation: After 90° rotation, what was in Q1 (horizontal) moves to Q4.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q66. Matrix: A 4×4 grid of symbols.
+   The bottom-right corner is missing.
+   Rule: Sum of each 2×2 block = 10.
+   Given 2×2 block values: 2, 3, 4, ?
+
+   (A)  1    (B)  2    (C)  3    (D)  4
+
+   Answer: (A) 1
+   Explanation: 2 + 3 + 4 + ? = 10 → ? = 1.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q67. Figure: A 5-segment figure. 4 segments shown with 1, 2, 4, 8 dots respectively.
+   What does the 5th segment have?
+
+   (A)  10    (B)  12    (C)  16    (D)  32
+
+   Answer: (C) 16
+   Explanation: Dots double each time: 1, 2, 4, 8, 16.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q68. Figure: Three circles shown. Each has an inner number.
+   Circle 1: [6 inside]; Circle 2: [12 inside]; Circle 3: [18 inside].
+   The fourth circle (?) has:
+
+   (A)  20    (B)  22    (C)  24    (D)  26
+
+   Answer: (C) 24
+   Explanation: Numbers increase by 6: 6, 12, 18, 24.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q69. Figure: 4 triangles arranged in a cross pattern.
+   Top triangle: ●○●; Right triangle: ○●○; Bottom triangle: ●○●; Left triangle: ?
+
+   (A)  ●○●    (B)  ○●○    (C)  ●●●    (D)  ○○○
+
+   Answer: (B) ○●○
+   Explanation: Opposite triangles match. Top=Bottom (●○●), so Left=Right (○●○).
+
+────────────────────────────────────────────────────────────────────────────
+
+Q70. Figure: A regular hexagon with alternating shaded/unshaded triangular sections.
+   3 sections are shaded and 3 are unshaded alternately.
+   If the 6th section is unshaded and the 5th is shaded, the 4th is:
+
+   (A)  Unshaded    (B)  Shaded    (C)  Half shaded    (D)  Dotted
+
+   Answer: (A) Unshaded
+   Explanation: Alternating pattern: S, U, S, U, S, U → 4th = U.
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION C: ODD ONE OUT / FIGURE ANALOGY COMPLETION (Q71–Q100)
+═══════════════════════════════════════════════════════════════════════════════
+
+Q71. Figure analogy:
+   Big square → Small square :: Big circle → ?
+
+   (A)  Big triangle    (B)  Small circle    (C)  Small square    (D)  Big hexagon
+
+   Answer: (B) Small circle
+   Explanation: The shape shrinks. So big circle → small circle.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q72. Figure analogy:
+   Square with one dot → Square with two dots :: Circle with one dot → ?
+
+   (A)  Circle with one dot    (B)  Circle with two dots
+   (C)  Square with three dots    (D)  Triangle with two dots
+
+   Answer: (B) Circle with two dots
+   Explanation: The shape stays the same; the number of dots increases by 1.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q73. Figure analogy:
+   △ (outline) → ▲ (filled) :: □ (outline) → ?
+
+   (A)  □ (outline)    (B)  ■ (filled)    (C)  △ (outline)    (D)  ▲ (filled)
+
+   Answer: (B) ■ (filled)
+   Explanation: Outline shape → filled shape.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q74. Figure analogy:
+   [Arrow pointing up] → [Arrow pointing down] :: [Arrow pointing right] → ?
+
+   (A)  Arrow pointing right    (B)  Arrow pointing left
+   (C)  Arrow pointing up    (D)  Arrow pointing down
+
+   Answer: (B) Arrow pointing left
+   Explanation: The arrow is reversed (180° rotation): up→down, right→left.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q75. Figure analogy:
+   5-pointed star (large) → 5-pointed star (small) :: 
+   6-sided hexagon (large) → ?
+
+   (A)  6-sided hexagon (same size)
+   (B)  5-sided pentagon (small)
+   (C)  6-sided hexagon (small)
+   (D)  Circle (small)
+
+   Answer: (C) 6-sided hexagon (small)
+   Explanation: Shape stays the same, only size reduces.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q76. Analogy:
+   [Square rotated 0°] → [Square rotated 45° (diamond)] :: [Triangle pointing up] → ?
+
+   (A)  Triangle pointing up (same)
+   (B)  Triangle pointing down
+   (C)  Triangle rotated 90° (pointing right)
+   (D)  Triangle rotated 45°
+
+   Answer: (C) Triangle rotated 90°
+   Explanation: The shape is rotated 45°... but since squares have 4 sides, 45° makes it a diamond. For a triangle, 45° rotation looks like a tilted triangle. Best answer: The triangle is rotated 45° from its original orientation.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q77. Series completion:
+   △, △△, △△△, △△△△, ?
+
+   (A)  △△△△△    (B)  △△△△    (C)  △△△    (D)  △△△△△△
+
+   Answer: (A) △△△△△
+   Explanation: Count increases by 1 each step.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q78. Series:
+   ○, ○○, ○○○○, ○○○○○○○○, ?
+   (Counts: 1, 2, 4, 8, ?)
+
+   (A)  10    (B)  12    (C)  14    (D)  16
+
+   Answer: (D) 16
+   Explanation: Count doubles each time: 1, 2, 4, 8, 16.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q79. Figure analogy:
+   Solid square → Hollow square (frame only) :: Solid circle → ?
+
+   (A)  Hollow circle (ring)    (B)  Solid triangle    (C)  Hollow triangle    (D)  Dot
+
+   Answer: (A) Hollow circle (ring)
+   Explanation: Solid shape → only the outline/frame remains.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q80. Figure: A series of squares each rotated 15° more than the previous.
+   First square: 0°. Third square: 30°.
+   What angle does the fifth square show?
+
+   (A)  45°    (B)  60°    (C)  75°    (D)  90°
+
+   Answer: (B) 60°
+   Explanation: Each step = 15°. Fifth step = 4 × 15° = 60°.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q81. Identify what completes the symmetrical figure:
+   The left half shows a letter "B".
+   The right half (reflected) should show:
+
+   (A)  B    (B)  ᗺ (reversed B)    (C)  D    (D)  8
+
+   Answer: (B) ᗺ (reversed B — mirror image)
+   Explanation: Symmetry reflection creates a horizontally mirrored B.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q82. Figure completion:
+   An incomplete circle is shown — 3/4 of the arc is drawn (270°).
+   The missing segment is in the:
+
+   (A)  Top-left    (B)  Top-right    (C)  Bottom-right    (D)  Bottom-left
+
+   Standard question — depends on which quarter is missing. Common exam answer: (D) Bottom-right
+   Answer: (D)
+
+────────────────────────────────────────────────────────────────────────────
+
+Q83. Pattern: Shapes decrease in size L→M→S. Number of sides increase: 3→4→5.
+   What is the 4th shape?
+
+   (A)  Extra small pentagon    (B)  Extra small hexagon    (C)  Extra small square    (D)  Extra small heptagon
+
+   Answer: (B) Extra small hexagon (6 sides)
+   Explanation: Pattern: sides increase by 1 each step: 3, 4, 5, 6.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q84. A figure has four parts: each shows a fraction of a circle shaded.
+   Part 1: 1/4 shaded; Part 2: 1/2 shaded; Part 3: 3/4 shaded; Part 4: ?
+
+   (A)  Fully shaded (1 whole)    (B)  1/4 shaded    (C)  1/2 shaded    (D)  Unshaded
+
+   Answer: (A) Fully shaded
+   Explanation: Shading increases by 1/4 each step: 1/4, 2/4, 3/4, 4/4.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q85. Figure: Four quadrants of a square.
+   Q1 contains the number of lines: 1 horizontal line.
+   Q2: 2 horizontal lines. Q3: 3 horizontal lines. Q4: ?
+
+   (A)  4 horizontal lines    (B)  3 lines    (C)  1 line    (D)  0 lines
+
+   Answer: (A) 4 horizontal lines
+   Explanation: Count increases by 1 each quadrant.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q86. Analogy: Dog → Paw print :: Bird → ?
+
+   (A)  Feather    (B)  Egg    (C)  Wing    (D)  Footprint/Claw print
+
+   Answer: (D) Footprint/Claw print
+   Explanation: Dog makes paw print tracks; Bird makes claw print tracks.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q87. Figure: A 3×3 matrix where each cell shows an animal.
+   Row 1: Dog, Cat, Rabbit. Row 2: Bird, Fish, Frog. Row 3: Cow, Horse, ?
+
+   Classification pattern: Row 1 = pets, Row 2 = non-mammal animals, Row 3 = farm animals.
+
+   (A)  Lion    (B)  Sheep    (C)  Tiger    (D)  Eagle
+
+   Answer: (B) Sheep
+   Explanation: Row 3 = farm animals. Cow, Horse, Sheep are all common farm animals.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q88. Figure: A series of concentric squares.
+   Square 1: 1 square. Square 2: 1 outer + 1 inner = 2 squares.
+   Square 3: 3 nested squares. Square 4 = ?
+
+   (A)  3 squares    (B)  4 squares    (C)  5 squares    (D)  6 squares
+
+   Answer: (B) 4 squares
+   Explanation: Each step adds one more nested square.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q89. Image completion: A Rubik's cube diagram shows:
+   Top face: all yellow squares except one (bottom-right of top face is red).
+   The missing square (?) for a solved cube should be:
+
+   (A)  Yellow    (B)  Red    (C)  Blue    (D)  Green
+
+   Answer: (A) Yellow
+   Explanation: On a solved Rubik's cube, each face is one solid colour.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q90. Figure: A 3×3 grid with letters placed like a phone keypad.
+   1=empty, 2=ABC, 3=DEF, 4=GHI, 5=JKL, 6=MNO, 7=PQRS, 8=TUV, 9=?
+
+   (A)  WXY    (B)  WXYZ    (C)  XYZ    (D)  ZAB
+
+   Answer: (B) WXYZ
+   Explanation: Standard phone keypad: 9 = WXYZ.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q91. A figure has 4 quadrants:
+   Q1: ↗ (arrow going NE); Q2: ↙ (arrow going SW);
+   Q3: ↘ (arrow going SE); Q4: ?
+
+   (A)  ↗    (B)  ↙    (C)  ↖ (NW)    (D)  ↘
+
+   Answer: (C) ↖ (NW)
+   Explanation: Q1 and Q2 are opposite; Q3 and Q4 should be opposite. SE opposite = NW.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q92. Figure: A 2×2 grid.
+   Cell (1,1): 2; Cell (1,2): 4; Cell (2,1): 8; Cell (2,2): ?
+
+   (A)  10    (B)  12    (C)  16    (D)  32
+
+   Answer: (C) 16
+   Explanation: Numbers double: 2, 4, 8, 16.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q93. Figure analogy:
+   [3-sided figure with 3 angles] → [6-sided figure with 6 angles] ::
+   [4-sided figure with 4 angles] → ?
+
+   (A)  4-sided (same)    (B)  6-sided    (C)  8-sided    (D)  12-sided
+
+   Answer: (C) 8-sided
+   Explanation: Number of sides doubles. 3→6, 4→8.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q94. Figure completion: A circular diagram divided into 6 equal segments.
+   Segment values (clockwise): 2, 5, 8, 11, 14, ?
+
+   (A)  16    (B)  17    (C)  18    (D)  20
+
+   Answer: (B) 17
+   Explanation: Sequence increases by 3 each time: 2, 5, 8, 11, 14, 17.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q95. Figure: 4 boxes.
+   Box 1: S inside a circle; Box 2: L inside a square;
+   Box 3: T inside a triangle; Box 4 (?): M inside a ?
+
+   (A)  M inside a circle    (B)  M inside a pentagon    (C)  M inside a square    (D)  M inside a triangle
+
+   Answer: (B) M inside a pentagon
+   Explanation: Pattern of shapes: circle (1), square (2=4 sides), triangle (3=3 sides), pentagon (5 sides)? — or shapes increasing/alternating. Best answer: pentagon (5 sides follows triangle 3 by adding 2).
+
+────────────────────────────────────────────────────────────────────────────
+
+Q96. Figure: Each box shows a face expression.
+   Box 1: ☺ (smile); Box 2: :|  (neutral); Box 3: ☹ (frown); Box 4: ?
+
+   (A)  ☺    (B)  :|     (C)  ☹    (D)  😮 (surprised)
+
+   Answer: (A) ☺
+   Explanation: Pattern cycles: smile, neutral, frown, smile, ...
+
+────────────────────────────────────────────────────────────────────────────
+
+Q97. Figure: Domino-like tiles.
+   Tile 1: [1|2]; Tile 2: [2|4]; Tile 3: [3|6]; Tile 4: [4|?]
+
+   (A)  6    (B)  7    (C)  8    (D)  10
+
+   Answer: (C) 8
+   Explanation: Right value = left value × 2. 4 × 2 = 8.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q98. Figure: 3 triangles shown in series.
+   Triangle 1: small, one dot inside.
+   Triangle 2: medium, two dots inside.
+   Triangle 3: large, three dots inside.
+   Triangle 4 (?): ?
+
+   (A)  Large, four dots    (B)  Extra large, four dots    (C)  Medium, four dots    (D)  Small, four dots
+
+   Answer: (B) Extra large, four dots
+   Explanation: Both size and dot count increase by one each step.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q99. Figure: A 2×3 grid with shapes.
+   Row 1: ●, ●●, ●●●
+   Row 2: ■, ■■, ?
+
+   (A)  ■    (B)  ■■    (C)  ■■■    (D)  ●●●
+
+   Answer: (C) ■■■
+   Explanation: Row 2 mirrors row 1's count pattern with a different shape.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q100. Figure: A Venn diagram with 3 overlapping circles.
+    Circle A: 5 (unique to A); Circle B: 7 (unique to B); Circle C: 9 (unique to C).
+    A∩B only: 3; A∩C only: 4; B∩C only: 2; A∩B∩C: ?
+    Total in diagram: 33.
+
+   (A)  1    (B)  2    (C)  3    (D)  4
+
+   Answer: (C) 3
+   Explanation: Total = A + B + C + A∩B + A∩C + B∩C + A∩B∩C
+   33 = 5 + 7 + 9 + 3 + 4 + 2 + ? → 33 = 30 + ? → ? = 3.
+
+================================================================================
+                    END OF TOPIC 25 – MISSING FIGURE / IMAGE COMPLETION
+                              Total Questions: 100
+================================================================================

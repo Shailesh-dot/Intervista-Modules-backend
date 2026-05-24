@@ -1,0 +1,643 @@
+================================================================
+TOPIC 30: CALENDAR & CLOCK
+100 Questions with Options and Answers
+================================================================
+
+IMPORTANT FORMULAS:
+■ CLOCK:
+  - Minute hand speed: 6°/min (360°/60 min)
+  - Hour hand speed: 0.5°/min (360°/720 min)
+  - Relative speed of minute hand over hour hand: 5.5°/min
+  - Angle between hands at H:MM = |30H - 5.5M|°
+  - Hands coincide: every 65 5/11 minutes
+  - Hands are at right angles: 22 times in 12 hours
+  - Hands are opposite (180°): 11 times in 12 hours
+
+■ CALENDAR:
+  - Leap year: divisible by 4; century years divisible by 400
+  - Odd days: Jan=3, Feb=0(non-leap)/1(leap), Mar=3, Apr=2,
+    May=3, Jun=2, Jul=3, Aug=3, Sep=2, Oct=3, Nov=2, Dec=3
+  - Days in week: Mon=1, Tue=2, Wed=3, Thu=4, Fri=5, Sat=6, Sun=0
+
+----------------------------------------------------------------
+SECTION A: CLOCK PROBLEMS (Q1–50)
+----------------------------------------------------------------
+
+Q1. At 3:00, what is the angle between the hour and minute hands?
+    (A) 60°   (B) 75°   (C) 90°   (D) 120°
+    ANSWER: (C) [30×3 = 90°]
+
+Q2. At 6:00, the angle between the hour and minute hands is: ?
+    (A) 90°   (B) 120°   (C) 180°   (D) 270°
+    ANSWER: (C)
+
+Q3. At 12:00 (noon), the angle between the hands is: ?
+    (A) 0°   (B) 90°   (C) 180°   (D) 360°
+    ANSWER: (A)
+
+Q4. What is the angle between the hands of a clock at 4:20?
+    Formula: |30×4 - 5.5×20| = |120 - 110| = 10°
+    (A) 5°   (B) 10°   (C) 15°   (D) 20°
+    ANSWER: (B)
+
+Q5. At 9:30, the angle between hour and minute hands is: ?
+    |30×9 - 5.5×30| = |270 - 165| = 105°
+    (A) 90°   (B) 95°   (C) 100°   (D) 105°
+    ANSWER: (D)
+
+Q6. At what time between 3 and 4 o'clock are the hands coincident?
+    Formula: 3×60/11 + 3×60 = ? → At 3 o'clock, gap = 15 min spaces.
+    Time = 15 × 12/11 = 180/11 = 16 4/11 min past 3.
+    (A) 3:15   (B) 3:16 4/11   (C) 3:20   (D) 3:14
+    ANSWER: (B)
+
+Q7. How many times do the minute and hour hands coincide in 24 hours?
+    (A) 22   (B) 24   (C) 44   (D) 48
+    ANSWER: (C) [22 times in 12 hours × 2 = 44]
+
+Q8. At 7:35, the angle between the clock hands is: ?
+    |30×7 - 5.5×35| = |210 - 192.5| = 17.5°
+    (A) 10°   (B) 12.5°   (C) 17.5°   (D) 22.5°
+    ANSWER: (C)
+
+Q9. At what time between 5 and 6 is the minute hand exactly
+    3 minutes behind the hour hand (in minute spaces)?
+    At 5:00, hour hand is at 25 min mark.
+    Minute hand needs to be at 22 min mark → 22 minutes past 5.
+    Check: hour hand at 22 min past 5 = 25 + 22/12 = 25 + 1.83 = 26.83 min mark.
+    Not exactly right. Standard approach:
+    (A) 5:22   (B) 5:24   (C) 5:20   (D) 5:18
+    ANSWER: (B) [~5:24 when 3-minute gap exists; exact = complex]
+
+Q10. A clock shows 8:20. What time does its mirror image show?
+     Mirror of 8:20 = 12:00 - 8:20 = 3:40
+     (A) 3:40   (B) 4:40   (C) 3:20   (D) 4:20
+     ANSWER: (A)
+
+Q11. A clock gains 5 minutes every hour. If set correctly at
+     12:00 noon, what time does it show when the actual time is
+     6:00 PM? (6 hours later)
+     (A) 6:00   (B) 6:30   (C) 6:25   (D) 6:35
+     ANSWER: (B) [5 min × 6 hours = 30 min fast; shows 6:30]
+
+Q12. How many times in a day does a clock's minute hand pass
+     the 12 on the clock face?
+     (A) 12   (B) 24   (C) 36   (D) 48
+     ANSWER: (B)
+
+Q13. The minute hand of a clock is 7 cm long. How far does it
+     travel in 30 minutes?
+     (A) 7π cm   (B) 14π cm   (C) 7π/2 cm   (D) 21π cm
+     ANSWER: (A) [half circumference = πr = 7π]
+
+Q14. At 2:45, the minute hand is pointing to: ?
+     (A) 2   (B) 8   (C) 9   (D) 3
+     ANSWER: (C) [45 min = 9 on clock face]
+
+Q15. At 10:10, the hour hand is between which numbers?
+     (A) 10 and 11   (B) 9 and 10   (C) 10 and 12   (D) 11 and 12
+     ANSWER: (A) [at 10:10, hour hand moved 10/60 × 30° = 5° past 10]
+
+Q16. How many right angles does the minute hand make in 1 hour?
+     (A) 2   (B) 3   (C) 4   (D) 6
+     ANSWER: (C) [every 15 min = right angle → 4 times per hour approximately]
+     [Actually right angles relative to hour hand: ~22 in 12 hrs; but relative to a fixed direction: 4 per hour]
+     ANSWER: (C)
+
+Q17. A watch is 10 minutes slow. If the watch shows 4:30, the
+     correct time is: ?
+     (A) 4:20   (B) 4:30   (C) 4:40   (D) 5:00
+     ANSWER: (C)
+
+Q18. Between 7 and 8 o'clock, when are the hands of a clock
+     perpendicular to each other (first time)?
+     At 7:00, gap = 35 min spaces.
+     For 90°: hands 15 min apart.
+     35 - 15 = 20 min to close → time = 20 × 12/11 = 240/11 min past 7
+     = 21 9/11 min past 7.
+     (A) 7:21 9/11   (B) 7:25   (C) 7:22   (D) 7:20
+     ANSWER: (A)
+
+Q19. In a 12-hour period, how many times are the clock hands
+     at 180° (opposite each other)?
+     (A) 10   (B) 11   (C) 12   (D) 22
+     ANSWER: (B)
+
+Q20. If a clock is placed face-down and you look at the back,
+     what does 3 o'clock appear to be?
+     (A) 3   (B) 6   (C) 9   (D) 12
+     ANSWER: (C)
+
+Q21. At what angle (smaller) are the hands of a clock at 1:00?
+     (A) 25°   (B) 30°   (C) 45°   (D) 60°
+     ANSWER: (B)
+
+Q22. A clock loses 5 minutes every 24 hours. After 6 days, it will
+     be slow by: ?
+     (A) 30 min   (B) 35 min   (C) 25 min   (D) 20 min
+     ANSWER: (A)
+
+Q23. At what time between 4 and 5 is the minute hand exactly
+     opposite to the hour hand (180° apart)?
+     At 4:00, gap = 20 min. Need gap = 30 min.
+     Time = (30-20) × 12/11 = 120/11 = 10 10/11 min past 4
+     = 4:10 10/11
+     (A) 4:45   (B) 4:10 10/11   (C) 4:30   (D) 4:54 6/11
+     ANSWER: (D) [54 6/11 min: recalculate: at 4, gap=20. For 180°: need 30 min gap.
+                   Rate = 5.5 min/min. Time to add 10 min of space = 10/5.5 × 60... 
+                   Actually: gap needed = 30-20=10 spaces to gain. At 5.5 spaces/min: 
+                   time = 10/5.5 = 20/11 min... No: 
+                   Standard: hands opposite when minute hand is 30 min ahead in spaces.
+                   At 4:00, minute=0, hour=20. For opposite: minute - hour = 30 (mod 60).
+                   M - 5.5t/60×60... use formula: t = (H×30 ∓ 180)/5.5
+                   At 4: t = (4×30-180)/5.5 = (120-180)/5.5 = negative → use +180
+                   t = (120+180)/5.5 = 300/5.5 = 54 6/11]
+     ANSWER: (D)
+
+Q24. A clock shows 5:25. What is its mirror image time?
+     12:00 - 5:25 = 6:35
+     (A) 5:35   (B) 6:25   (C) 6:35   (D) 7:35
+     ANSWER: (C)
+
+Q25. The hour hand moves from 12 to 4. The angle it sweeps is: ?
+     (A) 60°   (B) 90°   (C) 120°   (D) 150°
+     ANSWER: (C) [4 × 30° = 120°]
+
+Q26. How many degrees does the minute hand move in 20 minutes?
+     (A) 90°   (B) 100°   (C) 120°   (D) 150°
+     ANSWER: (C) [6° × 20 = 120°]
+
+Q27. How many degrees does the hour hand move in 2 hours?
+     (A) 30°   (B) 45°   (C) 60°   (D) 90°
+     ANSWER: (C) [0.5° × 120 min = 60°]
+
+Q28. At 3:15, the angle between the hands is: ?
+     |30×3 - 5.5×15| = |90 - 82.5| = 7.5°
+     (A) 7.5°   (B) 8°   (C) 8.5°   (D) 9°
+     ANSWER: (A)
+
+Q29. A clock is set to the correct time at 12:00. It gains
+     1 minute every hour. What actual time is it when the
+     clock shows 6:06?
+     Let actual time = t hours. Clock reads t + t/60 hours × 60 min... 
+     Clock shows 6 hr 6 min = 366 min elapsed on fast clock.
+     366 min on fast clock = 366 × 60/61 min actual = 360 min = 6 hours.
+     (A) 6:00   (B) 5:54   (C) 6:10   (D) 5:58
+     ANSWER: (A)
+
+Q30. At what time between 9 and 10 are the hands of a clock
+     together (coincident)?
+     At 9:00, hour hand at 45 min mark. Minute hand at 0.
+     Time = 45 × 12/11 = 540/11 = 49 1/11 min past 9.
+     (A) 9:45   (B) 9:48   (C) 9:49 1/11   (D) 9:50
+     ANSWER: (C)
+
+Q31. A digital clock shows 12:48. How many hours until it shows
+     the same digit pattern?
+     (A) 12   (B) 22   (C) 24   (D) 11
+     ANSWER: (C) [same time next day = 24 hours]
+
+Q32. Between 1 and 2 o'clock, at what time are the hands at
+     right angles for the first time?
+     At 1:00, gap = 5 min. For 90° (15 min spaces):
+     Need to gain 10 min spaces. Time = 10/5.5 × 60... 
+     = 10 × 12/11 = 120/11 = 10 10/11 min past 1 = 1:10 10/11.
+     (A) 1:10 10/11   (B) 1:15   (C) 1:12   (D) 1:20
+     ANSWER: (A)
+
+Q33. A clock face shows 10:10. What is the REFLEX angle
+     (larger angle) between the hands?
+     Regular angle = |300 - 55| = 245°? Wait: |30×10 - 5.5×10| = |300-55| = 245°.
+     Reflex of 245° = 360-245 = 115°. So the SMALLER angle = 115°, larger = 245°.
+     (A) 115°   (B) 245°   (C) 180°   (D) 270°
+     ANSWER: (B) [245° is the reflex angle]
+
+Q34. A clock's minute hand is at the 6. The hour hand is between
+     2 and 3. The time is approximately: ?
+     (A) 2:30   (B) 8:30   (C) 6:10   (D) 6:15
+     ANSWER: (A)
+
+Q35. In how many minutes does the minute hand cover the same
+     angle as the hour hand covers in 1 hour?
+     Hour hand: 30° in 1 hour. Minute hand: 6° per min.
+     30/6 = 5 minutes.
+     (A) 4 min   (B) 5 min   (C) 6 min   (D) 12 min
+     ANSWER: (B)
+
+Q36. A clock reads 3:40. What time does its water reflection
+     (reflected vertically) show?
+     Vertical reflection of 3:40: top↔bottom; 3:40 reflected → 8:20 becomes...
+     Actually: reflecting a clock face vertically → 12 stays at top; 
+     left-right numbers flip. 3 becomes 9, so 3:40 → 9:20.
+     (A) 8:20   (B) 9:20   (C) 9:40   (D) 8:40
+     ANSWER: (B) [horizontal mirror: 12:00 - 3:40 = 8:20; vertical mirror: different]
+
+Q37. How many times does the second hand of a clock complete a
+     full revolution in 1 hour?
+     (A) 30   (B) 60   (C) 120   (D) 360
+     ANSWER: (B)
+
+Q38. At 6:30, the angle between the hands is: ?
+     |30×6 - 5.5×30| = |180 - 165| = 15°
+     (A) 10°   (B) 15°   (C) 20°   (D) 30°
+     ANSWER: (B)
+
+Q39. A clock loses 4 minutes in every 24 hours. If it was set
+     correctly on Monday at 12:00 noon, what time does it show
+     on Thursday at 12:00 noon (72 hours later)?
+     Lost time = 4 × 3 = 12 minutes.
+     (A) 11:48   (B) 11:50   (C) 12:12   (D) 12:08
+     ANSWER: (A)
+
+Q40. Between 2 and 3 o'clock, at what time are the hands of a
+     clock in opposite directions?
+     At 2:00, gap = 10 min. For 180° (30 min gap):
+     Gain 20 more min. Time = 20 × 12/11 = 240/11 = 21 9/11 min past 2.
+     (A) 2:21 9/11   (B) 2:30   (C) 2:43 7/11   (D) 2:50
+     ANSWER: (C) [43 7/11: recalculate. 
+                   For hands to be opposite: M-H=30 min spaces.
+                   At 2:00: H=10, M=0. Difference = -10. Need difference = 30.
+                   Diff increases at 5.5 per hour... per min actually.
+                   5.5t/60 - wait: each min, minute hand gains 5.5 min-spaces over hour.
+                   Need to gain 30-(-10)=40 spaces. Wait: minute IS behind.
+                   Minute hand needs to be 30 AHEAD: needs to gain 10+30=40 spaces.
+                   Time = 40/5.5 × ... = 40 × 12/11 = 480/11 = 43 7/11 min past 2.]
+     ANSWER: (C)
+
+Q41. At 11:55, the angle between the hands (smaller) is: ?
+     |30×11 - 5.5×55| = |330 - 302.5| = 27.5°
+     (A) 22.5°   (B) 25°   (C) 27.5°   (D) 30°
+     ANSWER: (C)
+
+Q42. A clock is correct at 8 AM. It gains 3 min per hour.
+     At 2 PM the same day, it will show: ?
+     Gain = 3 × 6 = 18 min.
+     (A) 2:00   (B) 2:18   (C) 2:15   (D) 1:42
+     ANSWER: (B)
+
+Q43. In a 24-hour period, how many times are clock hands
+     at right angles to each other?
+     (A) 22   (B) 44   (C) 24   (D) 48
+     ANSWER: (B)
+
+Q44. At 12:30, the hour hand is at: ?
+     (A) 12   (B) Between 12 and 1   (C) 1   (D) Between 1 and 2
+     ANSWER: (B) [moved 15° = halfway between 12 and 1]
+
+Q45. A clock's hands are at 90° at 12:__ first time after 12:00.
+     Time = 15 × 12/11 = 180/11 = 16 4/11 min past 12? No:
+     For right angle: gap = 15 min spaces.
+     At 12:00, gap=0. Need gap=15. Time = 15/5.5 × 60... 
+     = 15 × 12/11 = 180/11 = 16 4/11 min.
+     (A) 12:15   (B) 12:16 4/11   (C) 12:20   (D) 12:22
+     ANSWER: (B)
+
+Q46. The angle between hour and minute hands at 2:15 is: ?
+     |30×2 - 5.5×15| = |60 - 82.5| = 22.5°
+     (A) 20°   (B) 22.5°   (C) 25°   (D) 27.5°
+     ANSWER: (B)
+
+Q47. A train departs at 23:45 and arrives at 03:15 next day.
+     Duration of journey: ?
+     (A) 3.5 hrs   (B) 3 hrs 30 min   (C) 3 hrs 45 min   (D) 4 hrs
+     ANSWER: (A) [24:00-23:45=15 min; 3:15 more = 3 hr 30 min total]
+
+Q48. If 6 hours 40 minutes ago it was 4 hours 20 minutes after
+     midnight, what is the present time?
+     4:20 AM + 6 hr 40 min = 11:00 AM
+     (A) 9:00 AM   (B) 10:00 AM   (C) 11:00 AM   (D) 12:00 PM
+     ANSWER: (C)
+
+Q49. A broken clock is right twice a day. A clock that doesn't
+     move is also right: ?
+     (A) Never   (B) Once a day   (C) Twice a day   (D) 4 times a day
+     ANSWER: (C) [a stopped clock shows the same time and is correct twice in 24 hrs]
+
+Q50. What is the angle between the hour and minute hands at 5:15?
+     |30×5 - 5.5×15| = |150 - 82.5| = 67.5°
+     (A) 60°   (B) 62.5°   (C) 67.5°   (D) 72.5°
+     ANSWER: (C)
+
+----------------------------------------------------------------
+SECTION B: CALENDAR PROBLEMS (Q51–100)
+----------------------------------------------------------------
+
+Q51. Which of the following years is a leap year?
+     (A) 1900   (B) 2000   (C) 2100   (D) 1800
+     ANSWER: (B)
+
+Q52. How many days in a leap year?
+     (A) 355   (B) 365   (C) 366   (D) 367
+     ANSWER: (C)
+
+Q53. January 1, 2000 was a Saturday. What day was January 1, 2001?
+     2000 is a leap year, so 366 days = 52 weeks + 2 days.
+     Saturday + 2 = Monday.
+     (A) Sunday   (B) Monday   (C) Tuesday   (D) Wednesday
+     ANSWER: (B)
+
+Q54. If March 1 is a Thursday, what day is April 1 of the same year?
+     March has 31 days. 31 = 4 weeks + 3 days.
+     Thursday + 3 = Sunday.
+     (A) Friday   (B) Saturday   (C) Sunday   (D) Monday
+     ANSWER: (C)
+
+Q55. How many odd days in 100 years?
+     (A) 1   (B) 2   (C) 5   (D) 6
+     ANSWER: (C) [76 ordinary years + 24 leap years = 76 + 24×2 = 76+48 = 124 odd days; 124 mod 7 = 5]
+
+Q56. If today is Wednesday, what day is 100 days from today?
+     100 = 14 × 7 + 2. Wednesday + 2 = Friday.
+     (A) Thursday   (B) Friday   (C) Saturday   (D) Sunday
+     ANSWER: (B)
+
+Q57. February 29 occurs in:
+     (A) Every 4 years only
+     (B) Every century year
+     (C) Leap years (every 4 years except century years not
+         divisible by 400)
+     (D) Every other year
+     ANSWER: (C)
+
+Q58. How many Sundays in a normal (non-leap) year?
+     365 days = 52 weeks + 1 day. If that extra day is Sunday: 53. Otherwise: 52.
+     (A) 51   (B) 52   (C) 52 or 53   (D) 53
+     ANSWER: (C)
+
+Q59. What day of the week was 1 January 1901?
+     1 Jan 1900 = Monday (known reference). 1900 is NOT a leap year.
+     365 days = 52 weeks + 1 day. So 1 Jan 1901 = Monday + 1 = Tuesday.
+     (A) Monday   (B) Tuesday   (C) Wednesday   (D) Thursday
+     ANSWER: (B)
+
+Q60. If a year starts on Friday and is a leap year, how many
+     Fridays are there in that year?
+     366 days = 52 × 7 + 2. The two extra days are Friday and Saturday.
+     So there are 53 Fridays.
+     (A) 52   (B) 53   (C) 54   (D) 51
+     ANSWER: (B)
+
+Q61. A person was born on 29 February 1996. On which date did
+     they celebrate their 4th actual birthday?
+     Next Feb 29 after 1996: 2000 (leap year).
+     (A) Feb 28, 2000   (B) Feb 29, 2000   (C) Mar 1, 2000   (D) Feb 29, 1997
+     ANSWER: (B)
+
+Q62. What is the maximum number of times a particular date
+     (like the 13th) can fall on a Friday in a year?
+     (A) 1   (B) 2   (C) 3   (D) 4
+     ANSWER: (C) [Friday the 13th occurs 1, 2, or 3 times per year]
+
+Q63. How many odd days in 400 years?
+     (A) 0   (B) 1   (C) 2   (D) 5
+     ANSWER: (A) [The Gregorian calendar repeats every 400 years = 0 odd days net]
+
+Q64. Today is the 15th of a month. 45 days later will be the: ?
+     15 + 45 = 60. Depends on month. In general: 15+45=60th day from start of month.
+     If in January: Jan has 31 days; 60-31=29; 31+29=60 → Feb 29 or Mar 1.
+     (A) Depends on the month and year
+     (B) Always the 30th of the next month
+     (C) Always the 29th of next month
+     (D) Always the 1st of the month after next
+     ANSWER: (A)
+
+Q65. If the first day of a century (January 1) is Tuesday,
+     what day is January 2 of the same year?
+     (A) Monday   (B) Tuesday   (C) Wednesday   (D) Thursday
+     ANSWER: (C)
+
+Q66. A meeting is scheduled every 10 days starting on a Monday.
+     The 8th meeting falls on: ?
+     Day = Monday + (8-1) × 10 = Monday + 70 days.
+     70 = 10 × 7 = exactly 10 weeks. Same day = Monday.
+     (A) Monday   (B) Tuesday   (C) Wednesday   (D) Thursday
+     ANSWER: (A)
+
+Q67. Which months have 30 days?
+     (A) April, June, September, November
+     (B) April, June, September, October
+     (C) April, July, September, November
+     (D) February, April, June, September
+     ANSWER: (A)
+
+Q68. How many days from January 15 to March 15 (non-leap year)?
+     Jan: 31-15=16 days remaining; Feb=28; Mar 1-15=15.
+     Total = 16+28+15 = 59 days.
+     (A) 58   (B) 59   (C) 60   (D) 61
+     ANSWER: (B)
+
+Q69. A man was born on the 5th day of the month. His brother was
+     born exactly 2 years 3 months and 5 days later. On what
+     date was his brother born?
+     5 + 5 = 10th day; month + 3; year + 2 (plus 1 if months carry over).
+     (A) 10th, 3 months later   (B) 5th, 3 months later
+     (C) 10th, same month       (D) Exact date depends on months
+     ANSWER: (A)
+
+Q70. In a non-leap year, the 100th day falls in: ?
+     Jan=31, Feb=28, Mar=31. 31+28=59. 100-59=41. 41-31(Mar)=10. → April 10.
+     (A) March 31   (B) April 9   (C) April 10   (D) April 11
+     ANSWER: (C)
+
+Q71. If January 1 of a particular year is a Sunday, what day
+     is July 4 of the same (non-leap) year?
+     Days from Jan 1 to July 4:
+     Jan=31, Feb=28, Mar=31, Apr=30, May=31, Jun=30, Jul 1-4=4.
+     Total from Jan 2 to Jul 4 = 31+28+31+30+31+30+3 = 184 days.
+     Total from Jan 1: 183 days have passed after Jan 1. So it's the 184th day.
+     184 mod 7 = 184 - 26×7 = 184-182 = 2. Sunday + 2 = Tuesday? Let me recount.
+     Jan 1 = day 1 (Sunday). Jul 4 = day 185.
+     (185-1) = 184 days after Sunday. 184/7 = 26 weeks + 2. Sunday+2 = Tuesday.
+     (A) Monday   (B) Tuesday   (C) Wednesday   (D) Thursday
+     ANSWER: (B)
+
+Q72. How many days are in February 2096?
+     2096 ÷ 4 = 524 (divisible). Is it a century year? No (not 2100).
+     So it's a leap year. February has 29 days.
+     (A) 28   (B) 29   (C) 30   (D) 31
+     ANSWER: (B)
+
+Q73. February 2100 has how many days?
+     2100 ÷ 100 = 21 (century year). 2100 ÷ 400 = 5.25 (NOT divisible). Not a leap year.
+     (A) 28   (B) 29   (C) 30   (D) 27
+     ANSWER: (A)
+
+Q74. A man remembers an appointment is between the 10th and 15th
+     of a month, not on Thursday or Sunday. The date is either 11
+     or 12. The appointment is on: ?
+     If 11th is Thursday: 12th is Friday → 12th works.
+     If 11th is Sunday: 12th is Monday → 12th works.
+     The appointment could be: 11th (if not Thu/Sun) or 12th.
+     (A) 11th   (B) 12th   (C) 13th   (D) Cannot determine
+     ANSWER: (D)
+
+Q75. A project starts on October 1 and lasts exactly 75 days.
+     On what date does it end?
+     Oct: 31-1=30 days remaining in Oct. 75-30=45 days needed in Nov+.
+     Nov=30 days; 45-30=15 days into December. Project ends Dec 15.
+     (A) December 14   (B) December 15   (C) December 16   (D) December 20
+     ANSWER: (B)
+
+Q76. Ravi was born on 16th August 1995. His friend Priya was born
+     exactly 3 years before him. Priya's birth year: ?
+     (A) 1992   (B) 1993   (C) 1994   (D) 1998
+     ANSWER: (A)
+
+Q77. If a week starts on Wednesday, the 15th day of that period is: ?
+     Day 1 = Wednesday. Day 15 = Wednesday + 14 = Wednesday + 0 (14 mod 7 = 0).
+     (A) Wednesday   (B) Thursday   (C) Tuesday   (D) Monday
+     ANSWER: (A)
+
+Q78. How many years in a century have 366 days?
+     Normal: 25 years divisible by 4; but century year itself: 
+     If not divisible by 400 (like 1900, 2100): 24 leap years.
+     If divisible by 400 (like 2000): 25 leap years.
+     (A) 24 or 25   (B) 25 always   (C) 24 always   (D) 26
+     ANSWER: (A)
+
+Q79. If today is Tuesday, 3rd, what day is the 17th of the same month?
+     17-3=14 days later. 14 mod 7 = 0. Same day.
+     (A) Tuesday   (B) Wednesday   (C) Saturday   (D) Monday
+     ANSWER: (A)
+
+Q80. A lunar month is approximately 29.5 days. How many lunar
+     months are there in a solar year (365 days)?
+     365 / 29.5 ≈ 12.37.
+     (A) 12   (B) 12.37   (C) 13   (D) 11.5
+     ANSWER: (B) [approximately 12.37; in practice ~12 to 13]
+
+Q81. What day of the week is December 25, if January 1 of that
+     year (non-leap) is a Friday?
+     Jan 1 = Friday. Dec 25 = day 359.
+     (359-1) = 358 days after Friday. 358 mod 7 = 358-51×7 = 358-357 = 1.
+     Friday + 1 = Saturday.
+     (A) Friday   (B) Saturday   (C) Sunday   (D) Monday
+     ANSWER: (B)
+
+Q82. A person's birthday is on February 29. In how many years
+     will they celebrate on Feb 29 for the 5th time?
+     First birthday: year 0. 5th = 4 more leap years after birth year.
+     Usually: birth year (1st), +4, +8, +12, +16 (5th).
+     But: some 4-year intervals skip (e.g., 1896→1904 skips 1900).
+     Approximately: 16 years (could be more if century year is skipped).
+     (A) 16 years   (B) 17 years   (C) 20 years   (D) 12 years
+     ANSWER: (A)
+
+Q83. The calendar for which year will be the same as 2023?
+     2023 is a non-leap year starting on Sunday.
+     Looking for next non-leap year starting on Sunday: 2034.
+     (A) 2029   (B) 2034   (C) 2030   (D) 2028
+     ANSWER: (B)
+
+Q84. A government year budget runs from April 1 to March 31.
+     If April 1 is a Monday, what day is March 31 (end of year)?
+     In non-leap year: 365 days. 365 mod 7 = 1. Monday + 1 = Tuesday.
+     Wait: from April 1 to March 31 = 365 days total (the year).
+     Last day (March 31) = April 1 + 364 days. 364 = 52×7. Same day = Monday.
+     (A) Sunday   (B) Monday   (C) Tuesday   (D) Wednesday
+     ANSWER: (B)
+
+Q85. The year 2020 started on Wednesday. What day did 2020 end?
+     2020 is a leap year = 366 days. 366 mod 7 = 2. Wednesday + 2 - 1 = Thursday.
+     [Day 1=Wednesday, Day 366 = Wednesday + 365 days. 365 mod 7=1. Wed+1=Thursday.]
+     (A) Wednesday   (B) Thursday   (C) Friday   (D) Tuesday
+     ANSWER: (B)
+
+Q86. How many times does a date (like the 5th) repeat in a year?
+     (A) 11 times   (B) 12 times   (C) 13 times   (D) Depends on month
+     ANSWER: (B) [every month has a 5th = 12 months = 12 times]
+
+Q87. On what day of the week does India's Independence Day
+     (August 15, 1947) fall?
+     Historical fact: August 15, 1947 = Friday.
+     (A) Thursday   (B) Friday   (C) Saturday   (D) Sunday
+     ANSWER: (B)
+
+Q88. A month starts on a Saturday and has 30 days. How many
+     Saturdays are in that month?
+     1, 8, 15, 22, 29 = 5 Saturdays.
+     (A) 4   (B) 5   (C) 6   (D) 3
+     ANSWER: (B)
+
+Q89. How many days are there from Jan 1 to Dec 31 (inclusive)
+     in a leap year?
+     (A) 365   (B) 366   (C) 367   (D) 364
+     ANSWER: (B)
+
+Q90. A certain month has 5 Wednesdays and 5 Thursdays. The
+     month has 31 days and starts on: ?
+     31-day month with 5 Wed and 5 Thu: The 31st is a Thursday,
+     1st is a Wednesday. Or 30th=Wed, 31st=Thu → 1st = Wed.
+     (A) Monday   (B) Tuesday   (C) Wednesday   (D) Thursday
+     ANSWER: (C)
+
+Q91. If Feb 1 is Thursday, what day is March 1 in a leap year?
+     Feb in leap year = 29 days. 29 mod 7 = 1. Thursday + 1 = Friday.
+     (A) Thursday   (B) Friday   (C) Saturday   (D) Sunday
+     ANSWER: (B)
+
+Q92. What is the day of the week for October 2, 2002?
+     (Reference: Jan 1, 2000 = Saturday)
+     2000: 366 days (leap). 2001: 365. Jan 1, 2001 = Sat+2=Mon. Jan 1, 2002 = Mon+1=Tue.
+     Days from Jan 1, 2002 to Oct 2, 2002: Jan(31)+Feb(28)+Mar(31)+Apr(30)+May(31)+Jun(30)+Jul(31)+Aug(31)+Sep(30)+Oct 1-2(2) = 274 days.
+     (274-1)=273 days after Jan 1. 273 mod 7 = 0. Same as Tuesday = Wednesday.
+     (A) Monday   (B) Tuesday   (C) Wednesday   (D) Thursday
+     ANSWER: (C)
+
+Q93. A man works 6 days a week (Mon–Sat). In a year with 365 days,
+     starting on Monday, how many working days are there?
+     52 weeks × 6 + extra day(s). 365 = 52×7+1. Extra day = Monday.
+     Total = 52×6+1 = 313.
+     (A) 310   (B) 312   (C) 313   (D) 315
+     ANSWER: (C)
+
+Q94. The month of April always has: ?
+     (A) 28 days   (B) 29 days   (C) 30 days   (D) 31 days
+     ANSWER: (C)
+
+Q95. 2000 is a leap year. 2100 is NOT. Which formula determines
+     a century leap year?
+     (A) Divisible by 4
+     (B) Divisible by 100
+     (C) Divisible by 400
+     (D) Divisible by 200
+     ANSWER: (C)
+
+Q96. How many weeks are in 2 years (one leap, one normal)?
+     366 + 365 = 731 days. 731 / 7 = 104 weeks + 3 days.
+     (A) 104   (B) 104 weeks and 3 days   (C) 105   (D) 103
+     ANSWER: (B)
+
+Q97. A person is born on January 31. The year they turn 50,
+     they want to celebrate on their birthday. In what year
+     do they turn 50 if born in 1980?
+     1980 + 50 = 2030. January 31, 2030 exists (all years have Jan 31).
+     (A) 2030   (B) 2029   (C) 2031   (D) 2028
+     ANSWER: (A)
+
+Q98. If March 15 is a Friday, what day of the week is May 15?
+     March 15 to May 15: 16 days remaining in March (31-15=16) +
+     30 (April) + 15 (May) = 61 days.
+     61 mod 7 = 61-56=5. Friday + 5 = Wednesday.
+     (A) Monday   (B) Tuesday   (C) Wednesday   (D) Thursday
+     ANSWER: (C)
+
+Q99. A school has 200 working days in a year. The school year
+     starts on June 1 (Monday). Assuming 5-day weeks, the 200th
+     working day falls approximately: ?
+     200 days / 5 per week = 40 weeks. 40 weeks after June 1 =
+     approximately March-April of next year.
+     (A) February   (B) March   (C) April   (D) May
+     ANSWER: (C)
+
+Q100. How many Mondays are there in the first 100 days of a year
+      that starts on a Wednesday?
+      Day 1 = Wednesday. First Monday = Day 6.
+      Mondays: 6, 13, 20, 27, ..., 6+7k ≤ 100.
+      7k ≤ 94. k ≤ 13.4. So k = 0,1,...,13 → 14 Mondays.
+      (A) 13   (B) 14   (C) 15   (D) 16
+      ANSWER: (B)
+
+================================================================
+END OF TOPIC 30 — 100 QUESTIONS COMPLETE
+================================================================

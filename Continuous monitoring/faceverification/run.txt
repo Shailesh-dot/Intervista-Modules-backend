@@ -1,0 +1,5 @@
+To run the this Continuous monitoring folder module :
+
+1. Activate the .venv : .\.venv\Scripts\activate
+
+2. Run this command : python api_bridge.py

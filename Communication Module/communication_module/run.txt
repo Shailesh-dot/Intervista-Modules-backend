@@ -1,0 +1,5 @@
+To Run this verbal module:
+
+1. Run the com : .\com\Scripts\Activate.ps1
+
+2. Then run this command : uvicorn app.main:app --port 8002 --reload

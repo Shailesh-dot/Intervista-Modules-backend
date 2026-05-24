@@ -1,0 +1,604 @@
+================================================================
+TOPIC 25: MISSING FIGURE / IMAGE COMPLETION
+100 Questions with Options and Answers
+(Note: All questions describe visual patterns in text form.
+ For best results, pair with corresponding figure diagrams.)
+================================================================
+
+INSTRUCTIONS: Each question presents a matrix or sequence where
+one figure is missing (marked with ?). Choose the correct option
+that logically completes the pattern.
+
+----------------------------------------------------------------
+SECTION A: 3×3 MATRIX COMPLETION (Q1–Q40)
+----------------------------------------------------------------
+
+Q1. A 3×3 matrix contains shapes that rotate 90° clockwise in
+    each row. Row 1: Circle facing right, Circle facing down,
+    Circle facing left. Row 2: Square with arrow up, Square with
+    arrow right, Square with arrow down. Row 3: Triangle pointing
+    up, Triangle pointing right, ?
+    (A) Triangle pointing down
+    (B) Triangle pointing left
+    (C) Triangle pointing up
+    (D) Triangle pointing right
+    ANSWER: (A)
+
+Q2. In a 3×3 matrix, the number of sides of the shape increases
+    by 1 across each row and increases by 1 down each column.
+    Row 1: 3,4,5. Row 2: 4,5,6. Row 3: 5,6,?
+    (A) 6  (B) 7  (C) 8  (D) 9
+    ANSWER: (B)
+
+Q3. A 3×3 matrix has shapes with an inner dot. The dot moves:
+    top-left → top-right → bottom-right → bottom-left (clockwise).
+    Row 1: dot top-left, dot top-right, dot bottom-right.
+    Row 2: dot bottom-left, dot top-left, dot top-right.
+    Row 3: dot bottom-right, dot bottom-left, ?
+    (A) dot top-left       (B) dot top-right
+    (C) dot bottom-right   (D) dot bottom-left
+    ANSWER: (A)
+
+Q4. Each row of a 3×3 matrix has circles, and the shading
+    pattern follows: white, grey, black across each row.
+    Row 3: grey, black, ?
+    (A) White  (B) Grey  (C) Black  (D) Striped
+    ANSWER: (A)
+
+Q5. In the matrix, each row contains a large, medium, and small
+    version of the same shape. Row 3 has: large pentagon, medium
+    pentagon, ?
+    (A) Large pentagon     (B) Medium pentagon
+    (C) Small pentagon     (D) Tiny hexagon
+    ANSWER: (C)
+
+Q6. A 3×3 matrix shows stars with varying number of points:
+    Row 1: 4,5,6. Row 2: 5,6,7. Row 3: 6,7,?
+    (A) 7  (B) 8  (C) 9  (D) 6
+    ANSWER: (B)
+
+Q7. Each figure in the matrix is rotated 45° more than the
+    previous one across the row. Row 3 starts at 90°, then 135°,
+    then ?
+    (A) 180°  (B) 160°  (C) 150°  (D) 200°
+    ANSWER: (A)
+
+Q8. The number of lines inside each shape equals the row number
+    × column number. Row 3, Column 3: ?
+    (A) 6  (B) 7  (C) 8  (D) 9
+    ANSWER: (D)
+
+Q9. In a 3×3 matrix, each row has a shape with its mirror image
+    and then the original again. Row 3: Arrow pointing right,
+    Arrow pointing left, ?
+    (A) Arrow pointing right  (B) Arrow pointing up
+    (C) Arrow pointing down   (D) Arrow pointing left
+    ANSWER: (A)
+
+Q10. A 3×3 matrix: shapes change from filled → outline → filled.
+     Row 3: outline circle, filled circle, ?
+     (A) Outline circle   (B) Filled circle
+     (C) Half-filled      (D) Dotted circle
+     ANSWER: (A)
+
+Q11. In the grid, the diagonal from top-left to bottom-right
+     always has the same shape. Diagonal shapes: square. Row 3,
+     Column 3 must be: ?
+     (A) Triangle  (B) Square  (C) Circle  (D) Pentagon
+     ANSWER: (B)
+
+Q12. Each row contains exactly one each of: a shape with 0, 1,
+     and 2 dots inside. Row 3: shape with 2 dots, shape with 0
+     dots, ?
+     (A) Shape with 1 dot   (B) Shape with 2 dots
+     (C) Shape with 3 dots  (D) Shape with 0 dots
+     ANSWER: (A)
+
+Q13. Shapes in the matrix flip horizontally each column.
+     Column 3 always shows the original orientation.
+     Row 3, Column 2: flipped arrow. Row 3, Column 3: ?
+     (A) Flipped arrow     (B) Original arrow
+     (C) Rotated arrow     (D) Upward arrow
+     ANSWER: (B)
+
+Q14. Sum of sides of shapes in each row = 12.
+     Row 3: hexagon (6) + triangle (3) + ?
+     (A) 2  (B) 3  (C) 4  (D) 5
+     ANSWER: (B) [triangle = 3 sides]
+
+Q15. In a 3×3 matrix, columns 1,2,3 always contain shapes in
+     order: square, circle, triangle. Row 3, Column 3: ?
+     (A) Square  (B) Circle  (C) Triangle  (D) Pentagon
+     ANSWER: (C)
+
+Q16. Each shape is shaded: Row 1 = 25%, Row 2 = 50%, Row 3 = 75%.
+     Row 3, Column 2 has 75% shading. Row 3, Column 3: ?
+     (A) 25%  (B) 50%  (C) 75%  (D) 100%
+     ANSWER: (C)
+
+Q17. In the matrix, shapes increase in size: small → medium →
+     large going down each column. Column 3: small heart, medium
+     heart, ?
+     (A) Small heart   (B) Medium heart
+     (C) Large heart   (D) Extra-large heart
+     ANSWER: (C)
+
+Q18. A 3×3 matrix has arrows. Each row shows a rotation of
+     90°. Row 3 starts pointing south, then west, then ?
+     (A) North  (B) East  (C) South  (D) West
+     ANSWER: (A)
+
+Q19. Each row's shapes contain 1, 2, 3 dots respectively.
+     Row 3: 3 dots, 1 dot, ?
+     (A) 2 dots  (B) 3 dots  (C) 1 dot  (D) 4 dots
+     ANSWER: (A)
+
+Q20. A 3×3 matrix shows patterns of lines inside rectangles:
+     horizontal, vertical, diagonal. Row 3: diagonal, horizontal, ?
+     (A) Diagonal    (B) Horizontal
+     (C) Vertical    (D) Cross
+     ANSWER: (C)
+
+Q21. In the matrix, shapes are: filled circle, ring, filled
+     circle repeating across rows. Row 3: ring, filled circle, ?
+     (A) Ring           (B) Filled circle
+     (C) Half-filled    (D) Empty square
+     ANSWER: (A)
+
+Q22. Size of shape (in units) follows: Col1=3, Col2=2, Col3=1
+     in every row. Row 3, Col3: ?
+     (A) Largest   (B) Medium   (C) Smallest   (D) Equal
+     ANSWER: (C)
+
+Q23. In a 3×3 matrix of clocks, each clock advances by 2 hours
+     across the row. Row 3: 6:00, 8:00, ?
+     (A) 9:00  (B) 10:00  (C) 11:00  (D) 12:00
+     ANSWER: (B)
+
+Q24. Each row has a shape divided into: 2, 4, 8 equal parts.
+     Row 3: 8 parts, 2 parts, ?
+     (A) 4 parts  (B) 6 parts  (C) 8 parts  (D) 10 parts
+     ANSWER: (A)
+
+Q25. A 3×3 matrix uses three shapes (circle, square, pentagon)
+     each appearing exactly once per row and column (like Sudoku).
+     Row 3, Col 3 is missing. Row 3 has circle, pentagon, ?
+     (A) Circle  (B) Square  (C) Pentagon  (D) Triangle
+     ANSWER: (B)
+
+Q26. Shapes in the matrix alternate between outlined and filled
+     along the anti-diagonal. Anti-diagonal bottom item: ?
+     If pattern is filled → outline → filled: ?
+     (A) Outlined  (B) Filled  (C) Striped  (D) Dotted
+     ANSWER: (A)
+
+Q27. In a 3×3 matrix, each row has: shape with 4 sides, 5 sides,
+     6 sides. Row 3: pentagon (5), hexagon (6), ?
+     (A) Triangle (3)   (B) Square (4)
+     (C) Pentagon (5)   (D) Heptagon (7)
+     ANSWER: (B)
+
+Q28. The pattern across each row: shape, its reflection, original.
+     Row 3: F-shape, mirrored F, ?
+     (A) Mirrored F   (B) F-shape
+     (C) Rotated F    (D) Upside-down F
+     ANSWER: (B)
+
+Q29. Each cell shading increases by 1 level (1–9 levels total,
+     reading left-to-right, top-to-bottom). Cell 9 (Row 3,
+     Col 3): ?
+     (A) Lightest  (B) Medium  (C) Darkest  (D) White
+     ANSWER: (C)
+
+Q30. A 3×3 matrix of pentagons: each rotated 72° more than the
+     previous. Row 3, Col 3: Row 3 starts at 144°, Col2 = 216°,
+     Col 3 = ?
+     (A) 270°  (B) 288°  (C) 300°  (D) 252°
+     ANSWER: (B)
+
+Q31. In each row, number of black squares inside the shape =
+     row number. Row 3: shapes have 3 black squares. Row 3,
+     Col 3 shows: 1 black square, 2 black squares, ?
+     (A) 2  (B) 3  (C) 4  (D) 5
+     ANSWER: (B)
+
+Q32. The matrix has shapes connected with 0, 1, 2 lines to their
+     borders respectively across each row. Row 3: 2 lines, 0 lines, ?
+     (A) 1 line  (B) 2 lines  (C) 0 lines  (D) 3 lines
+     ANSWER: (A)
+
+Q33. Each shape contains an inner shape that is one size smaller.
+     Row 3, Col 3 has a medium triangle inside it. The outer
+     shape must be: ?
+     (A) Small triangle   (B) Medium triangle
+     (C) Large triangle   (D) Square
+     ANSWER: (C)
+
+Q34. In a 3×3 matrix, shape complexity increases diagonally.
+     The bottom-right is always the most complex. Row 3, Col 3: ?
+     (A) Simple circle     (B) Complex hexagon with inner shapes
+     (C) Plain square      (D) Empty triangle
+     ANSWER: (B)
+
+Q35. Each row has the same shape but a different number of
+     internal lines: 0, 1, 2. Row 3, Col 3 already has: Col1 = 2
+     lines, Col2 = 0 lines. Col3 = ?
+     (A) 0 lines  (B) 1 line  (C) 2 lines  (D) 3 lines
+     ANSWER: (B)
+
+Q36. A 3×3 matrix contains letters rotating 90° clockwise:
+     Row 1: P, d, q. Row 2: b, P, d. Row 3: q, b, ?
+     (A) P  (B) d  (C) q  (D) b
+     ANSWER: (A)
+
+Q37. The shapes in the matrix have striped patterns:
+     horizontal stripes, vertical stripes, cross-hatch.
+     Row 3: cross-hatch, horizontal, ?
+     (A) Horizontal    (B) Vertical
+     (C) Cross-hatch   (D) Diagonal
+     ANSWER: (B)
+
+Q38. A 3×3 matrix: each column sums to 15 (numeric values).
+     Col 3: 4, 6, ?
+     (A) 3  (B) 4  (C) 5  (D) 6
+     ANSWER: (C)
+
+Q39. In the matrix, arrows point in these directions per row
+     (in degrees): Row 1: 0°, 90°, 180°. Row 2: 90°, 180°, 270°.
+     Row 3: 180°, 270°, ?
+     (A) 0° (or 360°)  (B) 90°  (C) 315°  (D) 270°
+     ANSWER: (A)
+
+Q40. Each row's shapes have sides = 3, 4, 5 but the ORDER
+     changes: Row 1: 3,4,5; Row 2: 4,5,3; Row 3: 5,3,?
+     (A) 3  (B) 4  (C) 5  (D) 6
+     ANSWER: (B)
+
+----------------------------------------------------------------
+SECTION B: SERIES COMPLETION (Q41–Q70)
+----------------------------------------------------------------
+
+Q41. A sequence of figures shows a square losing one corner at
+     each step: 4 corners, 3 corners, 2 corners, ?
+     (A) 1 corner  (B) 0 corners  (C) 2 corners  (D) 4 corners
+     ANSWER: (A)
+
+Q42. Figures show circles with increasing number of chords:
+     0, 1, 2, 3, ?
+     (A) 4  (B) 5  (C) 3  (D) 6
+     ANSWER: (A)
+
+Q43. A series: filled square, outline square, filled circle,
+     outline circle, filled triangle, ?
+     (A) Outline triangle   (B) Filled triangle
+     (C) Outline square     (D) Filled pentagon
+     ANSWER: (A)
+
+Q44. Arrow series: up, right, down, left, up, right, ?
+     (A) Up  (B) Right  (C) Down  (D) Left
+     ANSWER: (C)
+
+Q45. Shapes: pentagon, hexagon, heptagon, octagon, ?
+     (A) Nonagon   (B) Decagon
+     (C) Pentagon  (D) Hexagon
+     ANSWER: (A)
+
+Q46. A series of triangles: each successive triangle is smaller
+     by half. After 4th (size 1): ?
+     (A) Size 0.25  (B) Size 0.5  (C) Size 1  (D) Size 2
+     ANSWER: (B)
+
+Q47. A clock-face series: 12:00, 3:00, 6:00, 9:00, ?
+     (A) 11:00  (B) 12:00  (C) 1:00  (D) 10:00
+     ANSWER: (B)
+
+Q48. Series of shapes with dots inside: 1, 3, 5, 7, ?
+     (A) 8  (B) 9  (C) 10  (D) 11
+     ANSWER: (B)
+
+Q49. Figures show a diagonal line rotating 45° clockwise each
+     step: 0°, 45°, 90°, 135°, ?
+     (A) 160°  (B) 170°  (C) 180°  (D) 145°
+     ANSWER: (C)
+
+Q50. Figures: one line, then an X, then a *, then a # pattern —
+     lines increase by 1 each time. After # (4 lines), next: ?
+     (A) 5 lines  (B) 6 lines  (C) 4 lines  (D) 3 lines
+     ANSWER: (A)
+
+Q51. A figure series shows nested squares: 1 square, 2 squares,
+     3 squares, ? squares
+     (A) 3  (B) 4  (C) 5  (D) 6
+     ANSWER: (B)
+
+Q52. Series: large black circle, large white circle, medium
+     black circle, medium white circle, small black circle, ?
+     (A) Small white circle   (B) Small black circle
+     (C) Large black circle   (D) Tiny white circle
+     ANSWER: (A)
+
+Q53. A shape appears: normal, flipped horizontally, flipped
+     vertically, rotated 180°, normal, flipped horizontally, ?
+     (A) Normal              (B) Rotated 90°
+     (C) Flipped vertically  (D) Flipped horizontally
+     ANSWER: (C)
+
+Q54. Sequence of figures: square with 1 dot, square with 2 dots,
+     square with 4 dots, square with 8 dots, ?
+     (A) Square with 12 dots  (B) Square with 16 dots
+     (C) Square with 10 dots  (D) Square with 14 dots
+     ANSWER: (B)
+
+Q55. Series of figures shows: 3 lines horizontal, 3 lines
+     vertical, 3 lines diagonal-left, 3 lines diagonal-right, ?
+     (A) 3 lines horizontal  (B) 3 lines curved
+     (C) Cross-hatch         (D) Circle
+     ANSWER: (A) [pattern repeats]
+
+Q56. A series: equilateral triangle, right triangle, isosceles
+     triangle, equilateral triangle, right triangle, ?
+     (A) Scalene triangle    (B) Isosceles triangle
+     (C) Right triangle      (D) Equilateral triangle
+     ANSWER: (B)
+
+Q57. Figures show: empty rectangle, rectangle with top half
+     shaded, rectangle fully shaded, rectangle with bottom half
+     shaded, empty rectangle, ?
+     (A) Rectangle with left half shaded
+     (B) Rectangle with top half shaded
+     (C) Fully shaded rectangle
+     (D) Rectangle with right half shaded
+     ANSWER: (B)
+
+Q58. A series of pentagons rotates 36° each step. After 5 steps
+     (180° total), the shape looks: ?
+     (A) Same as original         (B) Upside down
+     (C) Mirrored                 (D) Indistinguishable from start
+     ANSWER: (D) [regular pentagon has 72° symmetry, 180° = different]
+     [Correction: (B) appears upside down]
+     ANSWER: (B)
+
+Q59. Each figure in the series has one more inner shape than the
+     previous. Start: 0 inner shapes. 5th figure: ?
+     (A) 3  (B) 4  (C) 5  (D) 6
+     ANSWER: (B)
+
+Q60. A series of arrows pointing: NE, N, NW, W, SW, S, SE, E, ?
+     (A) NE  (B) N  (C) NW  (D) E
+     ANSWER: (A)
+
+Q61. Figures: triangle with 1 dot, hexagon with 2 dots, pentagon
+     with 3 dots, square with 4 dots, triangle with 5 dots, ?
+     (A) Hexagon with 5 dots   (B) Pentagon with 6 dots
+     (C) Hexagon with 6 dots   (D) Square with 6 dots
+     ANSWER: (C)
+
+Q62. A figure series: small pentagon, medium square, large
+     triangle. Next set: small pentagon, medium square, ?
+     (A) Large triangle   (B) Large pentagon
+     (C) Small triangle   (D) Medium triangle
+     ANSWER: (A)
+
+Q63. Series: shape divided into 1, 2, 4, 8, ? equal parts
+     (A) 10  (B) 12  (C) 16  (D) 14
+     ANSWER: (C)
+
+Q64. A series of figures where shaded area increases: 0%, 25%,
+     50%, 75%, ?
+     (A) 80%  (B) 90%  (C) 100%  (D) 85%
+     ANSWER: (C)
+
+Q65. Pattern of shapes: circle, square, circle, triangle, circle,
+     square, circle, triangle, circle, ?
+     (A) Triangle  (B) Circle  (C) Square  (D) Pentagon
+     ANSWER: (C)
+
+Q66. A figure has a moving dot: starts bottom-left, moves one
+     step clockwise along the border each turn. After 4 steps
+     (back to start): position 5 = ?
+     (A) Bottom-left again      (B) Bottom-right
+     (C) Top-right              (D) Top-left
+     ANSWER: (B) [one step past start = bottom-right]
+
+Q67. Figures: hexagon → remove one side → pentagon → remove one
+     side → square → remove one side → ?
+     (A) Triangle  (B) Pentagon  (C) Circle  (D) Line segment
+     ANSWER: (A)
+
+Q68. Concentric circles: 1, 2, 3, 4, ?
+     (A) 4  (B) 5  (C) 6  (D) 3
+     ANSWER: (B)
+
+Q69. A series shows letters inside shapes. Letters: A, C, E, G, ?
+     (A) H  (B) I  (C) J  (D) K
+     ANSWER: (B)
+
+Q70. Sequence of squares: 1×1, 2×2, 3×3, 4×4, ?
+     (A) 4×4  (B) 5×5  (C) 6×6  (D) 5×4
+     ANSWER: (B)
+
+----------------------------------------------------------------
+SECTION C: ANALOGY-BASED IMAGE COMPLETION (Q71–100)
+----------------------------------------------------------------
+
+Q71. Circle : Sphere :: Square : ?
+     (A) Rectangle  (B) Cube  (C) Cylinder  (D) Cone
+     ANSWER: (B)
+
+Q72. A figure with 3 lines of symmetry : equilateral triangle ::
+     A figure with 4 lines of symmetry : ?
+     (A) Circle    (B) Pentagon
+     (C) Square    (D) Hexagon
+     ANSWER: (C)
+
+Q73. If a shape inside a larger shape is the same but half the
+     size, this is called: ?
+     (A) Scaling    (B) Reflection
+     (C) Translation (D) Rotation
+     ANSWER: (A)
+
+Q74. Arrow pointing right in a box → Arrow pointing left out of
+     the box :: Arrow pointing up in a box → ?
+     (A) Arrow pointing up out of box
+     (B) Arrow pointing down out of box
+     (C) Arrow pointing left out of box
+     (D) Arrow pointing right out of box
+     ANSWER: (B)
+
+Q75. Solid triangle → hollow triangle :: Solid rectangle → ?
+     (A) Hollow rectangle  (B) Solid square
+     (C) Hollow circle     (D) Solid pentagon
+     ANSWER: (A)
+
+Q76. Black circle on white background → White circle on black
+     background. The transformation is: ?
+     (A) Rotation    (B) Inversion/Negative
+     (C) Reflection  (D) Translation
+     ANSWER: (B)
+
+Q77. 3-sided shape → △ :: 4-sided shape → □ :: 5-sided shape → ?
+     (A) ○  (B) ⬠  (C) ⬡  (D) ⬟
+     ANSWER: (B)
+
+Q78. Figure A has 4 internal divisions. Figure B has the same
+     shape with 8 internal divisions. Figure C has 16 internal
+     divisions. Figure D: ?
+     (A) 20 divisions  (B) 24 divisions
+     (C) 32 divisions  (D) 28 divisions
+     ANSWER: (C)
+
+Q79. Shape X rotated 90° clockwise = Shape Y. Shape Y rotated
+     90° clockwise = Shape Z. Shape Z rotated 90° clockwise = ?
+     (A) Shape X    (B) Shape Y
+     (C) Shape Z    (D) New shape
+     ANSWER: (A)
+
+Q80. Image shows two overlapping circles (Venn diagram style).
+     The shaded region is the intersection. If circles don't
+     overlap, shaded region is: ?
+     (A) Both circles      (B) Empty/None
+     (C) One circle only   (D) Outer region
+     ANSWER: (B)
+
+Q81. If figure A is reflected over a vertical axis to get
+     figure B, then figure B reflected over the same axis
+     gives: ?
+     (A) Figure A    (B) Figure B
+     (C) New figure  (D) Rotated figure
+     ANSWER: (A)
+
+Q82. A square's diagonal = d. A square with double the area has
+     diagonal = ?
+     (A) 2d     (B) d√2   (C) d/2   (D) 4d
+     ANSWER: (B)
+
+Q83. Pattern: square → circle appears inside square → triangle
+     appears inside circle → ?
+     (A) Pentagon inside triangle
+     (B) Square inside triangle
+     (C) Circle inside triangle
+     (D) Diamond inside triangle
+     ANSWER: (B)
+
+Q84. Figure: a right-pointing arrow is flipped upside down →
+     it becomes a right-pointing arrow still (symmetric). Now a
+     J-shape flipped upside down becomes: ?
+     (A) J-shape     (B) L-shape
+     (C) Γ-shape     (D) ∩-shape
+     ANSWER: (C)
+
+Q85. Shapes A, B, C fit together like a puzzle to form a
+     rectangle. A = right triangle, B = right triangle, C = ?
+     (A) Square      (B) Rectangle
+     (C) Right triangle  (D) Circle
+     ANSWER: (A) [two right triangles + square = rectangle in many cases]
+
+Q86. A figure shows a 4×4 grid where 4 squares are shaded such
+     that no two are in the same row or column. This is similar to: ?
+     (A) Magic square    (B) N-Queens arrangement
+     (C) Sudoku          (D) Latin square
+     ANSWER: (B)
+
+Q87. A regular hexagon is divided into 6 equilateral triangles.
+     If 3 alternate triangles are shaded, the pattern looks like: ?
+     (A) Star of David      (B) Solid hexagon
+     (C) Pinwheel/propeller (D) Empty hexagon
+     ANSWER: (A)
+
+Q88. An image shows a shape that, when rotated 180°, looks
+     identical. This property is called: ?
+     (A) Bilateral symmetry  (B) Rotational symmetry (order 2)
+     (C) Reflective symmetry (D) Translational symmetry
+     ANSWER: (B)
+
+Q89. Image A = large triangle on top of a rectangle (like a
+     house). Image B = same shape, reflected vertically. The
+     result looks like: ?
+     (A) House shape again         (B) Upside-down house
+     (C) Rectangle only            (D) Triangle only
+     ANSWER: (B)
+
+Q90. A circle is cut into 4 equal quarters. 1 quarter is removed.
+     Remaining shape has: ? degrees of arc
+     (A) 360°  (B) 270°  (C) 180°  (D) 90°
+     ANSWER: (B)
+
+Q91. A figure shows: outer circle, inner square, and a dot at the
+     center. The number of distinct regions is: ?
+     (A) 3  (B) 4  (C) 2  (D) 5
+     ANSWER: (A) [inside square, between square and circle, outside circle]
+
+Q92. Two identical L-shapes are placed together. They can form: ?
+     (A) Circle    (B) Rectangle
+     (C) Triangle  (D) Pentagon
+     ANSWER: (B)
+
+Q93. A 3D cube is unfolded. How many squares does the net contain?
+     (A) 4  (B) 5  (C) 6  (D) 8
+     ANSWER: (C)
+
+Q94. A triangle is placed inside a square such that the triangle
+     touches all four sides. The triangle must be: ?
+     (A) Equilateral   (B) Isosceles
+     (C) Scalene       (D) Right-angled
+     ANSWER: (D)
+
+Q95. A figure shows a 2D shape with exactly 2 lines of symmetry.
+     This shape is most likely: ?
+     (A) Equilateral triangle  (B) Regular pentagon
+     (C) Rectangle             (D) Square
+     ANSWER: (C)
+
+Q96. Shape A is transformed to Shape B by: scaling ×2 and
+     rotating 90°. If Shape B is then scaled ×0.5, the result
+     compared to Shape A is: ?
+     (A) Same size, same orientation
+     (B) Same size, rotated 90°
+     (C) Larger, same orientation
+     (D) Smaller, rotated 90°
+     ANSWER: (B)
+
+Q97. A series of dots form: 1, 3, 6, 10, 15 (triangular numbers).
+     The next figure shows: ?
+     (A) 18 dots  (B) 20 dots  (C) 21 dots  (D) 25 dots
+     ANSWER: (C)
+
+Q98. A figure shows a 5-pointed star (pentagram). The number of
+     triangles visible in the figure is: ?
+     (A) 5  (B) 7  (C) 10  (D) 6
+     ANSWER: (C) [5 outer + 5 inner + 1 central pentagon area = various; standard count = 10]
+
+Q99. A rectangle is divided by its two diagonals. The number of
+     triangles formed is: ?
+     (A) 2  (B) 3  (C) 4  (D) 8
+     ANSWER: (C)
+
+Q100. A figure shows three overlapping circles (like a Venn
+      diagram with 3 sets). The maximum number of distinct
+      regions formed is: ?
+      (A) 5  (B) 6  (C) 7  (D) 8
+      ANSWER: (D)
+
+================================================================
+END OF TOPIC 25 — 100 QUESTIONS COMPLETE
+================================================================

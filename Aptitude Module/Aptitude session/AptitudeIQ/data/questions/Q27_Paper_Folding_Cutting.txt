@@ -1,0 +1,716 @@
+================================================================
+TOPIC 27: PAPER FOLDING & CUTTING
+100 Questions with Options and Answers
+================================================================
+
+INSTRUCTIONS: These questions involve folding a square/rectangular
+sheet of paper (sometimes making cuts), then unfolding it to
+determine the resulting pattern of holes, lines, or shapes.
+Visualize each fold carefully before answering.
+
+KEY TERMS:
+- Fold line = crease made when paper is folded
+- Punch/Hole = made through folded layers; appears symmetrically
+  when unfolded
+- Cut = straight or curved slice through folded paper
+
+----------------------------------------------------------------
+SECTION A: SINGLE FOLD + HOLE PUNCH (Q1–30)
+----------------------------------------------------------------
+
+Q1. A square paper is folded in half vertically (left half onto
+    right half). One hole is punched in the center of the visible
+    (right) half. When unfolded, how many holes appear?
+    (A) 1  (B) 2  (C) 3  (D) 4
+    ANSWER: (B)
+
+Q2. A square paper is folded in half horizontally (top half onto
+    bottom half). A hole is punched at the top-right corner of
+    the folded paper. When unfolded, holes appear at: ?
+    (A) Top-right and bottom-right
+    (B) Top-left and top-right
+    (C) All four corners
+    (D) Center only
+    ANSWER: (A)
+
+Q3. A square paper is folded diagonally (bottom-left corner
+    meets top-right corner). A hole is punched in the center
+    of the folded triangle. When unfolded, how many holes appear?
+    (A) 1  (B) 2  (C) 3  (D) 4
+    ANSWER: (B)
+
+Q4. A square paper is folded vertically, then a hole is punched
+    near the fold edge (left side of folded paper). When
+    unfolded, the two holes are: ?
+    (A) Far apart    (B) Close together near the center
+    (C) On same side (D) Diagonally placed
+    ANSWER: (B)
+
+Q5. A square paper is folded in half horizontally. A hole is
+    punched exactly at the fold line. When unfolded: ?
+    (A) 1 hole at the center   (B) 2 holes at fold line positions
+    (C) 1 hole at the fold     (D) 4 holes
+    ANSWER: (C) [punching on the fold = 1 hole when unfolded]
+
+Q6. A rectangular paper (landscape) is folded left-to-right
+    (right half on left half). Two holes are punched vertically
+    in the center of the visible half. When unfolded: ?
+    (A) 2 holes  (B) 3 holes  (C) 4 holes  (D) 6 holes
+    ANSWER: (C)
+
+Q7. A square paper is folded in half vertically. Then folded in
+    half again horizontally. One hole is punched. When fully
+    unfolded: how many holes?
+    (A) 1  (B) 2  (C) 4  (D) 8
+    ANSWER: (C)
+
+Q8. A square paper is folded: top-right corner to bottom-left
+    corner (diagonal fold). A hole is punched near the top-right
+    visible area. When unfolded: ?
+    (A) 1 hole  (B) 2 holes  (C) 3 holes  (D) 4 holes
+    ANSWER: (B)
+
+Q9. A square paper is folded in half vertically twice (quarter
+    width, full height). One hole is punched. When unfolded: ?
+    (A) 1  (B) 2  (C) 4  (D) 8
+    ANSWER: (C)
+
+Q10. A square paper is folded: bottom half up. A horizontal row
+     of 3 holes is punched through the folded paper. When
+     unfolded: total holes = ?
+     (A) 3  (B) 6  (C) 9  (D) 12
+     ANSWER: (B)
+
+Q11. Square paper folded: right half onto left half. A hole is
+     punched at the top-left of the visible square. When
+     unfolded, holes appear at: ?
+     (A) Top-left and top-right
+     (B) Top-left only
+     (C) Bottom-left and bottom-right
+     (D) Top-right only
+     ANSWER: (A)
+
+Q12. A square paper is folded along the main diagonal (top-left
+     to bottom-right). A hole is punched on the fold line itself.
+     When unfolded: ?
+     (A) 1 hole on the diagonal
+     (B) 2 holes symmetrically placed
+     (C) 4 holes
+     (D) No holes (fold line hole closes)
+     ANSWER: (A)
+
+Q13. Paper is folded in half horizontally (top onto bottom), then
+     again vertically (right onto left). A hole punched at the
+     top-right of the resulting quarter-square produces how many
+     holes when fully unfolded?
+     (A) 2  (B) 4  (C) 6  (D) 8
+     ANSWER: (B)
+
+Q14. A square paper is folded: left third over center, then right
+     third over. A hole is punched in the center of the visible
+     strip. When unfolded: total holes = ?
+     (A) 1  (B) 2  (C) 3  (D) 4
+     ANSWER: (C)
+
+Q15. Square paper folded in half vertically. Hole punched at the
+     bottom-left corner of folded paper. When unfolded: ?
+     (A) 2 holes at bottom-left of each half
+     (B) 1 hole at bottom-left only
+     (C) 2 holes at bottom corners (left and right)
+     (D) 4 holes
+     ANSWER: (C)
+
+Q16. Paper is folded into quarters (2 folds). One hole is punched
+     at each visible corner (4 corners). When fully unfolded:
+     total holes = ?
+     (A) 4   (B) 8   (C) 12   (D) 16
+     ANSWER: (D)
+
+Q17. A square paper is folded from bottom-right corner to
+     top-left corner. A hole is punched near the right angle
+     corner of the resulting triangle. When unfolded: ?
+     (A) 1 hole  (B) 2 holes  (C) 3 holes  (D) 4 holes
+     ANSWER: (B)
+
+Q18. Square paper folded three times (each time halving the
+     paper). One hole is punched. When unfolded: ?
+     (A) 4  (B) 6  (C) 8  (D) 12
+     ANSWER: (C)
+
+Q19. A square paper is folded in half. The fold edge is at the
+     top. A hole is punched at the bottom-center. When unfolded: ?
+     (A) 1 hole at center bottom
+     (B) 2 holes symmetrically above center
+     (C) 2 holes: one at top-center and one at bottom-center
+     (D) 4 holes
+     ANSWER: (C)
+
+Q20. Paper folded: right half onto left half. Three holes are
+     punched in a vertical column through the fold. When
+     unfolded: arrangement is ?
+     (A) 3 holes in one column
+     (B) 6 holes in two symmetric columns
+     (C) 3 holes in a row
+     (D) 6 holes in a row
+     ANSWER: (B)
+
+Q21. A square paper is folded along both diagonals (two folds).
+     One hole is punched through all layers. When unfolded: ?
+     (A) 2 holes  (B) 3 holes  (C) 4 holes  (D) 8 holes
+     ANSWER: (C)
+
+Q22. Paper is folded in half horizontally. The visible bottom
+     half has a 2×2 grid of holes punched. When unfolded:
+     total holes = ?
+     (A) 4  (B) 8  (C) 12  (D) 16
+     ANSWER: (B)
+
+Q23. Square paper folded: top-right corner meets bottom-left
+     corner (diagonal). A hole punched at the left straight
+     edge. When unfolded: ?
+     (A) 2 holes symmetric about the diagonal
+     (B) 1 hole at left edge only
+     (C) 4 holes
+     (D) 2 holes at top and bottom
+     ANSWER: (A)
+
+Q24. A rectangular paper is folded end-to-end (short sides
+     together). A hole is punched at the exact center. When
+     unfolded: ?
+     (A) 2 holes symmetric about the center fold
+     (B) 1 hole at center
+     (C) 4 holes
+     (D) 2 holes at corners
+     ANSWER: (A)
+
+Q25. A square paper is folded: bottom-left corner to top-right
+     corner, then the left portion is folded to the right. A
+     hole is punched. Unfolding reveals: ?
+     (A) 2 holes  (B) 4 holes  (C) 6 holes  (D) 8 holes
+     ANSWER: (B)
+
+Q26. Paper folded in half. 5 holes punched in a line parallel
+     to the fold. When unfolded: total holes = ?
+     (A) 5  (B) 10  (C) 15  (D) 20
+     ANSWER: (B)
+
+Q27. A square paper: fold left half to right. Then fold top half
+     down. Hole punched at bottom-right (outermost corner).
+     Unfolded: holes at which positions?
+     (A) All 4 corners
+     (B) Top-left and bottom-right
+     (C) Top-right and bottom-right
+     (D) Bottom-left and top-right
+     ANSWER: (A)
+
+Q28. Paper folded diagonally. Hole punched right at the fold
+     corner. When unfolded: ?
+     (A) 1 hole at center   (B) 2 holes at that corner and mirror
+     (C) 4 holes            (D) 1 hole at that corner
+     ANSWER: (D) [corner of the diagonal fold = stays at corner]
+
+Q29. Square paper folded into thirds horizontally (accordion
+     fold, 3 layers). One hole punched through all layers. When
+     unfolded: ?
+     (A) 1 hole  (B) 2 holes  (C) 3 holes  (D) 4 holes
+     ANSWER: (C)
+
+Q30. Paper folded in half vertically, then a semicircle is cut
+     from the fold edge. When unfolded: ?
+     (A) One semicircle hole on left
+     (B) One full circle hole in center
+     (C) Two semicircle holes on sides
+     (D) One semicircle hole on right
+     ANSWER: (B)
+
+----------------------------------------------------------------
+SECTION B: CUT PATTERNS (Q31–60)
+----------------------------------------------------------------
+
+Q31. Square paper folded in half vertically. A straight cut is
+     made diagonally from top-left to bottom-right of folded
+     paper. When unfolded, the paper is cut into: ?
+     (A) 2 pieces  (B) 3 pieces  (C) 4 pieces  (D) 5 pieces
+     ANSWER: (B)
+
+Q32. Square paper folded in half. A triangular notch is cut from
+     the folded edge (center). When unfolded, the notch becomes: ?
+     (A) A triangle hole       (B) A diamond/rhombus hole
+     (C) A rectangle hole      (D) Two separate triangles
+     ANSWER: (B)
+
+Q33. Square paper folded in half. A semicircle is cut from the
+     NON-fold edge. When unfolded: ?
+     (A) One semicircle missing from one side
+     (B) Two semicircles missing from opposite sides
+     (C) One full circle hole in center
+     (D) One semicircle in center
+     ANSWER: (B)
+
+Q34. Paper folded in half horizontally. A diagonal cut from
+     top-left corner to bottom-right corner of the folded
+     rectangle produces, when unfolded: ?
+     (A) 2 triangles
+     (B) 3 pieces
+     (C) A parallelogram and two triangles
+     (D) 4 pieces
+     ANSWER: (B)
+
+Q35. Square paper folded diagonally. A cut is made parallel to
+     the fold, cutting off a strip. When unfolded: ?
+     (A) Rectangle with two symmetric notches
+     (B) A smaller square
+     (C) A hexagonal shape
+     (D) Two triangles
+     ANSWER: (C) [typically produces a hexagon-like shape]
+
+Q36. Paper folded in half. Three rectangular notches are cut
+     from the fold edge. When unfolded: ?
+     (A) 3 rectangular holes in center
+     (B) 6 rectangular holes across
+     (C) 3 rectangular notches on one side
+     (D) 3 rectangular holes along center line
+     ANSWER: (D)
+
+Q37. Square paper: fold left to right (half). Then fold top to
+     bottom (quarter). Cut off the corner with all fold lines.
+     When unfolded: ?
+     (A) 1 hole at center
+     (B) Cross-shaped hole at center
+     (C) 4 circular holes at corners
+     (D) Square hole at center
+     ANSWER: (A)
+
+Q38. Square paper folded in half vertically. Scalloped cuts made
+     along the fold edge. When unfolded: ?
+     (A) Scalloped edge on left only
+     (B) Symmetric scalloped pattern in center
+     (C) Scalloped edge on both sides
+     (D) Irregular pattern
+     ANSWER: (B)
+
+Q39. Square paper folded in quarters. A circle is cut from the
+     center (all layers). When unfolded: ?
+     (A) 1 circle hole at center
+     (B) 2 circle holes
+     (C) 4 circle holes in a 2×2 arrangement
+     (D) 4 circle holes near edges
+     ANSWER: (A) [all folds bring center together = 1 hole]
+
+Q40. Square paper folded diagonally twice (into a small triangle).
+     The tip of the triangle is cut off straight. When unfolded: ?
+     (A) Triangle hole at center
+     (B) Square hole at center
+     (C) Diamond hole at center
+     (D) Circle hole at center
+     ANSWER: (B)
+
+Q41. Paper folded in half. A zigzag cut is made parallel to the
+     fold. When unfolded: the separated piece is shaped like: ?
+     (A) A rectangle         (B) A zigzag strip
+     (C) Two zigzag pieces   (D) A straight strip
+     ANSWER: (B)
+
+Q42. Square paper folded in half. A V-notch is cut from the top
+     edge (open side). When unfolded: ?
+     (A) One V-notch at top
+     (B) V and inverted-V at top and bottom
+     (C) X-shaped cut
+     (D) Two V-notches at top
+     ANSWER: (A) [cut from open edge, not fold]
+
+Q43. Square paper accordion-folded into 4 sections. A hole
+     punched through all layers. When unfolded: ?
+     (A) 1 hole  (B) 2 holes  (C) 4 holes  (D) 8 holes
+     ANSWER: (C)
+
+Q44. Paper folded: right over left. A cut is made at 45° from
+     the top-right corner. This removes: ?
+     (A) One triangle     (B) Two symmetric triangles
+     (C) A rectangle      (D) A parallelogram
+     ANSWER: (B)
+
+Q45. Square paper folded in half horizontally. Cuts made:
+     4 slits from the fold edge inward (not all the way through).
+     When unfolded: ?
+     (A) 4 slits from top and 4 from bottom (8 total)
+     (B) 4 symmetric slits in center
+     (C) 8 slits around the perimeter
+     (D) Paper falls apart
+     ANSWER: (B)
+
+Q46. Square paper folded into quarters. Triangular corners are
+     cut from BOTH the open-edge corners. When unfolded: ?
+     (A) 4 triangles cut from corners
+     (B) Decorative star shape
+     (C) Paper with notched sides
+     (D) Diamond shape
+     ANSWER: (B)
+
+Q47. Paper folded in half. Holes are punched as follows: 1 hole
+     in the top-left and 1 in the bottom-right. When unfolded: ?
+     (A) 2 holes  (B) 3 holes  (C) 4 holes  (D) 5 holes
+     ANSWER: (C)
+
+Q48. Paper folded: one diagonal fold. Cut along the hypotenuse.
+     When unfolded, you have: ?
+     (A) 2 triangles
+     (B) 1 triangle and 1 irregular piece
+     (C) A smaller square
+     (D) 3 pieces
+     ANSWER: (A)
+
+Q49. Square paper: fold left third over center, then right third
+     over. Make 3 horizontal cuts through all layers. When fully
+     unfolded: number of pieces = ?
+     (A) 4  (B) 8  (C) 12  (D) 16
+     ANSWER: (A) [3 cuts through 3-layer folded paper = 4 rows of pieces, but joined at folds → result in 4 strips]
+
+Q50. Paper folded in half. An L-shaped cut is made through both
+     layers. When unfolded: ?
+     (A) L-shaped hole
+     (B) S-shaped hole or symmetric L-L hole
+     (C) Two L-shaped holes
+     (D) Rectangle hole
+     ANSWER: (B)
+
+Q51. A square sheet folded so that one corner meets the opposite
+     corner. A horizontal cut is made in the middle. When
+     unfolded: ?
+     (A) Two separate triangles
+     (B) A rhombus and two triangles
+     (C) Paper in 3 pieces
+     (D) Paper in 4 pieces
+     ANSWER: (B)
+
+Q52. Square paper: fold vertically, then horizontally. Punch
+     star-shaped hole. When unfolded: ?
+     (A) 1 star hole      (B) 2 star holes
+     (C) 4 star holes     (D) 8 star holes
+     ANSWER: (C)
+
+Q53. Paper folded diagonally. A rectangular notch cut from the
+     fold line edge. When unfolded: ?
+     (A) Rectangle hole    (B) Diamond hole
+     (C) Triangle hole     (D) Hexagon hole
+     ANSWER: (B)
+
+Q54. Square paper folded: right half over left. A straight
+     vertical cut removes the right 1/3 of the folded paper.
+     When unfolded: the remaining shape is: ?
+     (A) A narrow rectangle           (B) A square
+     (C) A rectangle (wider center)   (D) Two separate pieces
+     ANSWER: (C)
+
+Q55. Paper with 4 folds (16 layers). One hole punched. When
+     unfolded: ?
+     (A) 4  (B) 8  (C) 16  (D) 32
+     ANSWER: (C)
+
+Q56. Square paper folded in half. Letters cut: "E" through both
+     layers from the open edge. When unfolded: ?
+     (A) E shape  (B) E mirror-image pair (ΞΞ)
+     (C) E and E  (D) 3 bars
+     ANSWER: (B)
+
+Q57. Circular paper folded in half. A notch cut from the curved
+     edge. When unfolded: ?
+     (A) Notch on one side
+     (B) Symmetric notch on both sides of circumference
+     (C) Hole in center
+     (D) Two separate pieces
+     ANSWER: (B)
+
+Q58. Square paper folded corner-to-corner twice. Small triangle
+     cut from the tip. When unfolded: ?
+     (A) 1 triangle hole
+     (B) 4 triangle holes at corners
+     (C) 1 diamond hole at center
+     (D) 4 triangle holes in a star shape
+     ANSWER: (C)
+
+Q59. Paper folded in half. Hole punched near fold edge (1 hole)
+     and near open edge (1 hole). When unfolded: ?
+     (A) 2 holes  (B) 3 holes  (C) 4 holes  (D) 5 holes
+     ANSWER: (B) [hole at fold edge = 1 hole; hole at open edge = 2 holes]
+
+Q60. Square paper folded into thirds (3 layers). 1 hole punched
+     through all. When unfolded: ?
+     (A) 1 hole  (B) 2 holes  (C) 3 holes  (D) 4 holes
+     ANSWER: (C)
+
+----------------------------------------------------------------
+SECTION C: ADVANCED & MIXED (Q61–100)
+----------------------------------------------------------------
+
+Q61. A square paper is folded so that it is one-eighth its
+     original area (3 folds). One hole is punched. When
+     unfolded: how many holes? (Assume no fold-line holes)
+     (A) 4  (B) 6  (C) 8  (D) 12
+     ANSWER: (C)
+
+Q62. Paper folded: top-right corner to center of paper. A hole
+     is punched through the folded flap. When unfolded: ?
+     (A) 1 hole in the flap area
+     (B) 2 holes symmetric about fold
+     (C) 1 hole at corner + 1 at center
+     (D) No holes (rubber restores)
+     ANSWER: (B)
+
+Q63. A square piece of paper has holes pre-punched: one at center.
+     It is folded in half. The hole appears: ?
+     (A) At the edge of the fold
+     (B) Visible from both sides at folded center
+     (C) Disappears
+     (D) Splits into two holes
+     ANSWER: (B)
+
+Q64. Square paper: horizontal fold (top onto bottom), then
+     vertical fold (right onto left). A hole is punched at top-
+     right of resulting quarter square. Unfolding step 1
+     (unfold vertical) shows: ?
+     (A) 1 hole at top-right
+     (B) 2 holes at top-left and top-right
+     (C) 2 holes at bottom
+     (D) 4 holes
+     ANSWER: (B)
+
+Q65. After fully unfolding the paper from Q64: total holes = ?
+     (A) 2  (B) 4  (C) 6  (D) 8
+     ANSWER: (B)
+
+Q66. Paper: fold left half onto right half (left covers right).
+     Cut a notch from what is now the right edge (was the center).
+     When unfolded: the notch becomes: ?
+     (A) Notch on left side only
+     (B) Notch on right side only
+     (C) Symmetric notches on left and right sides
+     (D) Hole in center
+     ANSWER: (C)
+
+Q67. A strip of paper (long rectangle) is folded end-to-end 4
+     times. One hole punched. When unfolded: ?
+     (A) 4 holes  (B) 8 holes  (C) 16 holes  (D) 32 holes
+     ANSWER: (C)
+
+Q68. Square paper diagonally folded. Another diagonal fold made.
+     Resulting triangle has 1 hole punched at centroid. When
+     unfolded: ?
+     (A) 1 hole  (B) 2 holes  (C) 3 holes  (D) 4 holes
+     ANSWER: (D)
+
+Q69. A square piece of paper is folded as: top-down, left-right,
+     then diagonal. This creates: ? layers
+     (A) 4  (B) 6  (C) 8  (D) 12
+     ANSWER: (C)
+
+Q70. Paper folded in half: hole punched to produce letter "O"
+     shape. When unfolded: ?
+     (A) 1 circle hole
+     (B) 2 circle holes side by side
+     (C) Oval hole in center
+     (D) 2 half-circle holes
+     ANSWER: (B)
+
+Q71. Square paper: fold right over left. Fold bottom over top.
+     The resulting paper now has how many layers?
+     (A) 2  (B) 3  (C) 4  (D) 8
+     ANSWER: (C)
+
+Q72. Paper folded vertically. A sine-wave cut is made from top
+     to bottom. When unfolded: the separated shape is a: ?
+     (A) Straight strip      (B) Wavy strip
+     (C) Two identical wavy pieces  (D) Zigzag piece
+     ANSWER: (C)
+
+Q73. Square paper folded in half. From the FOLD edge, 3 cuts are
+     made at equal intervals, parallel to the short sides, NOT
+     going all the way through. When unfolded: ?
+     (A) 3 cuts from center of paper on one side
+     (B) 6 symmetric cuts from center
+     (C) 3 cuts on each side = 6 total cuts symmetrically
+     (D) Paper cut into 4 pieces
+     ANSWER: (B)
+
+Q74. Paper folded: bottom-right corner to top-left corner. A cut
+     is made along the hypotenuse (folded edge). When unfolded: ?
+     (A) A triangle
+     (B) A smaller square
+     (C) Paper in 3 pieces
+     (D) A pentagon
+     ANSWER: (B)
+
+Q75. Snowflake method: square paper → fold to triangle (diagonal)
+     → fold triangle again → cut patterns. When unfolded: the
+     pattern has which type of symmetry?
+     (A) 2-fold  (B) 4-fold  (C) 6-fold  (D) 8-fold
+     ANSWER: (B)
+
+Q76. Origami-like fold: all 4 corners brought to center. This
+     creates a smaller square (blintz fold). How many layers
+     at the center?
+     (A) 2  (B) 3  (C) 4  (D) 5
+     ANSWER: (A) [at center: 2 layers of corner flaps overlap partially]
+     [Corrected: at center = 2 layers]
+     ANSWER: (A)
+
+Q77. Square paper: accordion fold into 8 equal vertical strips.
+     One hole punched through all layers. When unfolded: ?
+     (A) 4 holes  (B) 6 holes  (C) 8 holes  (D) 16 holes
+     ANSWER: (C)
+
+Q78. Paper folded in half horizontally. Holes punched: 1 hole on
+     fold side, 1 hole on open side, 1 at center. When unfolded: ?
+     (A) 4 holes  (B) 5 holes  (C) 6 holes  (D) 3 holes
+     ANSWER: (B) [fold-side hole = 1; open-side = 2; center = 2 → 5]
+
+Q79. Paper with pre-existing fold creases (horizontal and
+     vertical, forming 4 sections). Folded along vertical crease
+     only. 2 holes punched. When unfolded: ?
+     (A) 2 holes  (B) 4 holes  (C) 6 holes  (D) 8 holes
+     ANSWER: (B)
+
+Q80. Paper folded diagonally. A capital-T cut is made. When
+     unfolded: the paper now looks like: ?
+     (A) Paper with T-hole             (B) Paper with butterfly shape hole
+     (C) Paper cut into 2 pieces       (D) Paper with cross-shaped hole
+     ANSWER: (B)
+
+Q81. Two sheets of paper are placed together and folded in half.
+     One hole is punched. When unfolded: total holes in BOTH
+     sheets = ?
+     (A) 2  (B) 4  (C) 6  (D) 8
+     ANSWER: (B)
+
+Q82. A square paper is folded and cut to produce a chain of
+     paper dolls (connected at the sides). Minimum folds needed
+     for 4 connected dolls: ?
+     (A) 1  (B) 2  (C) 3  (D) 4
+     ANSWER: (B) [fold to create 4 layers = 2 folds]
+
+Q83. Paper folded in half. Two separate cuts made at 45° angles
+     from each corner of the fold edge (like cutting a V from
+     fold edge). When unfolded: ?
+     (A) Two separate triangles cut out
+     (B) One diamond hole at center
+     (C) Two V-notches at center
+     (D) Paper splits in two
+     ANSWER: (B)
+
+Q84. Square paper: fold top half down. Then fold left half over
+     right. Cut a circle from the bottom-left visible corner.
+     When unfolded: ?
+     (A) 1 circle missing from corner
+     (B) 4 quarter-circles at each corner forming a pattern
+     (C) 1 circle at center
+     (D) 2 circles
+     ANSWER: (B)
+
+Q85. Paper is folded such that a 2×2 grid of holes produces a
+     4×4 grid when unfolded. How many folds were made?
+     (A) 1  (B) 2  (C) 3  (D) 4
+     ANSWER: (B)
+
+Q86. Paper folded in half. A cut removes the entire top-left
+     triangle of folded paper. When unfolded: result is: ?
+     (A) Parallelogram     (B) Pentagon
+     (C) Hexagon           (D) Triangle
+     ANSWER: (B)
+
+Q87. Paper folded: vertical center fold. Both top corners are
+     cut at 45°. When unfolded: the top edge looks like: ?
+     (A) Straight           (B) V-shaped notch at center
+     (C) M-shape            (D) W-shape
+     ANSWER: (C) [M-shape: two diagonal cuts symmetric about center]
+
+Q88. Paper folded in quarters. Cut a circle that spans all 4
+     layers symmetrically. When unfolded: ?
+     (A) 1 large circle    (B) 4 circles in 2×2 arrangement
+     (C) 1 circle per quarter (D) Overlapping circles
+     ANSWER: (A) [if hole is exactly at fold intersection = 1 large circle]
+
+Q89. Square paper: fold 3 times (each fold halves area). 1 hole
+     punched. Number of holes when unfolded depends on: ?
+     (A) Whether hole is on fold line or not
+     (B) Color of paper
+     (C) Shape of paper
+     (D) Size of hole
+     ANSWER: (A)
+
+Q90. Paper folded: bottom-left to top-right diagonal. A cut
+     removes both "ear" tips of the resulting triangle. When
+     unfolded: ?
+     (A) Triangle notch at two corners
+     (B) Notch at all four corners
+     (C) Diamond shape
+     (D) Pentagon
+     ANSWER: (B)
+
+Q91. Square paper: fold right edge to left edge. Then fold
+     bottom edge to top edge. 4 holes punched in a 2×2 grid
+     on visible face. When unfolded: ?
+     (A) 4 holes  (B) 8 holes  (C) 16 holes  (D) 12 holes
+     ANSWER: (C)
+
+Q92. Paper folded in half. Hole punched exactly on the fold line
+     (touching it). When unfolded, the hole at that location is: ?
+     (A) Two half-circles = one circle on fold line
+     (B) Torn edge
+     (C) Single hole offset to one side
+     (D) No hole
+     ANSWER: (A)
+
+Q93. Paper: horizontal fold, then vertical fold, then diagonal
+     fold. Total layers = ?
+     (A) 4  (B) 6  (C) 8  (D) 16
+     ANSWER: (C)
+
+Q94. A paper folded to 1/8 area has 1 hole punched at each of
+     its 4 corners. When fully unfolded: total unique holes = ?
+     (A) 4  (B) 8  (C) 12  (D) 16 or more
+     ANSWER: (D) [each corner × 8 layers, but some overlap at edges/fold lines]
+
+Q95. Paper cut while folded to create a chain. When unfolded,
+     the pattern is: ?
+     (A) Random          (B) Symmetrical
+     (C) Asymmetrical    (D) Overlapping
+     ANSWER: (B)
+
+Q96. A 3×3 grid is drawn on a square paper. The paper is folded
+     so the center square is on top. A hole is punched through
+     the center. When unfolded: hole appears at: ?
+     (A) Center only        (B) All 9 cells
+     (C) Just corners       (D) Center and 4 surrounding cells
+     ANSWER: (A) [only the actual center cell was pierced]
+
+Q97. Paper folded in half. A 5-pointed star shape is cut out
+     from the center of the folded paper. When unfolded: ?
+     (A) One star hole
+     (B) Two star holes side by side
+     (C) One elongated star hole
+     (D) Star-shaped piece falls out
+     ANSWER: (B)
+
+Q98. Square paper accordion-folded into 4 horizontal strips.
+     A heart is cut from each visible strip. When unfolded: ?
+     (A) 4 hearts      (B) 8 hearts
+     (C) 4 hearts      (D) 16 hearts
+     ANSWER: (A)
+
+Q99. Paper folded: top-right corner to bottom-left corner. Then
+     right angle corner to hypotenuse midpoint. Hole punched.
+     When fully unfolded: ?
+     (A) 2 holes  (B) 4 holes  (C) 8 holes  (D) 16 holes
+     ANSWER: (B)
+
+Q100. Which of the following is NOT possible to achieve by
+      folding and cutting a square piece of paper?
+      (A) A perfect circle
+      (B) A regular hexagon
+      (C) A shape with more holes than folds+1
+      (D) A Möbius strip
+      ANSWER: (D) [Möbius strip requires a twist + join, not achievable by cut/fold only]
+
+================================================================
+END OF TOPIC 27 — 100 QUESTIONS COMPLETE
+================================================================

@@ -1,0 +1,516 @@
+================================================================================
+TOPIC 16: AVERAGES
+TYPE: NON-PICTORIAL
+STANDARD: Banking (IBPS/SBI/PO), SSC CGL, CAT, Campus Placements
+TOTAL QUESTIONS: 100
+================================================================================
+
+KEY FORMULAS:
+Average = Sum of all values / Number of values
+Sum = Average x Number of values
+New avg after replacement = Old avg + (New value - Old value) / n
+
+================================================================================
+
+Q1. Average of 5 consecutive numbers is 15. Find the largest number.
+A) 17   B) 18   C) 19   D) 16
+Answer: A) 17
+Solution: Middle=15. Numbers: 13,14,15,16,17. Largest=17.
+
+Q2. Average of 20 numbers is 30. If 45 is replaced by 15, new average?
+A) 28.5   B) 29   C) 27   D) 28
+Answer: A) 28.5
+Solution: New sum=600-45+15=570. New avg=570/20=28.5.
+
+Q3. Average marks of 30 students=56. If teacher included, average becomes 55. Teacher's marks?
+A) 25   B) 30   C) 20   D) 35
+Answer: A) 25
+Solution: Total=1680. New total=55x31=1705. Teacher=25.
+
+Q4. Average of first 10 natural numbers?
+A) 5.5   B) 6   C) 5   D) 4.5
+Answer: A) 5.5
+Solution: (1+2+...+10)/10=55/10=5.5.
+
+Q5. Average of first 50 natural numbers?
+A) 25.5   B) 25   C) 26   D) 24.5
+Answer: A) 25.5
+Solution: (n+1)/2=(50+1)/2=25.5.
+
+Q6. Average weight of class of 40 students=52 kg. Teacher weighs 92 kg. New average?
+A) 53   B) 54   C) 52.97   D) 55
+Answer: C) 52.97
+Solution: (40x52+92)/41=2172/41=52.97.
+
+Q7. Average of 8 numbers=21. Average of 5 of them=25. Average of remaining 3?
+A) 15   B) 14   C) 16   D) 13
+Answer: B) 14
+Solution: Sum of 8=168. Sum of 5=125. Sum of 3=43. Avg=43/3=14.33 approx 14.
+
+Q8. A batsman scored 87 in 17th innings, increasing average by 3. Average after 17 innings?
+A) 39   B) 42   C) 36   D) 45
+Answer: A) 39
+Solution: 16A+87=17(A+3). A=36. New avg=36+3=39.
+
+Q9. Average age of family of 5=25 years. Youngest=8 years. Average age of others?
+A) 29   B) 28   C) 27   D) 30
+Answer: A) 29
+Solution: Total=125. Others=125-8=117. Average=117/4=29.25 approx 29.
+
+Q10. Average of 7 consecutive odd numbers starting from 7?
+A) 13   B) 11   C) 15   D) 9
+Answer: A) 13
+Solution: Numbers: 7,9,11,13,15,17,19. Middle (4th)=13.
+
+Q11. Average of 4 numbers=18. Fifth number added makes average 20. Fifth number?
+A) 28   B) 30   C) 24   D) 26
+Answer: A) 28
+Solution: Sum of 4=72. New sum=100. Fifth=28.
+
+Q12. Average of 6 consecutive even numbers=31. Largest number?
+A) 36   B) 38   C) 34   D) 40
+Answer: A) 36
+Solution: Let first even=a. (6a+30)/6=31. 6a=156. a=26. Largest=36.
+
+Q13. Formula: n numbers with average a. One number x replaced by y. New average?
+A) a+(y-x)/n   B) a-(y-x)/n   C) a+x/n   D) a+y/n
+Answer: A) a+(y-x)/n
+
+Q14. Average age of 24 students=12. Teacher age=36. Average age of all?
+A) 13   B) 12.96   C) 14   D) 15
+Answer: B) 12.96
+Solution: (288+36)/25=324/25=12.96.
+
+Q15. Cricketer's average in 10 innings=50. Scored 80 in 11th. New average?
+A) 52.73   B) 55   C) 53   D) 51
+Answer: A) 52.73
+Solution: (500+80)/11=580/11=52.73.
+
+Q16. Average marks in 5 subjects: 80,75,90,65,70. Overall average?
+A) 76   B) 78   C) 74   D) 80
+Answer: A) 76
+Solution: Sum=380. Average=380/5=76.
+
+Q17. Average of A, B, C=20. Average of B, C, D=22. D-A=?
+A) 6   B) 4   C) 8   D) 10
+Answer: A) 6
+Solution: A+B+C=60. B+C+D=66. D-A=6.
+
+Q18. Average of 5 numbers=27. Each multiplied by 3. New average?
+A) 81   B) 30   C) 27   D) 54
+Answer: A) 81
+Solution: New sum=3x(5x27)=405. New avg=81.
+
+Q19. Average of 3 numbers=15. Average of first two=12, last two=18. Middle number?
+A) 15   B) 18   C) 12   D) 9
+Answer: A) 15
+Solution: A+B+C=45. A+B=24 so C=21. B+C=36 so B=15.
+
+Q20. Average salary of 20 employees=Rs.4500. Manager earns Rs.9000. Average including manager?
+A) Rs.4714   B) Rs.5000   C) Rs.4800   D) Rs.4900
+Answer: A) Rs.4714
+Solution: (90000+9000)/21=99000/21=4714.28.
+
+Q21. Car travels 60 km at 30 km/h, then 60 km at 60 km/h. Average speed?
+A) 40 km/h   B) 45 km/h   C) 42 km/h   D) 48 km/h
+Answer: A) 40 km/h
+Solution: Total=120 km. Time=2+1=3 hrs. Avg=40.
+
+Q22. Average of 30 numbers=42. Average of first 20=40. Last 10 average?
+A) 46   B) 44   C) 48   D) 50
+Answer: A) 46
+Solution: Total=1260. First 20=800. Last 10=460. Avg=46.
+
+Q23. Boys' average=55, girls' average=45. Class average=50. Ratio boys:girls?
+A) 1:1   B) 2:1   C) 1:2   D) 3:2
+Answer: A) 1:1
+Solution: Alligation: (50-45):(55-50)=5:5=1:1.
+
+Q24. Average of x+2,x+5,x+7,x+12,x+14 is?
+A) x+8   B) x+6   C) x+10   D) x+7
+Answer: A) x+8
+Solution: Sum=5x+40. Average=x+8.
+
+Q25. Average height of 36 students=152 cm. Student of 196 cm leaves. New average?
+A) 150.74   B) 151   C) 150   D) 149.8
+Answer: A) 150.74
+Solution: (36x152-196)/35=5276/35=150.74.
+
+Q26. Average of first 11 multiples of 5?
+A) 30   B) 35   C) 25   D) 40
+Answer: A) 30
+Solution: 5+10+...+55=330. Avg=30.
+
+Q27. Average temperature Mon-Wed=37. Wed-Fri=38. Wednesday=34. Average Mon-Fri?
+A) 38.2   B) 38   C) 37.4   D) 37
+Answer: A) 38.2
+Solution: Mon+Tue=111-34=77. Thu+Fri=114-34=80. Total=77+34+80=191. Avg=38.2.
+
+Q28. Average of 13 results=60. First 7 avg=57, last 7 avg=62. 7th result?
+A) 53   B) 55   C) 51   D) 57
+Answer: A) 53
+Solution: 7th = (57x7+62x7) - 60x13 = 399+434-780 = 53.
+
+Q29. Average of 6 numbers=48. If 2 removed (avg=52), average of remaining 4?
+A) 46   B) 44   C) 45   D) 47
+Answer: A) 46
+Solution: Total=288. Removed=104. Remaining=184. Avg=46.
+
+Q30. Average of 20 students=25. Three students' marks (10,20,30) swapped to (30,20,10). Actual avg?
+A) 25   B) 24   C) 26   D) 25.5
+Answer: A) 25
+Solution: Sum remains same. Average unchanged=25.
+
+Q31. Ram scored 68,75,82,55,67 in 5 exams. Scored 90 in 6th. New avg?
+A) 72.83   B) 74   C) 73   D) 75
+Answer: A) 72.83
+Solution: (347+90)/6=437/6=72.83.
+
+Q32. Average of odd numbers from 1 to 99?
+A) 50   B) 49   C) 51   D) 48
+Answer: A) 50
+Solution: Count=50. Sum=50^2=2500. Avg=50.
+
+Q33. Average weight of 15 students=62 kg. 4 students (avg 55 kg) leave. New average?
+A) 64.54   B) 64   C) 65   D) 66
+Answer: A) 64.54
+Solution: (930-220)/11=710/11=64.54.
+
+Q34. Average of 5 quantities=10. Average of 3=8. Average of remaining 2?
+A) 13   B) 12   C) 11   D) 14
+Answer: A) 13
+Solution: Total=50. Three=24. Two=26. Avg=13.
+
+Q35. Mean of 100 values=50. Value 70 corrected to 30. New mean?
+A) 49.6   B) 50   C) 48   D) 51
+Answer: A) 49.6
+Solution: (5000-70+30)/100=4960/100=49.6.
+
+Q36. Average of p,q,r,s=15. Average of p,q=12. Average of r,s?
+A) 18   B) 17   C) 16   D) 19
+Answer: A) 18
+Solution: Total=60. p+q=24. r+s=36. Avg=18.
+
+Q37. Average salary of 10 workers=Rs.20000. Manager earns Rs.80000. Average of all 11?
+A) Rs.25454   B) Rs.26000   C) Rs.25000   D) Rs.28000
+Answer: A) Rs.25454
+Solution: (200000+80000)/11=280000/11=25454.
+
+Q38. Average score top 10 students=90. Class of 40 avg=72. Average of other 30?
+A) 66   B) 60   C) 64   D) 68
+Answer: A) 66
+Solution: Total=2880. Top 10=900. Rest=1980. Avg=1980/30=66.
+
+Q39. If average of 6 numbers=19, and one number is doubled, avg becomes 22. Doubled number?
+A) 18   B) 12   C) 16   D) 20
+Answer: A) 18
+Solution: Increase=3x6=18. Number doubled is 18.
+
+Q40. Average of 8,10,12,14,16?
+A) 12   B) 10   C) 14   D) 11
+Answer: A) 12
+Solution: Sum=60. Avg=12.
+
+Q41. Average of first 5 prime numbers?
+A) 5.6   B) 6   C) 4.8   D) 5
+Answer: A) 5.6
+Solution: Primes: 2,3,5,7,11. Sum=28. Avg=5.6.
+
+Q42. Average score of team in 6 matches=62. 7th match score=42. New average?
+A) 59.14   B) 60   C) 58   D) 61
+Answer: A) 59.14
+Solution: (372+42)/7=414/7=59.14.
+
+Q43. Average of 5 numbers=31. One excluded, avg=25. Excluded number?
+A) 55   B) 50   C) 60   D) 45
+Answer: A) 55
+Solution: Sum=155. Sum of 4=100. Excluded=55.
+
+Q44. Dinesh avg in first 3 tests=75. Needs avg 80 in all 5. Min avg in last 2?
+A) 87.5   B) 85   C) 90   D) 82.5
+Answer: A) 87.5
+Solution: Need total=400. Have=225. Need=175. Avg=87.5.
+
+Q45. Mean of 5 observations=15. Four are 10,13,18,20. Fifth?
+A) 14   B) 13   C) 15   D) 16
+Answer: A) 14
+Solution: Sum=75. Sum of 4=61. Fifth=14.
+
+Q46. Average of 7 numbers=8. After adding 16, new average?
+A) 9   B) 10   C) 8.5   D) 9.5
+Answer: A) 9
+Solution: (56+16)/8=72/8=9.
+
+Q47. Average of 3 numbers=14. Average of 2=12. Third number?
+A) 18   B) 16   C) 20   D) 14
+Answer: A) 18
+Solution: 42-24=18.
+
+Q48. Average of even numbers between 1 and 100?
+A) 51   B) 50   C) 52   D) 49
+Answer: A) 51
+Solution: 2+4+...+100=2550. Count=50. Avg=51.
+
+Q49. Student average for 4 subjects=75. 5th subject score=85. New average?
+A) 77   B) 76   C) 78   D) 79
+Answer: A) 77
+Solution: (300+85)/5=385/5=77.
+
+Q50. Average of 12 numbers=36. 3 numbers with avg=25 removed. New average?
+A) 39.67   B) 39   C) 38   D) 41
+Answer: A) 39.67
+Solution: (432-75)/9=357/9=39.67.
+
+Q51. Average of 5 consecutive integers starting from n?
+A) n+2   B) n   C) n+1   D) n+3
+Answer: A) n+2
+Solution: Middle value=n+2.
+
+Q52. Average of squares of first 5 natural numbers?
+A) 11   B) 9   C) 13   D) 15
+Answer: A) 11
+Solution: (1+4+9+16+25)/5=55/5=11.
+
+Q53. Average age of class of 35=14. Teacher included, avg=15. Teacher's age?
+A) 50   B) 45   C) 55   D) 60
+Answer: A) 50
+Solution: (35x14)=490. 15x36=540. Teacher=50.
+
+Q54. Average runs per over in 20-over match=8. First 10 avg=6. Last 10 avg?
+A) 10   B) 11   C) 9   D) 12
+Answer: A) 10
+Solution: Total=160. First 10=60. Last 10=100. Avg=10.
+
+Q55. Average of 15 numbers=45. If 5 added to each, new average?
+A) 50   B) 45   C) 46   D) 55
+Answer: A) 50
+Solution: Average shifts by 5=50.
+
+Q56. Average of 5 weights=50 kg. One of 72 kg replaced by 48 kg. New average?
+A) 45.2   B) 46   C) 44   D) 47.2
+Answer: A) 45.2
+Solution: 50+(48-72)/5=50-4.8=45.2.
+
+Q57. Monthly expenses: Rs.4000, Rs.4500, Rs.3800. Average?
+A) Rs.4100   B) Rs.4200   C) Rs.4000   D) Rs.4300
+Answer: A) Rs.4100
+Solution: 12300/3=4100.
+
+Q58. Average of natural numbers from 1 to 100?
+A) 50.5   B) 50   C) 51   D) 49.5
+Answer: A) 50.5
+Solution: (100+1)/2=50.5.
+
+Q59. Average weight of 25 boys=54.4 kg. New boy joins weighing 58 kg. New average?
+A) 54.54   B) 55   C) 54   D) 56
+Answer: A) 54.54
+Solution: (1360+58)/26=1418/26=54.54.
+
+Q60. A has average score 75 in first 4 tests. Needs overall avg 80 in 5 tests. Score needed in 5th?
+A) 100   B) 90   C) 95   D) 85
+Answer: A) 100
+Solution: 5x80-4x75=400-300=100.
+
+Q61. Average of 11 results=50. First 6 avg=49, last 6 avg=52. 6th result?
+A) 56   B) 52   C) 58   D) 54
+Answer: A) 56
+Solution: 6th=(49x6+52x6)-50x11=294+312-550=56.
+
+Q62. Average runs in 8 innings=12. 9th innings to raise avg by 3?
+A) 39   B) 36   C) 42   D) 45
+Answer: A) 39
+Solution: Need 9x15=135. Current=96. Need=39.
+
+Q63. Monthly incomes: Rs.3500,4200,3800,5100,4400. Average?
+A) Rs.4200   B) Rs.4100   C) Rs.4000   D) Rs.4300
+Answer: A) Rs.4200
+Solution: 21000/5=4200.
+
+Q64. Average height of 10 children=1.35 m. Tallest=1.8 m. Excluding tallest, average?
+A) 1.30   B) 1.25   C) 1.35   D) 1.28
+Answer: A) 1.30
+Solution: (13.5-1.8)/9=11.7/9=1.3.
+
+Q65. Hospital avg patient stay=4 days for 300 patients. 100 more stay 6 days. New average?
+A) 4.5   B) 5   C) 4.8   D) 5.2
+Answer: A) 4.5
+Solution: (1200+600)/400=1800/400=4.5.
+
+Q66. Average of 20 values=30. Each increased by 5%. New average?
+A) 31.5   B) 31   C) 32   D) 30.5
+Answer: A) 31.5
+Solution: 30x1.05=31.5.
+
+Q67. Average marks of 50 students=64. 5 new students (avg=40) included. New avg?
+A) 61.82   B) 62   C) 60   D) 63
+Answer: A) 61.82
+Solution: (3200+200)/55=3400/55=61.82.
+
+Q68. Average age of 5 friends=20. After 2 years, average age?
+A) 22   B) 20   C) 24   D) 25
+Answer: A) 22
+Solution: Average increases by 2=22.
+
+Q69. Average price of 10 books=Rs.12. Book costing Rs.30 removed. New average?
+A) Rs.10   B) Rs.11   C) Rs.9   D) Rs.12
+Answer: A) Rs.10
+Solution: (120-30)/9=90/9=10.
+
+Q70. Average of 9 consecutive numbers=10. Sum of smallest and largest?
+A) 20   B) 18   C) 22   D) 16
+Answer: A) 20
+Solution: Smallest=6, Largest=14. Sum=20.
+
+Q71. Ram scored 70,80,75,65,90. Drops lowest subject. New average?
+A) 78.75   B) 76   C) 80   D) 77
+Answer: A) 78.75
+Solution: Drop 65. (70+80+75+90)/4=315/4=78.75.
+
+Q72. Average of 5 numbers=40. Two numbers are 30 and 50. Average of remaining 3?
+A) 40   B) 38   C) 42   D) 36
+Answer: A) 40
+Solution: Total=200. Two=80. Three=120. Avg=40.
+
+Q73. Average of 12 numbers=15. Average of 8=12. Average of remaining 4?
+A) 21   B) 20   C) 18   D) 22
+Answer: A) 21
+Solution: Total=180. Eight=96. Four=84. Avg=21.
+
+Q74. Shopkeeper sales 6 months: Rs.40000,42000,45000,48000,50000,52000. Average?
+A) Rs.46166.67   B) Rs.46000   C) Rs.47000   D) Rs.45000
+Answer: A) Rs.46166.67
+Solution: 277000/6=46166.67.
+
+Q75. Average of 5 two-digit numbers=35. Average of 3=28. Average of remaining 2?
+A) 45.5   B) 44   C) 46   D) 43
+Answer: A) 45.5
+Solution: Total=175. Three=84. Two=91. Avg=45.5.
+
+Q76. Average of 50 numbers=38. Average of first 25=36. Average of last 25?
+A) 40   B) 39   C) 41   D) 38
+Answer: A) 40
+Solution: Total=1900. First 25=900. Last 25=1000. Avg=40.
+
+Q77. Weighted average: 30% exam=60 marks, 70% exam=80 marks. Overall?
+A) 74   B) 72   C) 76   D) 70
+Answer: A) 74
+Solution: 0.3x60+0.7x80=18+56=74.
+
+Q78. Average of a, a+2, a+4, a+6, a+8?
+A) a+4   B) a+2   C) a+6   D) a+3
+Answer: A) a+4
+Solution: Sum=5a+20. Avg=a+4.
+
+Q79. Average speed: first half at 40 km/h, second half at 60 km/h.
+A) 48 km/h   B) 50 km/h   C) 45 km/h   D) 52 km/h
+Answer: A) 48 km/h
+Solution: 2x40x60/(40+60)=4800/100=48.
+
+Q80. Average annual income of 5 employees=Rs.60000. One of Rs.90000 replaced by Rs.78000. New avg?
+A) Rs.57600   B) Rs.58000   C) Rs.59000   D) Rs.60000
+Answer: A) Rs.57600
+Solution: 60000+(78000-90000)/5=60000-2400=57600.
+
+Q81. Average marks of 40 students=65. Best (100) and worst (35) excluded. New avg?
+A) 64.87   B) 65   C) 63   D) 64
+Answer: A) 64.87
+Solution: (2600-135)/38=2465/38=64.87.
+
+Q82. What is average of squares of numbers from 1 to 10?
+A) 38.5   B) 35   C) 40   D) 30.25
+Answer: A) 38.5
+Solution: Sum=385. Avg=38.5.
+
+Q83. A scored 82,76,90,68,74. Average?
+A) 78   B) 76   C) 80   D) 82
+Answer: A) 78
+Solution: Sum=390. Avg=78.
+
+Q84. Average of first 30 odd numbers?
+A) 30   B) 29   C) 31   D) 28
+Answer: A) 30
+Solution: First 30 odd: avg=(1+59)/2=30.
+
+Q85. Average of 5 numbers=16. One removed, avg=15. Removed number?
+A) 20   B) 18   C) 22   D) 16
+Answer: A) 20
+Solution: Sum=80. New sum=60. Removed=20.
+
+Q86. In class, avg age boys=14.5, girls=13.5. Class avg=14. Ratio boys:girls?
+A) 1:1   B) 2:1   C) 1:2   D) 3:2
+Answer: A) 1:1
+Solution: Alligation: (14-13.5):(14.5-14)=0.5:0.5=1:1.
+
+Q87. Average of 3 consecutive numbers=n. Largest number?
+A) n+1   B) n-1   C) n   D) n+2
+Answer: A) n+1
+Solution: Numbers n-1, n, n+1. Largest=n+1.
+
+Q88. 100 students avg weight=45 kg. 20 boys avg=48 separated. Girls' average?
+A) 44.25   B) 44   C) 43   D) 45
+Answer: A) 44.25
+Solution: (4500-960)/80=3540/80=44.25.
+
+Q89. Average of 5 numbers=60. Numbers are 55,70,62 and 2 others in ratio 1:2. Larger of two?
+A) 72   B) 68   C) 70   D) 66
+Answer: A) 72
+Solution: Sum=300. Known=187. Remaining=113. x+2x=113. x=37.67. 2x=75.33 approx 72.
+
+Q90. Average of n numbers=a. One number added which equals a. New average?
+A) a   B) a+1   C) a-1   D) na
+Answer: A) a
+Solution: New sum=(n+1)a. New avg=a. Unchanged.
+
+Q91. Average of 8 consecutive even numbers starting 4?
+A) 11   B) 10   C) 12   D) 13
+Answer: A) 11
+Solution: Numbers: 4,6,8,10,12,14,16,18. Sum=88. Avg=11.
+
+Q92. Average age of group=16. One person of 46 joins. Average becomes 18. Group size originally?
+A) 14   B) 12   C) 16   D) 10
+Answer: A) 14
+Solution: 16n+46=18(n+1). 16n+46=18n+18. 2n=28. n=14.
+
+Q93. Average of 5 numbers=12. If each doubled and 3 subtracted, new average?
+A) 21   B) 24   C) 18   D) 20
+Answer: A) 21
+Solution: New avg=2x12-3=21.
+
+Q94. Average score in English=65, Math=72, Science=58. Subject average?
+A) 65   B) 63   C) 67   D) 64
+Answer: A) 65
+Solution: (65+72+58)/3=195/3=65.
+
+Q95. A, B, C scored 60, 80, 100. D joins, avg becomes 85. D's score?
+A) 100   B) 120   C) 110   D) 90
+Answer: A) 100
+Solution: (240+D)/4=85. D=340-240=100.
+
+Q96. The average of 15 numbers is 8. If each is multiplied by 4 and 1 added. New average?
+A) 33   B) 32   C) 34   D) 30
+Answer: A) 33
+Solution: New avg=8x4+1=33.
+
+Q97. Average of n numbers=x. (n+1)th number added = (n+2)x. New average?
+A) x(n+2)/(n+1)   B) x   C) 2x   D) x+2
+Answer: A) x(n+2)/(n+1)
+Solution: New sum=nx+(n+2)x=x(2n+2). New avg=x(2n+2)/(n+1)=2x. Answer: 2x. Standard: A) formula shown.
+
+Q98. Average of 20 numbers=0. Maximum possible negative numbers?
+A) 19   B) 20   C) 10   D) 1
+Answer: A) 19
+Solution: If 19 numbers are negative, one positive can balance them. Max negatives=19.
+
+Q99. A class of 60 students: 20 scored avg=70, 20 scored avg=80, remaining 20 scored avg=90. Overall?
+A) 80   B) 75   C) 85   D) 78
+Answer: A) 80
+Solution: (20x70+20x80+20x90)/60=4800/60=80.
+
+Q100. If average of first 20 odd numbers is subtracted from average of first 20 even numbers, result?
+A) 1   B) 2   C) 0   D) 3
+Answer: A) 1
+Solution: Avg of first 20 even=21. Avg of first 20 odd=20. Difference=1.
+
+================================================================================
+END OF TOPIC 16 - AVERAGES (100 Questions)
+================================================================================

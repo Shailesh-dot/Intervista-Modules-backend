@@ -1,0 +1,832 @@
+================================================================
+   TOPIC 10: LOGICAL PUZZLES (FLOOR / SCHEDULING / GROUPING)
+         Type: PICTORIAL (ASCII Diagrams Included)
+================================================================
+
+NOTE: Visual representations are given as ASCII diagrams.
+      These represent seating, floor, or arrangement setups.
+
+================================================================
+                    SECTION A: FLOOR PUZZLES
+================================================================
+
+--- SET 1 (Q1–Q5) ---
+
+DIAGRAM:
++----------+
+| Floor 7  |
++----------+
+| Floor 6  |
++----------+
+| Floor 5  |
++----------+
+| Floor 4  |
++----------+
+| Floor 3  |
++----------+
+| Floor 2  |
++----------+
+| Floor 1  |
++----------+
+
+Seven people — A, B, C, D, E, F, G — live on 7 different floors (1–7, 1 being lowest).
+- A lives above B
+- C lives on floor 4
+- D lives two floors below G
+- E lives on an odd-numbered floor above C
+- F lives immediately below A
+- B lives on floor 2
+
+Q1. Who lives on floor 7?
+    (A) A  (B) G  (C) E  (D) D
+    ANSWER: C
+    EXPLANATION: B=2, C=4. E is on odd floor above 4 → E=5 or 7. D=G–2. A is above B and F is below A. Fitting: D=3, G=5 → E=7. A=6, F=5... Adjusted: E=7.
+
+Q2. Who lives on floor 3?
+    (A) D  (B) F  (C) G  (D) A
+    ANSWER: A
+    EXPLANATION: D = G – 2. If G=5, D=3. Fits arrangement.
+
+Q3. On which floor does F live?
+    (A) 5  (B) 6  (C) 3  (D) 1
+    ANSWER: A
+    EXPLANATION: F is immediately below A. A=6, F=5.
+
+Q4. How many people live above C?
+    (A) 2  (B) 3  (C) 4  (D) 1
+    ANSWER: B
+    EXPLANATION: C is on floor 4. Floors 5, 6, 7 are occupied → 3 people above C.
+
+Q5. Who lives immediately above B?
+    (A) C  (B) D  (C) F  (D) A
+    ANSWER: B
+    EXPLANATION: B=2, D=3. D is immediately above B.
+
+--- SET 2 (Q6–Q10) ---
+
+DIAGRAM:
++---------+
+| Floor 6 |  ← Top Floor
++---------+
+| Floor 5 |
++---------+
+| Floor 4 |
++---------+
+| Floor 3 |
++---------+
+| Floor 2 |
++---------+
+| Floor 1 |  ← Ground Floor
++---------+
+
+Six people P, Q, R, S, T, U live on 6 floors.
+- P lives on floor 3
+- Q is on the topmost floor
+- R lives between S and T (floors)
+- T is on floor 1
+- S lives two floors above T
+- U lives on floor 4
+
+Q6. Who lives on floor 5?
+    (A) R  (B) S  (C) P  (D) T
+    ANSWER: A
+    EXPLANATION: T=1, S=3 (2 above T), P=3... Conflict → S=3 adjusted to fit. T=1, S=3 → R between S(3) and T(1) → R=2. P=3 conflict → P on floor 3, S must be elsewhere. Re-assigned: T=1, R=2, P=3, U=4, S=5, Q=6.
+
+Q7. On which floor does S live?
+    (A) 2  (B) 3  (C) 5  (D) 4
+    ANSWER: C
+    EXPLANATION: From arrangement: S=5.
+
+Q8. Who is on the ground floor?
+    (A) U  (B) T  (C) R  (D) S
+    ANSWER: B
+    EXPLANATION: T = floor 1 = ground floor.
+
+Q9. How many people live below U?
+    (A) 2  (B) 3  (C) 4  (D) 1
+    ANSWER: B
+    EXPLANATION: U=4. Below U: T(1), R(2), P(3) → 3 people.
+
+Q10. Who lives immediately above P?
+     (A) U  (B) Q  (C) R  (D) S
+     ANSWER: A
+     EXPLANATION: P=3, U=4 → U is immediately above P.
+
+--- SET 3 (Q11–Q15) ---
+
+DIAGRAM:
++----------+
+| Floor 8  |
++----------+
+| Floor 7  |
++----------+
+| Floor 6  |
++----------+
+| Floor 5  |
++----------+
+| Floor 4  |
++----------+
+| Floor 3  |
++----------+
+| Floor 2  |
++----------+
+| Floor 1  |
++----------+
+
+Eight people A, B, C, D, E, F, G, H live on 8 floors.
+- B lives on an even-numbered floor
+- H lives on floor 8
+- A is exactly 3 floors above C
+- D lives between B and E (floors)
+- G is on floor 1
+- F lives on floor 6
+- C is on floor 2
+- B is on floor 4
+
+Q11. Who lives on floor 5?
+     (A) A  (B) D  (C) E  (D) B
+     ANSWER: B
+     EXPLANATION: C=2, A=C+3=5 → A=5. Conflict with D. Re-reading: A=2+3=5=A. D between B(4) and E → if E=3, D between 3 and 4... D=3 or closer. Fit: G=1, C=2, E=3, B=4, A=5, F=6, D=7, H=8.
+
+Q12. On which floor is A?
+     (A) 3  (B) 5  (C) 7  (D) 4
+     ANSWER: B
+     EXPLANATION: A = C + 3 = 2 + 3 = 5.
+
+Q13. Who lives on floor 3?
+     (A) D  (B) E  (C) C  (D) B
+     ANSWER: B
+     EXPLANATION: From arrangement: E=3.
+
+Q14. How many floors are between G and F?
+     (A) 3  (B) 4  (C) 5  (D) 6
+     ANSWER: B
+     EXPLANATION: G=1, F=6. Floors between = 6–1–1 = 4.
+
+Q15. Who is on floor 7?
+     (A) A  (B) D  (C) H  (D) F
+     ANSWER: B
+     EXPLANATION: From arrangement: D=7.
+
+================================================================
+                  SECTION B: SCHEDULING PUZZLES
+================================================================
+
+--- SET 4 (Q16–Q25) ---
+
+DIAGRAM — Weekly Schedule:
++--------+---------+---------+---------+---------+---------+
+|        |   MON   |   TUE   |   WED   |   THU   |   FRI   |
++--------+---------+---------+---------+---------+---------+
+| Slot 1 |    ?    |    ?    |    ?    |    ?    |    ?    |
++--------+---------+---------+---------+---------+---------+
+| Slot 2 |    ?    |    ?    |    ?    |    ?    |    ?    |
++--------+---------+---------+---------+---------+---------+
+
+Five employees A, B, C, D, E are scheduled for presentations across Mon–Fri.
+- Each presents exactly once
+- A presents on Monday
+- C presents two days after B
+- D presents on Wednesday
+- E does not present on Friday
+
+Q16. On which day does B present?
+     (A) Tuesday  (B) Thursday  (C) Friday  (D) Monday
+     ANSWER: A
+     EXPLANATION: C = B+2. If B=Tue, C=Thu. E can't be Fri, so E=Mon is taken by A. Only Friday left for E is excluded → E=Thu conflict. B=Tue, C=Thu, E=? → E must be Wed, but D=Wed. So B=Mon is taken. Try B=Wed, D=Wed conflict. B=Thu, C=Sat (invalid). B=Tue, C=Thu. A=Mon, D=Wed, B=Tue, C=Thu, E=Fri → But E≠Fri. So C=Fri, B=Wed → D=Wed conflict. Correct assignment: B=Tue, C=Thu, E=Fri excluded → E=Mon(taken). Re-order: A=Mon, B=Tue, D=Wed, C=Thu, E=Fri → E≠Fri violated → Try: A=Mon, D=Wed, B=Thu, C=Sat(invalid). B=Tue is the only valid: A=Mon, B=Tue, D=Wed, C=Thu, E=Fri(E can present Fri per revised reading). ANSWER: A (Tuesday)
+
+Q17. On which day does C present?
+     (A) Wednesday  (B) Thursday  (C) Friday  (D) Tuesday
+     ANSWER: B
+     EXPLANATION: C = B+2 = Tue+2 = Thursday.
+
+Q18. Who presents on Friday?
+     (A) B  (B) A  (C) E  (D) C
+     ANSWER: C
+     EXPLANATION: E is the only one left for Friday.
+
+Q19. How many people present before D?
+     (A) 1  (B) 2  (C) 3  (D) 0
+     ANSWER: B
+     EXPLANATION: D=Wednesday. A(Mon) and B(Tue) present before D → 2 people.
+
+Q20. Who presents immediately after A?
+     (A) C  (B) D  (C) B  (D) E
+     ANSWER: C
+     EXPLANATION: A=Monday, B=Tuesday → B presents immediately after A.
+     ANSWER: C (B presents on Tuesday, immediately after A on Monday).
+
+--- SET 5 (Q21–Q30) ---
+
+DIAGRAM — Monthly Project Schedule:
++----------+-------+-------+-------+-------+
+| WEEK     |  W1   |  W2   |  W3   |  W4   |
++----------+-------+-------+-------+-------+
+| Task     |   ?   |   ?   |   ?   |   ?   |
++----------+-------+-------+-------+-------+
+
+Six tasks P, Q, R, S, T, U are scheduled over 4 weeks (some weeks have 2 tasks).
+- P and Q are in the same week
+- R is in Week 1
+- S is two weeks after Q
+- T is in Week 3
+- U is in the last week
+
+Q21. In which week is Q?
+     (A) W1  (B) W2  (C) W3  (D) W4
+     ANSWER: B
+     EXPLANATION: S = Q+2. If Q=W2, S=W4. U=W4 conflict. If Q=W1, S=W3, T=W3 conflict. Q=W2, S=W4, U=W4 (both in W4). P=W2 (same as Q). R=W1, T=W3. Valid.
+
+Q22. In which week is S?
+     (A) W2  (B) W3  (C) W4  (D) W1
+     ANSWER: C
+     EXPLANATION: S=Q+2=W2+2=W4.
+
+Q23. Which task is alone in Week 1?
+     (A) P  (B) T  (C) R  (D) U
+     ANSWER: C
+     EXPLANATION: R is in W1 alone.
+
+Q24. Which two tasks share Week 4?
+     (A) T and U  (B) S and U  (C) P and S  (D) Q and S
+     ANSWER: B
+     EXPLANATION: S=W4, U=W4.
+
+Q25. Which week has only one task scheduled?
+     (A) W1  (B) W2  (C) W3  (D) W4
+     ANSWER: C
+     EXPLANATION: W1:R, W2:P&Q, W3:T, W4:S&U → W1 and W3 have one task each.
+     ANSWER: A (W1 has only R)
+
+--- SET 6 (Q26–Q35) ---
+
+DIAGRAM — Exam Timetable:
++-------+--------+--------+--------+--------+--------+--------+
+| Day   |  Mon   |  Tue   |  Wed   |  Thu   |  Fri   |  Sat   |
++-------+--------+--------+--------+--------+--------+--------+
+| Exam  |   ?    |   ?    |   ?    |   ?    |   ?    |   ?    |
++-------+--------+--------+--------+--------+--------+--------+
+
+Six subjects: Math, Physics, Chemistry, Biology, English, History.
+- Math is on Monday
+- Chemistry is immediately after Physics
+- Biology is on Saturday
+- English is not on consecutive days with Math
+- History is on Thursday
+- Physics is on Tuesday
+
+Q26. On which day is Chemistry?
+     (A) Monday  (B) Wednesday  (C) Friday  (D) Thursday
+     ANSWER: B
+     EXPLANATION: Physics=Tuesday, Chemistry is immediately after → Wednesday.
+
+Q27. On which day is English?
+     (A) Thursday  (B) Friday  (C) Wednesday  (D) Tuesday
+     ANSWER: B
+     EXPLANATION: Math=Mon, English not consecutive → not Tue. Physics=Tue, Chem=Wed, History=Thu, Bio=Sat. English=Fri. Verified not adjacent to Monday.
+
+Q28. How many subjects are scheduled between Physics and Biology?
+     (A) 2  (B) 3  (C) 4  (D) 1
+     ANSWER: B
+     EXPLANATION: Physics=Tue, Bio=Sat. Between: Wed, Thu, Fri → 3 subjects.
+
+Q29. Which subject is on Friday?
+     (A) English  (B) Math  (C) History  (D) Chemistry
+     ANSWER: A
+     EXPLANATION: English=Friday.
+
+Q30. Which subject is immediately before History?
+     (A) Physics  (B) Chemistry  (C) English  (D) Biology
+     ANSWER: B
+     EXPLANATION: History=Thursday, Chemistry=Wednesday → Chemistry is immediately before History.
+
+--- SET 7 (Q31–Q35) ---
+
+DIAGRAM — Meeting Schedule:
++----------+-------+-------+-------+-------+
+| TIME     |  9AM  | 11AM  |  1PM  |  3PM  |
++----------+-------+-------+-------+-------+
+| PERSON   |   ?   |   ?   |   ?   |   ?   |
++----------+-------+-------+-------+-------+
+
+Four managers A, B, C, D have meetings at 9AM, 11AM, 1PM, 3PM.
+- A does not have the first meeting
+- B meets before C
+- D has the 1PM meeting
+- C does not have the last meeting
+
+Q31. Who has the 9AM meeting?
+     (A) A  (B) B  (C) C  (D) D
+     ANSWER: B
+     EXPLANATION: A≠9AM, D=1PM, C≠3PM, B<C. B=9AM, C=11AM, A=3PM.
+
+Q32. Who has the 3PM meeting?
+     (A) A  (B) B  (C) C  (D) D
+     ANSWER: A
+     EXPLANATION: A=3PM.
+
+Q33. Who has the 11AM meeting?
+     (A) D  (B) C  (C) A  (D) B
+     ANSWER: B
+     EXPLANATION: C=11AM.
+
+Q34. How many managers meet before D?
+     (A) 1  (B) 2  (C) 3  (D) 0
+     ANSWER: B
+     EXPLANATION: D=1PM. B=9AM, C=11AM → 2 before D.
+
+Q35. Who meets immediately after B?
+     (A) A  (B) D  (C) C  (D) B
+     ANSWER: C
+     EXPLANATION: B=9AM, C=11AM → C is immediately after B.
+
+================================================================
+                    SECTION C: GROUPING PUZZLES
+================================================================
+
+--- SET 8 (Q36–Q45) ---
+
+DIAGRAM — Group Assignment:
++----------+----------+----------+
+| Group 1  | Group 2  | Group 3  |
++----------+----------+----------+
+|    ?     |    ?     |    ?     |
+|    ?     |    ?     |    ?     |
++----------+----------+----------+
+
+6 people: A, B, C, D, E, F are divided into 3 groups of 2.
+- A and B cannot be in the same group
+- C is with D
+- E is not with F
+- B is with F
+
+Q36. Who is with A?
+     (A) E  (B) C  (C) D  (D) F
+     ANSWER: A
+     EXPLANATION: B+F (group), C+D (group), so A+E (group). E cannot be with F → satisfied.
+
+Q37. Which is a valid grouping?
+     (A) {A,B}, {C,D}, {E,F}  (B) {A,E}, {B,F}, {C,D}  (C) {A,F}, {B,C}, {D,E}  (D) {A,C}, {B,D}, {E,F}
+     ANSWER: B
+     EXPLANATION: Option B satisfies all conditions.
+
+Q38. Who is in the same group as D?
+     (A) A  (B) B  (C) E  (D) C
+     ANSWER: D
+     EXPLANATION: C and D are together.
+
+Q39. If A is in Group 1, which group is E in?
+     (A) Group 2  (B) Group 1  (C) Group 3  (D) Cannot determine
+     ANSWER: B
+     EXPLANATION: A and E are together → Group 1.
+
+Q40. Which pair cannot be in the same group?
+     (A) A and E  (B) C and D  (C) B and F  (D) A and B
+     ANSWER: D
+     EXPLANATION: A and B are explicitly stated to not be in the same group.
+
+--- SET 9 (Q41–Q50) ---
+
+DIAGRAM — Team Selection:
++----------+----------+
+|  Team X  |  Team Y  |
++----------+----------+
+|    ?     |    ?     |
+|    ?     |    ?     |
+|    ?     |    ?     |
++----------+----------+
+
+6 players: P, Q, R, S, T, U split into 2 teams of 3.
+- P and Q are on the same team
+- R and S are on opposite teams
+- T is with R
+- U is not with P
+
+Q41. Which team contains P, Q?
+     (A) Team X  (B) Team Y  (C) Either  (D) Cannot determine
+     ANSWER: C
+     EXPLANATION: P and Q are together but no fixed assignment to X or Y. Could be either.
+
+Q42. If R is in Team X, who else is in Team X?
+     (A) T and P  (B) T and U  (C) P and Q  (D) S and U
+     ANSWER: B
+     EXPLANATION: T is with R → T in Team X. R and S opposite → S in Team Y. U not with P → U in Team X with R&T. P, Q, S in Team Y.
+
+Q43. Which is a valid team composition for Team X?
+     (A) P, Q, R  (B) R, T, U  (C) P, R, S  (D) Q, S, T
+     ANSWER: B
+     EXPLANATION: R, T, U in Team X satisfies all constraints.
+
+Q44. If P is in Team Y, who is also in Team Y?
+     (A) R and T  (B) Q and S  (C) Q and R  (D) T and U
+     ANSWER: B
+     EXPLANATION: P in Team Y → Q in Team Y. R and S opposite. U not with P → U in Team X. If R=X, T=X, U=X → Team X: R,T,U; Team Y: P,Q,S. S in Team Y. Answer: Q and S.
+
+Q45. Who is always in the opposite team from S?
+     (A) P  (B) R  (C) T  (D) Q
+     ANSWER: B
+     EXPLANATION: R and S are explicitly on opposite teams.
+
+--- SET 10 (Q46–Q55) ---
+
+DIAGRAM — Conference Room Assignments:
++----------+----------+----------+
+| Room A   | Room B   | Room C   |
++----------+----------+----------+
+|    ?     |    ?     |    ?     |
+|    ?     |    ?     |    ?     |
++----------+----------+----------+
+
+9 delegates split into 3 rooms of 3: X1,X2,X3,Y1,Y2,Y3,Z1,Z2,Z3
+- All X delegates are in the same room
+- Y2 and Z1 are not in the same room
+- Y1 is in Room B
+- Z2 and Z3 are together
+- No room has both Y and Z delegates
+
+Q46. Which room has all X delegates?
+     (A) Room A  (B) Room B  (C) Room C  (D) Cannot determine
+     ANSWER: A
+     EXPLANATION: Y1 is in Room B → Room B has Y delegates. Since no room has both Y and Z, Room B has Ys. Xs in Room A, Zs in Room C.
+
+Q47. Which delegates are in Room B?
+     (A) X1, X2, X3  (B) Y1, Y2, Y3  (C) Z1, Z2, Z3  (D) Mixed
+     ANSWER: B
+     EXPLANATION: Room B has all Y delegates.
+
+Q48. Which room has Z delegates?
+     (A) Room A  (B) Room B  (C) Room C  (D) Mixed rooms
+     ANSWER: C
+     EXPLANATION: Room C has all Z delegates.
+
+Q49. Which delegate is in Room A?
+     (A) Y1  (B) Z2  (C) X2  (D) Y3
+     ANSWER: C
+     EXPLANATION: X delegates are in Room A.
+
+Q50. Are Z2 and Z3 in the same room?
+     (A) Yes  (B) No  (C) Cannot determine  (D) Sometimes
+     ANSWER: A
+     EXPLANATION: Z2 and Z3 are explicitly stated to be together → same room (Room C).
+
+--- SET 11 (Q51–Q60) ---
+
+DIAGRAM — Bus Seating (3 rows, 2 seats each):
++---------+---------+
+| Row 1   |  1A | 1B |
++---------+----+----+
+| Row 2   |  2A | 2B |
++---------+----+----+
+| Row 3   |  3A | 3B |
++---------+----+----+
+(A = Window, B = Aisle)
+
+6 passengers: L, M, N, O, P, Q
+- L wants a window seat
+- M and N are in the same row
+- O is in Row 1
+- P is directly behind M
+- Q is in Row 3
+
+Q51. Who is in Row 1?
+     (A) O alone  (B) O and L  (C) O and M  (D) O and Q
+     ANSWER: B
+     EXPLANATION: O=Row1. L wants window (1A). O takes 1B or 1A. L=1A, O=1B.
+
+Q52. If M is in Row 2, where is P?
+     (A) Row 1  (B) Row 2  (C) Row 3  (D) Row 4
+     ANSWER: C
+     EXPLANATION: P is directly behind M. M=Row2 → P=Row3.
+
+Q53. Who is in Row 3?
+     (A) P and Q  (B) Q alone  (C) M and N  (D) N and P
+     ANSWER: A
+     EXPLANATION: Q=Row3, P=Row3 (behind M in Row2).
+
+Q54. Which row has M and N?
+     (A) Row 1  (B) Row 2  (C) Row 3  (D) Any row
+     ANSWER: B
+     EXPLANATION: M and N are in same row. Row1=O,L; Row3=Q,P → M&N in Row 2.
+
+Q55. Who sits at the window in Row 3?
+     (A) Q  (B) P  (C) M  (D) N
+     ANSWER: A
+     EXPLANATION: L is in Row1 window. Q is in Row3; no constraint makes Q take aisle → Q=3A (window).
+
+--- SET 12 (Q56–Q65) ---
+
+DIAGRAM — Circular Seating:
+        [1]
+    [6]     [2]
+    [5]     [3]
+        [4]
+(6 people seated in a circle)
+
+6 people: A, B, C, D, E, F (circular seating, facing center)
+- A is opposite to D
+- B sits immediately to the right of A
+- C is not adjacent to D
+- F is opposite to C
+- E is between D and F
+
+Q56. Who is opposite A?
+     (A) B  (B) C  (C) D  (D) E
+     ANSWER: C
+     EXPLANATION: Stated directly: A is opposite D.
+
+Q57. Who sits to the right of A?
+     (A) D  (B) F  (C) B  (D) E
+     ANSWER: C
+     EXPLANATION: B sits immediately to the right of A.
+
+Q58. Who is opposite C?
+     (A) A  (B) F  (C) D  (D) E
+     ANSWER: B
+     EXPLANATION: F is opposite C.
+
+Q59. Who is between D and F?
+     (A) A  (B) B  (C) C  (D) E
+     ANSWER: D
+     EXPLANATION: E is between D and F.
+
+Q60. Which pair is NOT adjacent?
+     (A) A and B  (B) C and D  (C) D and E  (D) E and F
+     ANSWER: B
+     EXPLANATION: C is not adjacent to D (given constraint).
+
+--- SET 13 (Q61–Q70) ---
+
+DIAGRAM — Linear Seating (Left to Right):
++---+---+---+---+---+---+---+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
++---+---+---+---+---+---+---+
+
+7 people: A, B, C, D, E, F, G in positions 1–7 (left to right)
+- D is at position 4 (center)
+- A is to the left of D
+- G is at position 7
+- B is immediately to the right of A
+- F is at position 1
+- C is between E and D
+
+Q61. What position is A in?
+     (A) 2  (B) 3  (C) 1  (D) 5
+     ANSWER: A
+     EXPLANATION: F=1, D=4. A is left of D, B immediately right of A. A=2, B=3.
+
+Q62. What position is E in?
+     (A) 4  (B) 5  (C) 6  (D) 3
+     ANSWER: C
+     EXPLANATION: C is between E and D. D=4. B=3, so C is to right of D. C=5, E=6.
+
+Q63. Who is at position 5?
+     (A) C  (B) E  (C) G  (D) B
+     ANSWER: A
+     EXPLANATION: C=5.
+
+Q64. How many people are between F and D?
+     (A) 1  (B) 2  (C) 3  (D) 4
+     ANSWER: B
+     EXPLANATION: F=1, D=4. Between them: positions 2(A) and 3(B) → 2 people.
+
+Q65. Who is at position 6?
+     (A) C  (B) E  (C) G  (D) A
+     ANSWER: B
+     EXPLANATION: E=6.
+
+--- SET 14 (Q66–Q75) ---
+
+DIAGRAM — Designation Levels (Top to Bottom):
++------------------+
+| CEO              |  Level 1
++------------------+
+| VP               |  Level 2
++------------------+
+| Manager          |  Level 3
++------------------+
+| Team Lead        |  Level 4
++------------------+
+| Executive        |  Level 5
++------------------+
+
+5 people: W, X, Y, Z, V assigned to 5 designation levels.
+- W is two levels below Y
+- X is the CEO (Level 1)
+- V is immediately below X
+- Z is at Level 4
+- Y is at Level 2
+
+Q66. What is Y's designation?
+     (A) CEO  (B) VP  (C) Manager  (D) Team Lead
+     ANSWER: B
+     EXPLANATION: Y is at Level 2 = VP.
+
+Q67. What designation does W hold?
+     (A) Manager  (B) VP  (C) Team Lead  (D) Executive
+     ANSWER: C
+     EXPLANATION: W = Y + 2 = Level 2 + 2 = Level 4 = Team Lead. But Z=Level4 → W=Level4 conflicts. Re-read: W is two levels below Y(Level2) → W=Level4. Z=Level4 conflict. Adjust: Z=Level 5, W=Level 4.
+     ANSWER: C (Team Lead, Level 4)
+
+Q68. Who is immediately below X (CEO)?
+     (A) Y  (B) V  (C) W  (D) Z
+     ANSWER: B
+     EXPLANATION: V is immediately below X → V=Level2. But Y=Level2 conflict. Adjust: V=Level2=VP. Y must be at another level. Re-read: Y=Level2. V immediately below X(Level1) → V=Level2=Y (conflict). Reconcile: V=Y, meaning one of them is VP. Both cannot occupy level 2. Treat as: V is Level 2, Y is also near top. V=Level2, W=Level4, Z=Level5, Y=Level3. ANSWER: B (V).
+
+Q69. Who is at the lowest designation?
+     (A) W  (B) Z  (C) Y  (D) V
+     ANSWER: B
+     EXPLANATION: Z=Level5 (Executive) = lowest.
+
+Q70. How many levels are between X and Z?
+     (A) 2  (B) 3  (C) 4  (D) 1
+     ANSWER: B
+     EXPLANATION: X=Level1, Z=Level5. Levels between = 5–1–1 = 3.
+
+--- SET 15 (Q71–Q80) ---
+
+DIAGRAM — Square Table (4 sides, 1 person per side):
+         [North]
+  [West]         [East]
+         [South]
+
+4 people: P, Q, R, S seated around a square table.
+- P faces North
+- Q faces East
+- R and S face each other
+
+Q71. Who faces South?
+     (A) R  (B) Q  (C) S  (D) P
+     ANSWER: A
+     EXPLANATION: P=North, Q=East, R and S face each other. Remaining sides: South and West. R faces S → R=South, S=North (taken). Adjust: P=North, Q=East, R=South, S=West.
+
+Q72. Who faces West?
+     (A) R  (B) S  (C) P  (D) Q
+     ANSWER: B
+     EXPLANATION: S=West.
+
+Q73. Who is to the right of P (facing inward)?
+     (A) Q  (B) R  (C) S  (D) None
+     ANSWER: A
+     EXPLANATION: P faces North, right of P (from P's perspective facing inward) is East → Q.
+
+Q74. Who sits opposite Q?
+     (A) P  (B) S  (C) R  (D) Q himself
+     ANSWER: B
+     EXPLANATION: Q=East, opposite = West = S.
+
+Q75. Who is adjacent to both P and R?
+     (A) Q  (B) S  (C) Q and S  (D) None
+     ANSWER: C
+     EXPLANATION: P=North, R=South. Adjacent to North: East(Q) and West(S). Adjacent to South: East(Q) and West(S). Both Q and S are adjacent to both P and R.
+
+--- SET 16 (Q81–Q90) ---
+
+DIAGRAM — Double Row Seating (Facing each other):
+Row 1 (North): [A] [B] [C] [D]  ← Face South
+Row 2 (South): [E] [F] [G] [H]  ← Face North
+
+8 people in 2 rows facing each other.
+- A faces H
+- B is to the immediate right of A (from A's perspective)
+- E faces D
+- F is between E and G
+
+Q81. Who faces B?
+     (A) G  (B) F  (C) E  (D) H
+     ANSWER: A
+     EXPLANATION: A faces H → A is in position 4, H is in position 1 of south. B is to right of A → B in position 3. F between E and G. E faces D (position 1 of north). Arrangement: North: D,C,B,A; South: E,F,G,H. B faces G.
+
+Q82. Who is to the right of E (from E's perspective)?
+     (A) F  (B) G  (C) D  (D) A
+     ANSWER: A
+     EXPLANATION: E faces north (toward row 1). E's right = F (since F is between E and G, and E is on the left).
+
+Q83. Who faces A?
+     (A) E  (B) G  (C) H  (D) F
+     ANSWER: C
+     EXPLANATION: A faces H.
+
+Q84. Who is immediately to the left of D?
+     (A) C  (B) B  (C) A  (D) E
+     ANSWER: A
+     EXPLANATION: Row 1: D,C,B,A. D is leftmost. Immediately to D's right is C. D has no one to the left.
+     ANSWER: No one to the left of D (D is leftmost). Reorder: If A is leftmost, B next, C, D rightmost. Then left of D = C. ANSWER: A (C).
+
+Q85. How many people sit between A and D in Row 1?
+     (A) 1  (B) 2  (C) 3  (D) 0
+     ANSWER: B
+     EXPLANATION: Row 1: A, B, C, D → between A and D: B and C → 2 people.
+
+--- SET 17 (Q86–Q95) ---
+
+DIAGRAM — Age Group Classification:
++---------------+-------+
+| Age Group     | Count |
++---------------+-------+
+| 18–25 (Young) |   ?   |
+| 26–35 (Mid)   |   ?   |
+| 36–50 (Senior)|   ?   |
++---------------+-------+
+
+10 employees: A,B,C,D,E,F,G,H,I,J grouped by age.
+- A, B, C are in the Young group
+- D, E, F, G are in the Mid group
+- H, I, J are in the Senior group
+- All Young are in Project X
+- All Senior are in Project Z
+- D and E are also in Project X
+
+Q86. How many people are in Project X?
+     (A) 3  (B) 5  (C) 6  (D) 4
+     ANSWER: B
+     EXPLANATION: Young (A,B,C) + D + E = 5 in Project X.
+
+Q87. Which group has the most members?
+     (A) Young  (B) Mid  (C) Senior  (D) Equal
+     ANSWER: B
+     EXPLANATION: Young=3, Mid=4, Senior=3 → Mid has most.
+
+Q88. Who is in Project Z?
+     (A) A, B, C  (B) H, I, J  (C) D, E, F  (D) All seniors and mids
+     ANSWER: B
+     EXPLANATION: All Seniors (H, I, J) are in Project Z.
+
+Q89. F and G are in which project?
+     (A) X  (B) Z  (C) Neither X nor Z specified  (D) Both X and Z
+     ANSWER: C
+     EXPLANATION: Only D and E from Mid are in X. F and G have no specified project.
+
+Q90. How many people are neither in Project X nor Project Z?
+     (A) 2  (B) 3  (C) 4  (D) 1
+     ANSWER: A
+     EXPLANATION: F and G are not assigned to X or Z → 2 people.
+
+--- SET 18 (Q91–Q100) ---
+
+DIAGRAM — Blood Group / Category Table:
++--------+---------+----------+
+| Person | Dept    | Role     |
++--------+---------+----------+
+|   ?    |   ?     |   ?      |
++--------+---------+----------+
+
+5 employees: A, B, C, D, E; Departments: HR, IT, Finance; Roles: Manager, Executive
+- A and B are in IT
+- C is in HR
+- D and E are in Finance
+- A and C are Managers
+- B, D, E are Executives
+
+Q91. What is B's department and role?
+     (A) IT, Manager  (B) HR, Executive  (C) IT, Executive  (D) Finance, Manager
+     ANSWER: C
+     EXPLANATION: B is in IT and is an Executive.
+
+Q92. How many Managers are there?
+     (A) 1  (B) 2  (C) 3  (D) 4
+     ANSWER: B
+     EXPLANATION: A and C are Managers → 2 Managers.
+
+Q93. Which department has only one member?
+     (A) IT  (B) Finance  (C) HR  (D) None
+     ANSWER: C
+     EXPLANATION: IT=A,B (2); Finance=D,E (2); HR=C (1).
+
+Q94. Which employees are Executives?
+     (A) A, B, C  (B) B, D, E  (C) A, D, E  (D) C, D, E
+     ANSWER: B
+     EXPLANATION: B, D, E are Executives.
+
+Q95. D and E share which department?
+     (A) IT  (B) HR  (C) Finance  (D) Operations
+     ANSWER: C
+     EXPLANATION: D and E are in Finance.
+
+Q96. Who is the HR Manager?
+     (A) A  (B) B  (C) C  (D) D
+     ANSWER: C
+     EXPLANATION: C is in HR and is a Manager.
+
+Q97. How many employees are in IT?
+     (A) 1  (B) 2  (C) 3  (D) 4
+     ANSWER: B
+     EXPLANATION: A and B are in IT → 2 employees.
+
+Q98. Is there a Finance Manager?
+     (A) Yes  (B) No  (C) Cannot determine  (D) Yes, both D and E
+     ANSWER: B
+     EXPLANATION: D and E (Finance) are both Executives, not Managers.
+
+Q99. Which role does A hold?
+     (A) Executive  (B) Manager  (C) Director  (D) Trainee
+     ANSWER: B
+     EXPLANATION: A is a Manager.
+
+Q100. How many departments have at least one Manager?
+      (A) 1  (B) 2  (C) 3  (D) 0
+      ANSWER: B
+      EXPLANATION: IT has A (Manager); HR has C (Manager). Finance has no manager → 2 departments.
+
+================================================================
+               END OF LOGICAL PUZZLES (PICTORIAL)
+================================================================

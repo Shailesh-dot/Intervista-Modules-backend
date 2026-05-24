@@ -1,0 +1,33 @@
+# ── FastAPI & Server ──────────────────────────────────────────────────────────
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.22      # required by FastAPI for UploadFile / form-data
+
+# ── Groq LLM ──────────────────────────────────────────────────────────────────
+groq>=0.9.0
+
+# ── Data validation ───────────────────────────────────────────────────────────
+pydantic>=2.7.0
+
+# ── Environment variables ─────────────────────────────────────────────────────
+python-dotenv>=1.0.1
+
+# ── Async file I/O ────────────────────────────────────────────────────────────
+aiofiles>=25.0.0
+
+# ── Azure Speech (TTS + STT) ──────────────────────────────────────────────────
+azure-cognitiveservices-speech>=1.38.0
+
+# ── Resume parsing ────────────────────────────────────────────────────────────
+PyMuPDF>=1.24.0               # fitz — PDF text extraction
+python-docx>=1.1.0            # DOCX extraction
+pytesseract>=0.3.10           # OCR fallback for scanned PDFs / image resumes
+pdf2image>=1.17.0             # PDF → image conversion for OCR
+Pillow>=10.0.0                # PIL — image handling for OCR
+
+# ── Database (Application + Migrations) ───────────────────────────────────────
+psycopg2-binary>=2.9.0        # PostgreSQL driver
+SQLAlchemy>=2.0.0
+
+# ── HTTP (test script) ────────────────────────────────────────────────────────
+requests>=2.32.3

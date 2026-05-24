@@ -1,0 +1,817 @@
+================================================================================
+TOPIC 4: BLOOD RELATIONS
+TYPE: NON-PICTORIAL
+TOTAL QUESTIONS: 100
+================================================================================
+
+NOTES: In all questions, standard family relationships apply unless stated.
+M = Male, F = Female
+
+--------------------------------------------------------------------------------
+Q1. A is the son of B. C, B's sister, has a son D and a daughter E. F is the maternal uncle of D. How is A related to D?
+A) Cousin
+B) Uncle
+C) Brother
+D) Nephew
+Answer: A) Cousin
+
+--------------------------------------------------------------------------------
+Q2. Pointing to a photograph, a man says, "She is the mother of my son's wife." How is the woman related to the man?
+A) Sister-in-law
+B) Mother-in-law
+C) Mother
+D) Wife's mother / mother-in-law
+Answer: D) Wife's mother / mother-in-law
+[The son's wife = daughter-in-law; daughter-in-law's mother = man's wife's mother-in-law equivalent]
+
+--------------------------------------------------------------------------------
+Q3. "A + B" means A is the father of B. "A – B" means A is the mother of B. "A × B" means A is the brother of B. If P – Q + R, how is P related to R?
+A) Grandmother
+B) Mother
+C) Aunt
+D) Sister
+Answer: A) Grandmother
+
+--------------------------------------------------------------------------------
+Q4. Ravi is the brother of Priya. Priya is the mother of Kiran. How is Ravi related to Kiran?
+A) Father
+B) Uncle
+C) Grandfather
+D) Brother
+Answer: B) Uncle
+
+--------------------------------------------------------------------------------
+Q5. Pointing to a man, a woman says, "His mother is the only daughter of my mother." How is the woman related to the man?
+A) Sister
+B) Mother
+C) Aunt
+D) Grandmother
+Answer: B) Mother
+[Only daughter of my mother = herself; so the man's mother = the woman herself]
+
+--------------------------------------------------------------------------------
+Q6. A man said to a woman, "Your mother's husband's sister is my aunt." How is the woman related to the man?
+A) Sister or Cousin
+B) Daughter
+C) Niece
+D) Sister-in-law
+Answer: A) Sister or Cousin
+
+--------------------------------------------------------------------------------
+Q7. If X is the brother of Y, Y is the sister of Z, Z is the father of W, how is X related to W?
+A) Uncle
+B) Father
+C) Grandfather
+D) Brother
+Answer: A) Uncle
+
+--------------------------------------------------------------------------------
+Q8. Introducing a man, a woman said, "He is the son of my mother's only son." How is the woman related to the man?
+A) Mother
+B) Aunt
+C) Sister
+D) Cousin
+Answer: A) Mother
+[My mother's only son = myself; so the man is my son → I am his mother]
+
+--------------------------------------------------------------------------------
+Q9. P is Q's father. Q is R's brother. R is S's daughter. How is P related to S?
+A) Father
+B) Son
+C) Husband or Son
+D) Brother
+Answer: C) Husband or Son
+
+--------------------------------------------------------------------------------
+Q10. A's mother is B's daughter. C is B's mother. D is C's son. How is A related to D?
+A) Nephew or Niece
+B) Cousin
+C) Sibling
+D) Grandchild
+Answer: A) Nephew or Niece
+
+--------------------------------------------------------------------------------
+Q11. Raju says, "The person sitting on my left is the father-in-law of my wife's only daughter." Who is sitting on Raju's left?
+A) Son-in-law
+B) Himself
+C) Father
+D) Brother
+Answer: B) Himself
+[Wife's only daughter's father-in-law = my son-in-law's father? → actually: My wife's only daughter = my daughter; My daughter's father-in-law = My son-in-law's father... But the puzzle usually gives: "father of my wife" → Raju himself is the father-in-law of his daughter → Answer: B) Himself]
+
+--------------------------------------------------------------------------------
+Q12. A woman introduces a man as the son of the brother of her mother. How is the man related to the woman?
+A) Uncle
+B) Son
+C) Nephew
+D) Cousin
+Answer: D) Cousin
+
+--------------------------------------------------------------------------------
+Q13. Pointing to a boy, Sita says "He is the son of my grandfather's only son." How is the boy related to Sita?
+A) Brother
+B) Cousin
+C) Son
+D) Father
+Answer: A) Brother
+[Grandfather's only son = Sita's father; Father's son = Sita's brother]
+
+--------------------------------------------------------------------------------
+Q14. In a family: P is the brother of Q. Q is married to R. R is the daughter of S. How is P related to S?
+A) Son-in-law
+B) Brother
+C) Son
+D) Nephew
+Answer: A) Son-in-law
+
+--------------------------------------------------------------------------------
+Q15. If A is B's son, A is C's brother, and C is D's daughter, then D is B's:
+A) Son
+B) Daughter
+C) Daughter-in-law
+D) Wife or daughter
+Answer: D) Wife or daughter
+
+--------------------------------------------------------------------------------
+Q16. Two ladies and two men are playing cards. X is Y's husband. Y is Z's wife but is not Z's daughter's mother. P is X's father. How many female members are there?
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: B) 2
+
+--------------------------------------------------------------------------------
+Q17. Arjun said to Bhanu, "Your mother's husband's brother is my uncle." What is Arjun to Bhanu?
+A) Cousin or brother
+B) Uncle
+C) Nephew
+D) Father
+Answer: A) Cousin or brother
+
+--------------------------------------------------------------------------------
+Q18. Pointing to Renu, Neha says, "Her father is the brother of my mother." How is Renu related to Neha?
+A) Sister
+B) Cousin
+C) Aunt
+D) Niece
+Answer: B) Cousin
+
+--------------------------------------------------------------------------------
+Q19. A woman says, "The man standing over there is my sister's brother's wife's son." What could the man be to the woman?
+A) Son or Nephew
+B) Brother
+C) Uncle
+D) Cousin
+Answer: A) Son or Nephew
+
+--------------------------------------------------------------------------------
+Q20. X is the father of Y. Y is married to Z. Z is the sister of W. W is the son of A. How is X related to A?
+A) Cannot be determined
+B) Father
+C) Brother-in-law
+D) Uncle
+Answer: A) Cannot be determined
+
+--------------------------------------------------------------------------------
+Q21. In a family, there are 6 members: A, B, C, D, E, F. B is the son of C but C is not the mother of B. A is the mother of B and F. D is the brother of C and the son of G. E is the daughter of D. How is E related to A?
+A) Niece
+B) Cousin
+C) Sister
+D) Daughter
+Answer: A) Niece
+
+--------------------------------------------------------------------------------
+Q22. Rahul said to Sonal, "The mother of my sister's son is your mother's daughter-in-law." How is Rahul related to Sonal?
+A) Brother
+B) Uncle
+C) Father
+D) Son
+Answer: A) Brother
+
+--------------------------------------------------------------------------------
+Q23. If P is the son of Q's father's sister, how is Q related to P?
+A) Cousin
+B) Uncle/Aunt
+C) Brother
+D) Nephew
+Answer: A) Cousin
+
+--------------------------------------------------------------------------------
+Q24. Pointing to a girl, Rajan says "She is the daughter of the only son of my grandfather." How is the girl related to Rajan?
+A) Daughter
+B) Sister or Cousin
+C) Niece
+D) Granddaughter
+Answer: B) Sister or Cousin
+
+--------------------------------------------------------------------------------
+Q25. A man's wife's mother's husband is the man's:
+A) Father-in-law
+B) Father
+C) Uncle
+D) Brother-in-law
+Answer: A) Father-in-law
+
+--------------------------------------------------------------------------------
+Q26. Meera says "If you reverse our relationship, I would become your granddaughter." What is Meera to the other person?
+A) Grandmother
+B) Grandfather
+C) Mother
+D) Granddaughter
+Answer: A) Grandmother
+
+--------------------------------------------------------------------------------
+Q27. A man pointing to a photograph says "The lady in the photo is my nephew's maternal grandmother." How is the lady related to the man's sister who has no other siblings?
+A) Mother
+B) Sister
+C) Mother-in-law
+D) Aunt
+Answer: C) Mother-in-law
+
+--------------------------------------------------------------------------------
+Q28. R is the brother of S. T is the mother of S. U is the father of T. How is R related to U?
+A) Grandson
+B) Son
+C) Nephew
+D) Cousin
+Answer: A) Grandson
+
+--------------------------------------------------------------------------------
+Q29. Sita's daughter Priya is married to Karan. Karan's sister is Leela. How is Leela related to Sita?
+A) Daughter-in-law
+B) Sister
+C) Niece
+D) Granddaughter
+Answer: A) Daughter-in-law
+
+--------------------------------------------------------------------------------
+Q30. A told B: "Your father is my father's son." If A has no siblings, how is B related to A?
+A) Son
+B) Father
+C) Brother
+D) Cousin
+Answer: A) Son
+
+--------------------------------------------------------------------------------
+Q31. Mohan's father is the brother of Priya's mother. Priya's mother has a son Rohan. How is Rohan related to Mohan?
+A) Cousin
+B) Uncle
+C) Brother
+D) Father
+Answer: A) Cousin
+
+--------------------------------------------------------------------------------
+Q32. If A × B means A is the sister of B; A + B means A is the father of B; A – B means A is the mother of B; A ÷ B means A is the brother of B. In the expression P + Q × R ÷ S, how is S related to P?
+A) Grandson
+B) Granddaughter
+C) Nephew
+D) Son
+Answer: A) Grandson
+
+--------------------------------------------------------------------------------
+Q33. Pointing to a woman in a photograph, a man says "She is the only daughter of my grandfather's son." How is the woman related to the man?
+A) Sister or Cousin
+B) Mother
+C) Aunt
+D) Niece
+Answer: A) Sister or Cousin
+
+--------------------------------------------------------------------------------
+Q34. Sunita's father has two sons: Ram and Shyam. Shyam's mother's mother-in-law is Sunita's:
+A) Grandmother
+B) Mother
+C) Aunt
+D) Grandmother's mother
+Answer: A) Grandmother
+
+--------------------------------------------------------------------------------
+Q35. In a family: F is the father of G. G is the sister of H. H is married to I. I is the son of J. How is F related to J?
+A) Father-in-law
+B) Brother-in-law
+C) Cousin
+D) Cannot be determined
+Answer: D) Cannot be determined
+
+--------------------------------------------------------------------------------
+Q36. Ravi's mother is the sister of Meena's father. How is Meena related to Ravi?
+A) Cousin
+B) Niece
+C) Aunt
+D) Sister
+Answer: A) Cousin
+
+--------------------------------------------------------------------------------
+Q37. A woman says to a man "Your mother's brother's daughter is my father's wife." How is the man related to the woman?
+A) Cousin or brother
+B) Uncle
+C) Nephew
+D) Father
+Answer: A) Cousin or brother
+
+--------------------------------------------------------------------------------
+Q38. P has two sons Q and R. Q's wife is S. S's daughter is T. How is R related to T?
+A) Uncle
+B) Father
+C) Brother
+D) Grandfather
+Answer: A) Uncle
+
+--------------------------------------------------------------------------------
+Q39. Ganesh is the brother of Seema. Madhu is the sister of Tarun. Tarun is the brother of Ganesh. How is Seema related to Madhu?
+A) Sister
+B) Cousin
+C) Sister or Cousin
+D) Niece
+Answer: A) Sister
+
+--------------------------------------------------------------------------------
+Q40. A man introduces a woman to his friend: "She is the wife of the only son of my mother's mother." How is the woman related to the man?
+A) Sister-in-law
+B) Wife
+C) Cousin's wife
+D) Aunt
+Answer: B) Wife
+
+--------------------------------------------------------------------------------
+Q41. Kunal's mother's sister's son is Anil. What is Anil to Kunal's father?
+A) Nephew
+B) Son
+C) Cousin
+D) Brother-in-law
+Answer: A) Nephew
+
+--------------------------------------------------------------------------------
+Q42. Pointing to Anita, Rahul says "She is the daughter of the woman who is the mother of the husband of my mother." Rahul's relation to Anita?
+A) Nephew
+B) Son
+C) Uncle
+D) Brother
+Answer: A) Nephew
+
+--------------------------------------------------------------------------------
+Q43. In a family, A is the son of B. D is the daughter of A. C is married to B. E is the son of D. What relation is C to E?
+A) Great-grandmother
+B) Grandmother
+C) Great-aunt
+D) Grandmother
+Answer: D) Grandmother
+
+--------------------------------------------------------------------------------
+Q44. Two persons X and Y are married. Y has two sisters P and Q. P's husband is R. What is X's relation to R?
+A) Brother-in-law
+B) Cousin
+C) Brother
+D) Uncle
+Answer: A) Brother-in-law
+
+--------------------------------------------------------------------------------
+Q45. Mohan says "Rekha's father is the only son of my grandfather." How is Mohan related to Rekha?
+A) Uncle
+B) Cousin
+C) Father
+D) Brother
+Answer: C) Father
+
+--------------------------------------------------------------------------------
+Q46. In a family, there are four generations: Great-grandmother, Grandmother, Mother, and Child. The great-grandmother has only one son who has only one daughter who has only one daughter. The child is:
+A) Male or Female
+B) Female
+C) Female
+D) Can't say
+Answer: D) Can't say
+
+--------------------------------------------------------------------------------
+Q47. A is the wife of B. C is the son of A. D is the brother of B. E is the son of D. How is E related to A?
+A) Nephew
+B) Cousin
+C) Son
+D) Brother
+Answer: A) Nephew
+
+--------------------------------------------------------------------------------
+Q48. Reena's father is Arjun's grandfather. How is Reena related to Arjun?
+A) Aunt
+B) Sister
+C) Mother
+D) Cannot be determined
+Answer: A) Aunt
+
+--------------------------------------------------------------------------------
+Q49. Introducing Mona, Priya says: "She is the daughter of my mother's only son." How is Priya related to Mona?
+A) Mother
+B) Aunt
+C) Sister
+D) Grandmother
+Answer: B) Aunt
+
+--------------------------------------------------------------------------------
+Q50. A man shows a boy and says "He is the son of my wife's father-in-law's son." How is the boy related to the man?
+A) Son or Nephew
+B) Brother
+C) Son
+D) Cousin
+Answer: A) Son or Nephew
+
+--------------------------------------------------------------------------------
+Q51. A's brother's father's wife is B. How is B related to A?
+A) Mother
+B) Aunt
+C) Sister
+D) Grandmother
+Answer: A) Mother
+
+--------------------------------------------------------------------------------
+Q52. P is Q's son, Q is R's mother, S is R's sister. T is S's daughter. How is T related to P?
+A) Niece
+B) Granddaughter
+C) Cousin
+D) Daughter
+Answer: A) Niece
+
+--------------------------------------------------------------------------------
+Q53. In a family, A married B. C is A's son. D is A's brother. E is C's daughter. How is D related to E?
+A) Great-uncle
+B) Uncle
+C) Grandfather
+D) Cousin
+Answer: A) Great-uncle
+
+--------------------------------------------------------------------------------
+Q54. Suman is Rohan's sister. Rohan is Mukul's brother. Mukul's mother is Prabha. Prabha's husband is Hari. How is Suman related to Hari?
+A) Daughter
+B) Granddaughter
+C) Niece
+D) Sister
+Answer: A) Daughter
+
+--------------------------------------------------------------------------------
+Q55. If A + B means A is the mother of B; A * B means A is the father of B; A / B means A is the sister of B; A - B means A is the brother of B. Then R + S * T means:
+A) R is the grandmother of T
+B) R is the grandfather of T
+C) R is the mother of T
+D) R is the aunt of T
+Answer: A) R is the grandmother of T
+
+--------------------------------------------------------------------------------
+Q56. Pinky introduces a person: "He is the husband of the granddaughter of my grandmother." Who is this person?
+A) Husband
+B) Brother
+C) Cousin
+D) Father
+Answer: A) Husband
+
+--------------------------------------------------------------------------------
+Q57. A man's brother's only sister is the same person's mother's daughter. The man has:
+A) One sister
+B) No sister
+C) Two sisters
+D) Cannot be determined
+Answer: A) One sister
+
+--------------------------------------------------------------------------------
+Q58. Looking at a portrait, Karan said "This woman is the daughter of my father's only son's wife." What is Karan's relation to the woman?
+A) Father
+B) Brother
+C) Uncle
+D) Grandfather
+Answer: A) Father
+
+--------------------------------------------------------------------------------
+Q59. X's father's only daughter-in-law is Y. How is Y related to X?
+A) Mother
+B) Sister-in-law
+C) Wife
+D) Mother or Sister-in-law
+Answer: D) Mother or Sister-in-law
+
+--------------------------------------------------------------------------------
+Q60. A is the grandmother of B. B is the sister of C. D is the son of C. How is A related to D?
+A) Great-grandmother
+B) Grandmother
+C) Aunt
+D) Great-aunt
+Answer: A) Great-grandmother
+
+--------------------------------------------------------------------------------
+Q61. Preethi's daughter Latha is the wife of Saran. Saran's sister is Nivi. How is Nivi related to Preethi?
+A) Granddaughter
+B) Daughter
+C) Daughter-in-law
+D) Niece
+Answer: C) Daughter-in-law
+
+--------------------------------------------------------------------------------
+Q62. Ram told Shyam "Your wife is the daughter of my wife's mother." How is Ram related to Shyam?
+A) Brother-in-law
+B) Father-in-law
+C) Cousin
+D) Uncle
+Answer: A) Brother-in-law
+
+--------------------------------------------------------------------------------
+Q63. A woman said: "My father's wife's daughter is the only sister of my brother." What does that imply?
+A) The woman is talking about herself
+B) She has two sisters
+C) It cannot be determined
+D) She is talking about her cousin
+Answer: A) The woman is talking about herself
+
+--------------------------------------------------------------------------------
+Q64. In a family: L is M's brother. N is M's father. O is N's father. P is O's mother. How is P related to L?
+A) Great-grandmother
+B) Grandmother
+C) Mother
+D) Great-great-grandmother
+Answer: A) Great-grandmother
+
+--------------------------------------------------------------------------------
+Q65. A boy says "The sister of my father's son is my sister." Does the boy have a sister?
+A) Yes
+B) No
+C) Cannot be determined
+D) Depends on who the sister is
+Answer: A) Yes
+
+--------------------------------------------------------------------------------
+Q66. Lakshmi is Rahul's sister. Rahul is Meena's brother. Meena is Santosh's daughter. How is Lakshmi related to Santosh?
+A) Daughter
+B) Sister
+C) Niece
+D) Granddaughter
+Answer: A) Daughter
+
+--------------------------------------------------------------------------------
+Q67. Gita introduces Ramesh as "The son of the woman who is the mother of the husband of my mother." How is Gita related to Ramesh?
+A) Aunt
+B) Sister
+C) Cousin
+D) Niece
+Answer: A) Aunt
+
+--------------------------------------------------------------------------------
+Q68. If A's mother is B's daughter, and C is B's mother, how is A related to C?
+A) Granddaughter
+B) Granddaughter or Grandson
+C) Daughter
+D) Niece
+Answer: B) Granddaughter or Grandson
+
+--------------------------------------------------------------------------------
+Q69. Pointing to a man in the photograph, Deepa said "He is the son of my grandfather's only son." How is Deepa related to the man?
+A) Sister
+B) Cousin
+C) Aunt
+D) Sister or Cousin
+Answer: D) Sister or Cousin
+
+--------------------------------------------------------------------------------
+Q70. In a family A has two children. B is A's son. C is B's wife. D is A's grandson. How is C related to D?
+A) Mother
+B) Aunt
+C) Grandmother
+D) Sister
+Answer: A) Mother
+
+--------------------------------------------------------------------------------
+Q71. Ratan says "Mita's father is the only son of my father." How is Ratan related to Mita?
+A) Grandfather
+B) Father
+C) Uncle
+D) Brother
+Answer: A) Grandfather
+
+--------------------------------------------------------------------------------
+Q72. Seema's father's sister is Tara. Tara's son is Kiran. How is Seema related to Kiran?
+A) Cousin
+B) Niece
+C) Aunt
+D) Sister
+Answer: A) Cousin
+
+--------------------------------------------------------------------------------
+Q73. A woman's son's only sister is whose sister?
+A) The woman's daughter
+B) Another son's sister
+C) The woman's daughter
+D) Cannot say
+Answer: A) The woman's daughter (and also her son's sister)
+
+--------------------------------------------------------------------------------
+Q74. M is the wife of N. N's mother is P. P has a son Q who is not N. How is M related to Q?
+A) Sister-in-law
+B) Wife
+C) Cousin
+D) Niece
+Answer: A) Sister-in-law
+
+--------------------------------------------------------------------------------
+Q75. A man said to a woman "Your only brother's son is my wife's brother." How is the woman related to the man's wife?
+A) Aunt
+B) Mother
+C) Sister-in-law
+D) Cousin
+Answer: A) Aunt
+
+--------------------------------------------------------------------------------
+Q76. Ramesh's uncle's only brother's mother is Ramesh's:
+A) Mother
+B) Grandmother
+C) Aunt
+D) Great-grandmother
+Answer: B) Grandmother
+
+--------------------------------------------------------------------------------
+Q77. A married B. B's father is C. C's wife is D. E is D's son. F is E's daughter. How is F related to A?
+A) Niece
+B) Granddaughter
+C) Daughter
+D) Sister-in-law
+Answer: A) Niece
+
+--------------------------------------------------------------------------------
+Q78. In a group photo, Savitha points to a man and says "He is the son of the woman who is the mother of my husband." Savitha's relation to the man?
+A) Mother-in-law
+B) Sister-in-law
+C) Aunt
+D) Cousin
+Answer: B) Sister-in-law
+
+--------------------------------------------------------------------------------
+Q79. Chandini is Nandini's sister. Nandini's mother is Radha. Radha's mother-in-law is Vasantha. How is Chandini related to Vasantha?
+A) Granddaughter
+B) Daughter
+C) Niece
+D) Great-granddaughter
+Answer: A) Granddaughter
+
+--------------------------------------------------------------------------------
+Q80. P's mother is the sister of Q's father. P and Q are:
+A) Cousins
+B) Siblings
+C) Aunt-Nephew
+D) Uncle-Niece
+Answer: A) Cousins
+
+--------------------------------------------------------------------------------
+Q81. "The only son of my mother's father" is the same as:
+A) Maternal uncle
+B) Paternal uncle
+C) My father or uncle
+D) Cousin
+Answer: A) Maternal uncle (or my grandfather himself if he has only one son)
+
+--------------------------------------------------------------------------------
+Q82. Vijay introduces Meena: "Her mother's husband's father-in-law's granddaughter." What is Vijay's relation to Meena?
+A) Cousin
+B) Uncle
+C) Brother
+D) Cannot determine
+Answer: A) Cousin
+
+--------------------------------------------------------------------------------
+Q83. A is older than B. B is older than C. D is older than A. E is older than D. Who is the youngest?
+A) C
+B) B
+C) A
+D) D
+Answer: A) C
+
+--------------------------------------------------------------------------------
+Q84. If X is the nephew of Y and Y is the sister of Z, how is Z related to X?
+A) Uncle or Aunt
+B) Father or Mother
+C) Grandfather
+D) Uncle
+Answer: A) Uncle or Aunt
+
+--------------------------------------------------------------------------------
+Q85. Pointing to a girl, Aruna says "She is the daughter of my mother's only grandchild." How is the girl related to Aruna?
+A) Niece
+B) Cousin
+C) Granddaughter
+D) Daughter
+Answer: A) Niece
+
+--------------------------------------------------------------------------------
+Q86. Ram's sister is the daughter of Shyam's mother. Shyam has only one sister. What is Ram's relation to Shyam?
+A) Brother
+B) Uncle
+C) Nephew
+D) Father
+Answer: A) Brother
+
+--------------------------------------------------------------------------------
+Q87. Pointing to a woman, a man says "Her mother's brother is my son's father." How is the woman related to the man?
+A) Niece
+B) Daughter
+C) Sister
+D) Aunt
+Answer: A) Niece
+
+--------------------------------------------------------------------------------
+Q88. Amrita's only son is Rohit. Rohit's wife is Sunita. Sunita's only daughter is Priya. How is Priya related to Amrita?
+A) Granddaughter
+B) Granddaughter
+C) Daughter-in-law
+D) Niece
+Answer: A) Granddaughter
+
+--------------------------------------------------------------------------------
+Q89. In a joint family: grandfather, grandmother, father, mother, and three grandchildren. Minimum how many males are there?
+A) 2
+B) 1
+C) 3
+D) 4
+Answer: A) 2
+
+--------------------------------------------------------------------------------
+Q90. Sarvesh says "Manisha is the sister of the son of my father's wife." How is Manisha related to Sarvesh?
+A) Sister
+B) Cousin
+C) Aunt
+D) Cannot determine
+Answer: A) Sister
+
+--------------------------------------------------------------------------------
+Q91. A woman says "My husband's mother-in-law is my mother." This is:
+A) Always true
+B) Possible only if she has no siblings
+C) Always true (trivially)
+D) False
+Answer: C) Always true (trivially) [Her husband's mother-in-law = the woman's own mother]
+
+--------------------------------------------------------------------------------
+Q92. If A is B's brother, C is A's mother, D is C's father, E is D's mother. How is B related to D?
+A) Granddaughter / Grandson
+B) Daughter / Son
+C) Great-granddaughter
+D) Niece / Nephew
+Answer: A) Granddaughter / Grandson
+
+--------------------------------------------------------------------------------
+Q93. Pointing to Karan, Anjali said: "He is the son of the man who is my husband's father." Who is Karan to Anjali?
+A) Brother-in-law
+B) Son
+C) Nephew
+D) Cousin
+Answer: A) Brother-in-law
+
+--------------------------------------------------------------------------------
+Q94. Neeraj's father is Puneet's son. Puneet has only one son. How is Neeraj related to Puneet?
+A) Grandson
+B) Son
+C) Nephew
+D) Brother
+Answer: A) Grandson
+
+--------------------------------------------------------------------------------
+Q95. Rekha is the wife of Suresh. Suresh's father is Ramesh. Ramesh's wife is Kamala. Kamala's father is Mohan. How is Rekha related to Mohan?
+A) Granddaughter-in-law
+B) Daughter-in-law
+C) Niece
+D) Granddaughter
+Answer: A) Granddaughter-in-law
+
+--------------------------------------------------------------------------------
+Q96. P's father's sister's son is Q. Q's father is R. How is R related to P?
+A) Uncle
+B) Father
+C) Cousin
+D) Maternal uncle
+Answer: A) Uncle
+
+--------------------------------------------------------------------------------
+Q97. Asha introduces Rajan as "The son of the only son of my grandmother." Who is Rajan to Asha?
+A) Uncle
+B) Father
+C) Brother or Cousin
+D) Grandfather
+Answer: C) Brother or Cousin
+
+--------------------------------------------------------------------------------
+Q98. A is B's father. B is C's mother. C is D's sister. D is E's son. How is A related to E?
+A) Grandfather
+B) Father
+C) Uncle
+D) Great-grandfather
+Answer: A) Grandfather
+
+--------------------------------------------------------------------------------
+Q99. Pointing to a woman, a girl said "She is the granddaughter of my mother's mother." How is the girl related to the woman?
+A) Aunt
+B) Mother
+C) Grandmother
+D) Sister
+Answer: B) Mother
+
+--------------------------------------------------------------------------------
+Q100. A man said pointing to a picture: "This man's son is my son's uncle." How is the person in the picture related to the man?
+A) Father
+B) Uncle
+C) Brother
+D) Grandfather
+Answer: A) Father
+
+================================================================================
+END OF TOPIC 4 - BLOOD RELATIONS (100 Questions)
+================================================================================

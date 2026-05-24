@@ -1,0 +1,5 @@
+To run this backend folder :
+
+1. Run the venv first : .\.venv\Scripts\activate
+
+2. Then run the python file : python api_bridge_monitor.py

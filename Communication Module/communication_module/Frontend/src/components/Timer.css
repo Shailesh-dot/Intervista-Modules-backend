@@ -1,0 +1,72 @@
+.timer {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 140px;
+  height: 140px;
+}
+
+.timer__svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.timer__track {
+  stroke: hsla(230, 20%, 30%, 0.4);
+}
+
+/* Prep variant */
+.timer--prep .timer__progress {
+  stroke: var(--clr-primary-light);
+  transition: stroke-dashoffset 1s linear;
+}
+
+/* Recording variant */
+.timer--recording .timer__progress {
+  stroke: var(--clr-danger);
+  transition: stroke-dashoffset 1s linear;
+}
+
+/* Urgent state (last 10 seconds) */
+.timer--urgent .timer__progress {
+  stroke: var(--clr-warning);
+}
+
+.timer--urgent .timer__time {
+  color: var(--clr-warning);
+  animation: pulseScale 1s ease-in-out infinite;
+}
+
+.timer__content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.15rem;
+  z-index: 1;
+}
+
+.timer__time {
+  font-size: 2rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.02em;
+  transition: color 0.3s ease;
+}
+
+.timer--prep .timer__time {
+  color: var(--clr-primary-light);
+}
+
+.timer--recording .timer__time {
+  color: var(--clr-danger);
+}
+
+.timer__label {
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--clr-text-muted);
+}

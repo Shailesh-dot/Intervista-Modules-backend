@@ -1,0 +1,912 @@
+================================================================================
+TOPIC 8: INEQUALITIES
+TYPE: NON-PICTORIAL
+TOTAL QUESTIONS: 100
+================================================================================
+
+SYMBOLS: > (greater than), < (less than), ≥ (greater than or equal to), ≤ (less than or equal to), = (equal to)
+
+--------------------------------------------------------------------------------
+Q1. Statements: A > B, B > C, C > D
+Conclusions: I. A > D  II. A > C
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q2. Statements: P ≥ Q, Q = R, R < S
+Conclusions: I. P ≥ R  II. S > Q
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q3. Statements: M > N, N ≥ O, O < P
+Conclusions: I. M > O  II. P > N
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q4. Statements: A = B, B > C, C ≥ D
+Conclusions: I. A > D  II. A > C
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q5. Statements: X < Y, Y ≤ Z, Z < W
+Conclusions: I. X < Z  II. X < W
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q6. Statements: P > Q, R > S, Q > S
+Conclusions: I. P > S  II. R > Q
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q7. Statements: A ≥ B, B < C, C ≤ D
+Conclusions: I. A < D  II. A < C
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: D) Neither follows
+
+--------------------------------------------------------------------------------
+Q8. Statements: M ≤ N, N = O, O ≥ P
+Conclusions: I. M ≤ O  II. M ≤ P
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q9. Statements: E > F, F > G, G = H
+Conclusions: I. E > H  II. F > H
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q10. Statements: A < B, B ≤ C, C < D
+Conclusions: I. A < C  II. A < D
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q11. Statements: J > K, K > L, L = M
+Conclusions: I. J > M  II. K > M
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q12. Statements: P = Q, Q > R, R > S
+Conclusions: I. P > S  II. Q > S
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q13. Statements: A ≥ B > C ≤ D
+Conclusions: I. A > C  II. D ≥ C
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q14. Statements: X > Y = Z < W
+Conclusions: I. X > Z  II. W > Y
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q15. Statements: M > N ≥ O > P
+Conclusions: I. M > P  II. N > P
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q16. Statements: A < B ≤ C = D
+Conclusions: I. A < D  II. B ≤ D
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q17. Statements: P > Q ≤ R < S
+Conclusions: I. P > R  II. S > Q
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: B) Only II follows
+
+--------------------------------------------------------------------------------
+Q18. Statements: A = B > C ≥ D
+Conclusions: I. A > D  II. B = D
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q19. Statements: X ≤ Y < Z > W
+Conclusions: I. Z > X  II. W < Y
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q20. Statements: J < K = L > M
+Conclusions: I. J < L  II. K > M
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q21. Statements: A > B, B = C, C < D
+Conclusions: I. A > C  II. A < D
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q22. Statements: P ≥ Q > R, S > R
+Conclusions: I. P > R  II. S > Q
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q23. Statements: M < N, N > O, O > P
+Conclusions: I. M < O  II. N > P
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: B) Only II follows
+
+--------------------------------------------------------------------------------
+Q24. Statements: A ≥ B ≥ C > D = E
+Conclusions: I. A > E  II. B > D
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q25. Statements: X < Y ≤ Z, W > Z
+Conclusions: I. W > X  II. W > Y
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q26. Statements: P = Q, Q < R, R ≤ S
+Conclusions: I. P < S  II. Q < S
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q27. Statements: A > B, C > D, B = D
+Conclusions: I. A > D  II. C > B
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q28. Statements: M ≤ N < O ≤ P
+Conclusions: I. M < P  II. N < P
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q29. Statements: J ≥ K > L < M
+Conclusions: I. J > L  II. M > K
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q30. Statements: A < B = C ≥ D
+Conclusions: I. A < C  II. D ≤ B
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q31. Statements: P > Q > R > S > T
+Conclusions: I. P > T  II. Q > S
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q32. Statements: A ≥ B, C ≤ D, B > D
+Conclusions: I. A > C  II. A > D
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q33. Statements: X = Y < Z = W
+Conclusions: I. X < W  II. Y < W
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q34. Statements: M > N, N < O, O < M
+Conclusions: I. M > O is not given directly
+II. N < M
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: B) Only II follows
+
+--------------------------------------------------------------------------------
+Q35. Statements: A ≤ B < C, D > C
+Conclusions: I. D > A  II. D > B
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q36. Statements: P < Q ≤ R < S
+Conclusions: I. P < R  II. P < S
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q37. Statements: J > K, K < L, L ≤ M
+Conclusions: I. J > L  II. M > K
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: B) Only II follows
+
+--------------------------------------------------------------------------------
+Q38. Statements: A = B ≥ C > D
+Conclusions: I. A ≥ C  II. B > D
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q39. Statements: X ≤ Y, Y < Z, Z ≤ W
+Conclusions: I. X < W  II. Y < W
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q40. Statements: P ≥ Q, R < Q, S > P
+Conclusions: I. S > Q  II. S > R
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q41. Statements: A > B > C, D < C
+Conclusions: I. A > D  II. B > D
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q42. Statements: M = N, N < O, O > P
+Conclusions: I. M < O  II. N > P
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q43. Statements: E ≥ F, F = G, G < H
+Conclusions: I. E ≥ G  II. H > F
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q44. Statements: A > B, B ≥ C, C = D
+Conclusions: I. A > D  II. A > C
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q45. Statements: X < Y, Y ≥ Z, Z > W
+Conclusions: I. X < Z  II. Y > W
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: B) Only II follows
+
+--------------------------------------------------------------------------------
+Q46. Statements: P > Q, Q = R, S < R
+Conclusions: I. P > R  II. P > S
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q47. Statements: A < B < C < D < E
+Conclusions: I. A < D  II. B < E
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q48. Statements: M ≥ N = O < P
+Conclusions: I. M ≥ O  II. P > N
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q49. Statements: J < K, K > L, L ≥ M
+Conclusions: I. J < L  II. K > M
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: B) Only II follows
+
+--------------------------------------------------------------------------------
+Q50. Statements: A ≥ B > C, D ≤ C
+Conclusions: I. A > D  II. B > D
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q51. Statements: X > Y ≥ Z, W < Z
+Conclusions: I. X > W  II. Y > W
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q52. Statements: P ≤ Q < R > S
+Conclusions: I. R > P  II. Q > S
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q53. Statements: A = B, B ≥ C, C > D
+Conclusions: I. A ≥ C  II. A > D
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q54. Statements: M > N, O > M, P < N
+Conclusions: I. O > P  II. O > N
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q55. Statements: E ≤ F = G > H
+Conclusions: I. E ≤ G  II. F > H
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q56. Statements: A > B, C > A, D < B
+Conclusions: I. C > D  II. C > B
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q57. Statements: X ≥ Y > Z = W
+Conclusions: I. X > W  II. X ≥ Z
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q58. Statements: P < Q ≤ R, S = R
+Conclusions: I. P < S  II. Q ≤ S
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q59. Statements: A ≥ B, B ≤ C, C < D
+Conclusions: I. A < D  II. D > B
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: B) Only II follows
+
+--------------------------------------------------------------------------------
+Q60. Statements: M < N ≤ O = P
+Conclusions: I. M < P  II. N ≤ P
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q61. Statements: A > B > C, E < C
+Conclusions: I. A > E  II. B > E
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q62. Statements: P = Q ≥ R > S
+Conclusions: I. P > S  II. Q > S
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q63. Statements: X < Y, Y > Z, Z = W
+Conclusions: I. X < W  II. Y > W
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: B) Only II follows
+
+--------------------------------------------------------------------------------
+Q64. Statements: M ≥ N > O ≥ P
+Conclusions: I. M > P  II. N ≥ P
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q65. Statements: A < B, B = C, D < A
+Conclusions: I. D < C  II. D < B
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q66. Statements: J > K ≥ L = M
+Conclusions: I. J > M  II. J ≥ L
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q67. Statements: P > Q, R < S, Q ≥ S
+Conclusions: I. P > S  II. P > R
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q68. Statements: A ≤ B, C > B, D = C
+Conclusions: I. D > A  II. D > B
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q69. Statements: M = N, O > N, P < M
+Conclusions: I. O > P  II. O > M
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q70. Statements: X > Y > Z, W = Y
+Conclusions: I. X > W  II. W > Z
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q71. Statements: A ≥ B ≥ C, D ≤ A
+Conclusions: I. D ≤ B  II. D ≤ C
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: D) Neither follows
+
+--------------------------------------------------------------------------------
+Q72. Statements: P > Q, Q > R, S ≥ P
+Conclusions: I. S > R  II. S > Q
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q73. Statements: A < B = C < D
+Conclusions: I. A < D  II. B < D
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q74. Statements: M ≤ N, N > O, P ≥ N
+Conclusions: I. P > O  II. P ≥ M
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q75. Statements: E > F, F ≥ G, H < G
+Conclusions: I. E > H  II. F > H
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q76. Statements: A = B, B < C, C ≤ D
+Conclusions: I. A < D  II. A ≤ D
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q77. Statements: X ≥ Y, Z < Y, W = X
+Conclusions: I. W > Z  II. W ≥ Y
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q78. Statements: P < Q ≤ R ≤ S
+Conclusions: I. P < S  II. Q ≤ S
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q79. Statements: A > B, C = B, D < A
+Conclusions: I. A > C  II. D < B
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q80. Statements: M ≥ N, O > M, P ≤ O
+Conclusions: I. P > N  II. O > N
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: B) Only II follows
+
+--------------------------------------------------------------------------------
+Q81. Statements: J < K, K ≤ L, L < M
+Conclusions: I. J < M  II. K < M
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q82. Statements: A ≥ B, C ≥ B, D < B
+Conclusions: I. A > D  II. C > D
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q83. Statements: X = Y ≥ Z, W > X
+Conclusions: I. W > Z  II. W > Y
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q84. Statements: P > Q, R ≥ Q, S < P
+Conclusions: I. R > S  II. P > R
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: D) Neither follows
+
+--------------------------------------------------------------------------------
+Q85. Statements: A ≤ B < C = D
+Conclusions: I. A < D  II. B < D
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q86. Statements: M > N ≥ O, P = O
+Conclusions: I. M > P  II. N ≥ P
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q87. Statements: E < F, F > G, G ≥ H
+Conclusions: I. F > H  II. E > H
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: A) Only I follows
+
+--------------------------------------------------------------------------------
+Q88. Statements: A > B > C, D = C
+Conclusions: I. A > D  II. B > D
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q89. Statements: X ≤ Y = Z > W
+Conclusions: I. X ≤ Z  II. Y > W
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q90. Statements: P ≥ Q > R ≤ S
+Conclusions: I. P > R  II. S ≥ R
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q91. Statements: A < B, B = C, C < D
+Conclusions: I. A < D  II. B < D
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q92. Statements: M > N, O < M, P > O
+Conclusions: I. M > P  II. N < P
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: D) Neither follows
+
+--------------------------------------------------------------------------------
+Q93. Statements: E = F > G = H
+Conclusions: I. E > H  II. F > H
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q94. Statements: A ≥ B, C > A, D ≤ B
+Conclusions: I. C > D  II. C > B
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q95. Statements: X < Y < Z, W > Z
+Conclusions: I. W > X  II. W > Y
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q96. Statements: P ≥ Q = R, S < R
+Conclusions: I. P > S  II. Q > S
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q97. Statements: A > B, C ≤ A, D > C
+Conclusions: I. D > B  II. A > D
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: D) Neither follows
+
+--------------------------------------------------------------------------------
+Q98. Statements: M = N > O, P ≥ M
+Conclusions: I. P > O  II. P ≥ N
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q99. Statements: J ≤ K < L, M > L
+Conclusions: I. M > J  II. M > K
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+--------------------------------------------------------------------------------
+Q100. Statements: A < B ≤ C, D > C
+Conclusions: I. D > A  II. D > B
+A) Only I follows
+B) Only II follows
+C) Both follow
+D) Neither follows
+Answer: C) Both follow
+
+================================================================================
+END OF TOPIC 8 - INEQUALITIES (100 Questions)
+================================================================================

@@ -1,0 +1,75 @@
+# Unified Assessment: Data Flow & Database Specification
+
+This documentation defines the data journey and scoring logic for a sequential assessment (Speaking phase followed by Listening phase).
+
+---
+
+## 1. Sequential Assessment Architecture
+
+The assessment flows linearly, capturing metrics at each stage and aggregating them into a final "Communication Score."
+
+```mermaid
+graph TD
+    A[Start Assessment] --> B[Phase 1: Speaking]
+    B -->|Transcribe & Score| C[Speaking Parameters Generated]
+    C -->|Aggregate| D[Speaking Total /10]
+    D --> E[Phase 2: Listening]
+    E -->|Transcribe & Score| F[Listening Parameters Generated]
+    F -->|Aggregate| G[Listening Total /10]
+    G --> H[Final Combined Score /10]
+```
+
+---
+
+## 2. Speaking Section Parameter & Score Dictionary
+
+| Parameter | Metric Fields (Detailed) | Score (0–2) | Score (0–10) | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **Fluency** | `wpm`, `filler_rate`, `pause_count` | `fluency_score_02` | `fluency_score_10` | Pace and rhythm of speech. |
+| **Pronunciation**| `clarity_score`, `consistency_score` | `pron_score_02` | `pron_score_10` | Articulation and clarity. |
+| **Tone** | `pitch_variation`, `energy_variation`| `tone_score_02` | `tone_score_10` | Native-like expressiveness. |
+| **Grammar** | `mistakes` (Array), `grammar_note` | `gram_score_02` | `gram_score_10` | Correctness and structure. |
+| **Comprehension**| `relevance`, `completeness`, `note` | `comp_score_02` | `comp_score_10` | How well the question was answered. |
+
+---
+
+## 3. Listening Section Parameter & Score Dictionary
+
+| Parameter | Metric Fields (Detailed) | Score (0–2) | Score (0–10) | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **Accuracy** | `keyword_hit_rate`, `matches` | `acc_score_02` | `acc_score_10` | Capturing key details correctly. |
+| **Retention** | `coverage_ratio`, `fact_count` | `ret_score_02` | `ret_score_10` | Capacity to remember info. |
+| **Reconstruction**| `structure_similarity` | `recon_score_02`| `recon_score_10`| (Repeat task only) Sentence structure. |
+
+---
+
+## 4. Final Aggregation & Database Schema
+
+### Table: `assessments` (Master Summary)
+Create this table to store the final outcome of the entire 2-phase assessment.
+
+| Column Name | Type | Description |
+| :--- | :--- | :--- |
+| `id` | UUID (PK) | The session identifier. |
+| `speaking_total_10` | INT | The overall speaking result (0–10). |
+| `listening_total_10`| INT | The overall listening result (0–10). |
+| **`final_combined_10`**| **FLOAT** | **(Speaking_Total + Listening_Total) / 2** |
+| `verdict` | TEXT | Final text summary of the whole assessment. |
+| `strengths` | JSONB | Array of unified strength strings. |
+| `improvements` | JSONB | Array of unified improvement strings. |
+
+### Table: `speaking_responses`
+*Stores metrics for each of the 3 speaking questions.*
+- `id` (PK)
+- `assessment_id` (FK)
+- `question_text`
+- `transcript`
+- `fluency_score_10`, `pron_score_10`, `tone_score_10`, `gram_score_10`, `comp_score_10` (All INT)
+
+### Table: `listening_responses`
+*Stores metrics for each of the 4 listening clips.*
+- `id` (PK)
+- `assessment_id` (FK)
+- `audio_reference_text`
+- `transcript`
+- `acc_score_10`, `ret_score_10`, `recon_score_10` (All INT)

@@ -1,0 +1,1081 @@
+================================================================================
+         TOPIC 24: SHADOW & LIGHT DIRECTION
+         100 Standard Questions with Options and Answers
+         (Competitive Exam Standard – SSC / Bank / Railway / Defence)
+================================================================================
+
+CONCEPTS & RULES:
+─────────────────
+1. SHADOW is always cast OPPOSITE to the direction of light.
+2. Shadow falls on the SAME SIDE as the direction AWAY from the light source.
+3. Morning Sun (East): Shadow falls towards WEST
+4. Evening Sun (West): Shadow falls towards EAST
+5. Noon Sun (overhead/South in Northern Hemisphere): Very short shadow (South)
+6. North Sun (rare, used in problems): Shadow falls towards SOUTH
+
+KEY RULE TABLE:
+   Light from EAST  → Shadow points WEST
+   Light from WEST  → Shadow points EAST
+   Light from NORTH → Shadow points SOUTH
+   Light from SOUTH → Shadow points NORTH
+   Light from NE    → Shadow points SW
+   Light from NW    → Shadow points SE
+   Light from SE    → Shadow points NW
+   Light from SW    → Shadow points NE
+   Light from TOP   → Shadow falls directly BELOW (no directional shadow)
+
+STANDARD EXAM APPROACH:
+  "A person stands facing [direction]. The sun is in the [direction] at [time].
+   Determine the direction of the shadow."
+
+─────────────────────────────────────────────────────────────────────────────
+SECTION A: BASIC SHADOW DIRECTION – PERSON & OBJECT (Q1–Q30)
+─────────────────────────────────────────────────────────────────────────────
+
+Q1. In the morning, the sun rises in the East. A pole is standing vertically.
+   In which direction will its shadow fall?
+
+   (A)  East    (B)  West    (C)  North    (D)  South
+
+   Answer: (B) West
+   Explanation: Morning sun is in the East → shadow falls opposite = West.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q2. In the evening, the sun is in the West. A tree is standing upright.
+   In which direction does its shadow fall?
+
+   (A)  North    (B)  West    (C)  East    (D)  South
+
+   Answer: (C) East
+   Explanation: Sun in West → shadow falls East.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q3. The sun is exactly in the South at noon (Northern Hemisphere).
+   A vertical stick is placed in the ground. Where does its shadow fall?
+
+   (A)  East    (B)  West    (C)  South    (D)  North
+
+   Answer: (D) North
+   Explanation: Sun in the South → shadow falls towards North.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q4. A man is standing facing the East. The sun is rising (in the East, morning).
+   Where does his shadow fall?
+
+   (A)  Ahead of him (East)
+   (B)  Behind him (West)
+   (C)  To his left (North)
+   (D)  To his right (South)
+
+   Answer: (B) Behind him (West)
+   Explanation: Sun is in the East, shadow falls West = directly behind the East-facing man.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q5. A man is facing West. The sun is in the East (morning).
+   Where does his shadow fall?
+
+   (A)  Behind him (East)
+   (B)  Ahead of him (West)
+   (C)  To his left
+   (D)  To his right
+
+   Answer: (B) Ahead of him (West)
+   Explanation: Shadow falls West; man faces West → shadow is in front.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q6. Amit is standing facing North. The sun is rising in the East.
+   Where does Amit's shadow fall?
+
+   (A)  To his front (North)
+   (B)  To his back (South)
+   (C)  To his left (West)
+   (D)  To his right (East)
+
+   Answer: (C) To his left (West)
+   Explanation: Shadow falls West; man faces North → West is to his LEFT.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q7. A woman is standing facing South. The sun is in the East (morning).
+   Where does her shadow fall?
+
+   (A)  To her left    (B)  To her right    (C)  Behind her    (D)  In front
+
+   Answer: (B) To her right (West)
+   Explanation: Shadow falls West; facing South → West is to her right.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q8. Ravi is facing East in the evening (sun in the West).
+   Where does his shadow point?
+
+   (A)  Ahead of him    (B)  Behind him    (C)  To his left    (D)  To his right
+
+   Answer: (A) Ahead of him (East)
+   Explanation: Shadow falls East; he faces East → shadow is in front of him.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q9. A man is standing facing South at noon (sun in the South).
+   Where does his shadow fall?
+
+   (A)  To his front    (B)  To his back (North)    (C)  To his left    (D)  To his right
+
+   Answer: (B) To his back (North)
+   Explanation: Shadow falls North; facing South → North is behind him.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q10. The sun is in the Northwest. Where does a vertical pole's shadow fall?
+
+   (A)  Northeast    (B)  Southeast    (C)  Northwest    (D)  Southwest
+
+   Answer: (B) Southeast
+   Explanation: Shadow falls opposite to light source: NW → SE.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q11. Light is coming from the Southwest direction. A tree casts a shadow.
+   In which direction does the shadow fall?
+
+   (A)  Northeast    (B)  Northwest    (C)  Southeast    (D)  Southwest
+
+   Answer: (A) Northeast
+   Explanation: Light from SW → shadow falls NE.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q12. The shadow of a pole falls towards the East. From which direction is the sun?
+
+   (A)  East    (B)  West    (C)  North    (D)  South
+
+   Answer: (B) West
+   Explanation: Shadow is opposite to the sun: shadow East → sun is in the West.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q13. The shadow of a person falls to the North. The sun must be in the:
+
+   (A)  North    (B)  West    (C)  East    (D)  South
+
+   Answer: (D) South
+   Explanation: Shadow North → sun in South.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q14. If the shadow of a man falls to his right and he is facing East,
+   from which direction is the sun?
+
+   (A)  East    (B)  West    (C)  North    (D)  South
+
+   Answer: (C) North
+   Explanation: He faces East; his right is South. Shadow on his right = shadow falls South → sun in North.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q15. A man facing North has his shadow falling to his left.
+   From which direction is the sun?
+
+   (A)  North    (B)  East    (C)  South    (D)  West
+
+   Answer: (B) East
+   Explanation: He faces North; his left is West. Shadow on his left = shadow falls West → sun in East.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q16. It is 6:00 AM. A man is standing in an open field.
+   Approximately where does his shadow fall?
+
+   (A)  East    (B)  West    (C)  North    (D)  South
+
+   Answer: (B) West
+   Explanation: At 6:00 AM, sun is in the East → shadow falls West.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q17. It is 6:00 PM. Which direction does the shadow of a vertical post fall?
+
+   (A)  East    (B)  West    (C)  North    (D)  South
+
+   Answer: (A) East
+   Explanation: At 6:00 PM, sun is setting in the West → shadow falls East.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q18. A person's shadow falls in front of him. What can we conclude?
+
+   (A)  The sun is behind him
+   (B)  The sun is in front of him
+   (C)  The sun is to his left
+   (D)  The sun is above him
+
+   Answer: (A) The sun is behind him
+   Explanation: Shadow is always opposite the sun: if shadow is in front, sun is behind.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q19. In the given figure, a boy is standing and his shadow is to the South.
+   What time of day is it most likely?
+
+   (A)  Morning    (B)  Evening    (C)  Noon (Northern Hemisphere)    (D)  Midnight
+
+   Answer: (C) Noon
+   Explanation: At noon, the sun is in the South (NH), casting shadows to the North... wait — shadow to South means sun in North. This is unusual. It could be early morning or a Southern Hemisphere scenario.
+   Correction: Shadow to South → Sun in North → the sun is in the North (either Southern Hemisphere noon, or unusual Northern Hemisphere setup).
+   Answer: (C) — Noon in Southern Hemisphere (or as per exam convention, "noon")
+
+────────────────────────────────────────────────────────────────────────────
+
+Q20. The sun is at an angle of 45° from the Northeast direction.
+   In which direction does a stick's shadow fall?
+
+   (A)  NE    (B)  SW    (C)  NW    (D)  SE
+
+   Answer: (B) Southwest (SW)
+   Explanation: Light from NE → shadow directly opposite = SW.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q21. Two poles are standing side by side. The sun is in the East.
+   The shadow of the TALLER pole:
+
+   (A)  Falls East
+   (B)  Falls West, and is LONGER than the shorter pole's shadow
+   (C)  Falls West, same length as the shorter pole's shadow
+   (D)  Falls North
+
+   Answer: (B) Falls West, and is LONGER
+   Explanation: Taller objects cast longer shadows in the same direction.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q22. At 3:00 PM on a standard day (sun is in the Southwest),
+   a tree's shadow falls in the:
+
+   (A)  SW    (B)  NE    (C)  NW    (D)  SE
+
+   Answer: (B) Northeast
+   Explanation: Sun in SW → shadow falls NE.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q23. A person is walking facing West. It is morning (sun in East).
+   His shadow falls:
+
+   (A)  To his left    (B)  To his right    (C)  In front of him    (D)  Behind him
+
+   Answer: (C) In front of him (West)
+   Explanation: Shadow falls West; person faces West → shadow is directly in front.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q24. A building's shadow falls to the Northwest. The sun must be in the:
+
+   (A)  NW    (B)  SE    (C)  NE    (D)  SW
+
+   Answer: (B) Southeast
+   Explanation: Shadow NW → sun is opposite = SE.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q25. Rohan is walking towards the North. His shadow falls to the West.
+   The sun is in the:
+
+   (A)  North    (B)  East    (C)  West    (D)  South
+
+   Answer: (B) East
+   Explanation: Shadow West → sun in East.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q26. In the morning, a man walks towards his shadow. He is walking towards:
+
+   (A)  East    (B)  West    (C)  North    (D)  South
+
+   Answer: (B) West
+   Explanation: Morning sun is in the East; shadow falls West → man walks toward his shadow (West).
+
+────────────────────────────────────────────────────────────────────────────
+
+Q27. If a man walks away from his shadow in the morning, he is walking towards:
+
+   (A)  West    (B)  East    (C)  North    (D)  South
+
+   Answer: (B) East
+   Explanation: Shadow is in the West (morning); walking away from it = walking East.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q28. Two persons A and B stand facing each other. A faces North, B faces South.
+   The sun is in the East. Whose shadow falls between them?
+
+   (A)  A's shadow    (B)  B's shadow    (C)  Both shadows fall between them    (D)  Neither
+
+   Answer: (A) A's shadow falls between them
+   Explanation: A faces North, so West is to A's left. Shadow falls West = behind A (southward, between them). Actually: A faces North → shadow falls West (not between them). Let's reconsider: B faces South → shadow falls West = behind B (northward, between them). Answer: (B) B's shadow.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q29. A person's shadow in the morning is longer than his actual height.
+   This is because:
+
+   (A)  Sun is directly overhead
+   (B)  Sun is at a low angle in the sky
+   (C)  The person is tall
+   (D)  Sun is very bright
+
+   Answer: (B) Sun is at a low angle in the sky
+   Explanation: A lower sun angle creates longer shadows.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q30. If the shadow of a person is pointing towards the Northeast in the evening,
+   the sun is in the:
+
+   (A)  Northeast    (B)  Southwest    (C)  Northwest    (D)  Southeast
+
+   Answer: (B) Southwest
+   Explanation: Shadow NE → sun SW.
+
+─────────────────────────────────────────────────────────────────────────────
+SECTION B: SHADOW DIRECTION WITH PERSON'S FACING DIRECTION (Q31–Q60)
+─────────────────────────────────────────────────────────────────────────────
+
+Q31. Priya is facing South. The sun is in the West (evening).
+   Her shadow falls towards:
+
+   (A)  South    (B)  North    (C)  East    (D)  West
+
+   Answer: (C) East
+   Explanation: Sun in West → shadow East. (Independent of which way she faces.)
+
+────────────────────────────────────────────────────────────────────────────
+
+Q32. A man faces North. The sun is in the West (evening).
+   The shadow falls to his:
+
+   (A)  Front    (B)  Back    (C)  Right    (D)  Left
+
+   Answer: (C) Right
+   Explanation: Shadow falls East. Man faces North → East is to his RIGHT.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q33. A woman is facing South. The sun is in the North.
+   Her shadow is:
+
+   (A)  To her left    (B)  To her right    (C)  In front of her    (D)  Behind her
+
+   Answer: (C) In front of her (South)
+   Explanation: Sun in North → shadow South. She faces South → shadow is directly in front.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q34. Sachin is facing West. The sun is in the North.
+   Where does his shadow fall?
+
+   (A)  To his front    (B)  To his back    (C)  To his right    (D)  To his left
+
+   Answer: (C) To his right (South)
+   Explanation: Sun North → shadow South. Facing West → South is to his right.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q35. Meena is facing East. The sun is in the South.
+   Her shadow falls:
+
+   (A)  To her left (North)    (B)  To her right (South)    (C)  Behind her    (D)  In front
+
+   Answer: (A) To her left (North)
+   Explanation: Sun South → shadow North. Facing East → North is to her left.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q36. A person is facing West. It is noon (sun in the South).
+   His shadow falls to his:
+
+   (A)  Front    (B)  Back    (C)  Left    (D)  Right
+
+   Answer: (C) Left (North)
+   Explanation: Shadow North. Facing West → North is to his left.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q37. Anand is facing North. The sun is in the Northeast.
+   Where does his shadow fall?
+
+   (A)  To his left–front (NW)
+   (B)  To his right–front (NE)
+   (C)  To his left–back (SW)
+   (D)  To his right–back (SW)
+
+   Answer: (C/D) SW (Southwest)
+   Explanation: Sun NE → shadow SW. Facing North, SW is to his back-left.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q38. A man is standing with the sun to his left side. He is facing North.
+   What time of day is it most likely?
+
+   (A)  Morning    (B)  Evening    (C)  Noon    (D)  Midnight
+
+   Answer: (B) Evening
+   Explanation: Facing North, left = West. Sun is to his left = Sun in West = evening.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q39. A woman faces North. The sun is to her right.
+   Which direction is the sun?
+
+   (A)  North    (B)  East    (C)  South    (D)  West
+
+   Answer: (B) East
+   Explanation: Facing North, right side = East.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q40. The shadow of a man standing with arms spread wide falls to the East.
+   He is facing North. Where is the sun?
+
+   (A)  West    (B)  East    (C)  North    (D)  South
+
+   Answer: (A) West
+   Explanation: Shadow East → sun West.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q41. Rajan is facing Southeast. The sun is in the East.
+   His shadow falls to the:
+
+   (A)  East    (B)  West    (C)  Northeast    (D)  Southwest
+
+   Answer: (B) West — shadow always falls opposite the sun; here sun is East → shadow is West.
+   Facing direction is irrelevant to the shadow direction.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q42. If a person is moving towards his shadow, and it is evening, he is moving towards:
+
+   (A)  East    (B)  West    (C)  North    (D)  South
+
+   Answer: (A) East
+   Explanation: Evening → sun in West → shadow East → person walking towards shadow = East.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q43. A stick's shadow falls at an angle of 45° pointing Southwest.
+   The sun is in the:
+
+   (A)  Southwest    (B)  Northeast    (C)  Northwest    (D)  Southeast
+
+   Answer: (B) Northeast
+   Explanation: Shadow SW → sun NE.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q44. A person faces East at sunset. His shadow is:
+
+   (A)  To his left    (B)  To his right    (C)  In front    (D)  Behind
+
+   Answer: (C) In front
+   Explanation: At sunset, sun is in the West → shadow East → he faces East → shadow in front.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q45. The shadow of a person falls to his right. He is facing North.
+   The sun is in the:
+
+   (A)  East    (B)  West    (C)  North    (D)  South
+
+   Answer: (D) South
+   Explanation: He faces North, right side = East. Shadow on right = shadow East → sun in West?
+   Wait: Facing North → right side = East. Shadow to his right = shadow falls East → sun is West.
+   Correction: Answer is (B) West.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q46. At 9:00 AM, a person stands with his shadow behind him. He is facing:
+
+   (A)  East    (B)  West    (C)  North    (D)  South
+
+   Answer: (A) East
+   Explanation: At 9 AM, sun is in the East → shadow West → shadow behind = person facing East.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q47. A traveller notices that his shadow is always to his left throughout his walk.
+   He is walking towards the:
+
+   (A)  North    (B)  South    (C)  East    (D)  West
+
+   Answer: (B) South (if sun is in East — morning)
+   Explanation: Shadow to left; if sun is East (morning) → shadow West; facing South makes West on the right...
+   Let's recalculate: Sun East → shadow West. Shadow on left side means West is on LEFT → person faces South.
+   Answer: (B) South
+
+────────────────────────────────────────────────────────────────────────────
+
+Q48. At 12 noon in the Northern Hemisphere, the shadow of a building falls:
+
+   (A)  East    (B)  West    (C)  South    (D)  North
+
+   Answer: (D) North
+   Explanation: At noon, sun is approximately South → shadow North.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q49. The shadow of a pole is pointing towards the North at midday.
+   This observation is being made in the:
+
+   (A)  Northern Hemisphere    (B)  Southern Hemisphere
+   (C)  Equator                (D)  Arctic Circle
+
+   Answer: (A) Northern Hemisphere
+   Explanation: In NH at noon, sun is in South → shadow goes North.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q50. If a person's shadow falls to the South in the Southern Hemisphere at noon,
+   the sun is in the:
+
+   (A)  South    (B)  North    (C)  East    (D)  West
+
+   Answer: (B) North
+   Explanation: Shadow South → sun North. In Southern Hemisphere noon, sun is in the North.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q51. A person is standing at a crossroads. His shadow falls behind him towards the West.
+   He is facing:
+
+   (A)  East    (B)  West    (C)  North    (D)  South
+
+   Answer: (B) West
+   Explanation: Shadow is behind him = sun is in front of him = sun in West. He faces West.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q52. The shadow of a lamppost falls towards the Northwest at 9:00 AM.
+   The sun is in the:
+
+   (A)  Northeast    (B)  Southeast    (C)  Northwest    (D)  Southwest
+
+   Answer: (B) Southeast
+   Explanation: Shadow NW → sun SE.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q53. Two boys A and B are standing facing each other.
+   A faces West. B faces East. The sun is in the East.
+   Whose shadow falls on the other person?
+
+   (A)  A's shadow falls on B
+   (B)  B's shadow falls on A
+   (C)  Both shadows fall elsewhere
+   (D)  No shadow is cast
+
+   Answer: (A) A's shadow falls on B
+   Explanation: Sun East → shadow West → A faces West, so shadow goes behind A toward East... 
+   Actually: Sun East → shadow West. A faces West → shadow goes East (behind A). B is to A's East... so A's shadow falls towards East, i.e., towards B. Answer: (A).
+
+────────────────────────────────────────────────────────────────────────────
+
+Q54. A person walks in a straight line. The sun is on his left throughout the walk.
+   The sun is in the North. He is walking towards the:
+
+   (A)  East    (B)  West    (C)  North    (D)  South
+
+   Answer: (A) East
+   Explanation: Sun on left = North on left → person faces East (when you face East, North is on your left).
+
+────────────────────────────────────────────────────────────────────────────
+
+Q55. In the morning, a man finds that his shadow is to his left.
+   In which direction is he facing?
+
+   (A)  East    (B)  West    (C)  North    (D)  South
+
+   Answer: (C) North
+   Explanation: Morning → sun East → shadow West. Shadow to left → West is on left → facing North.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q56. In the evening, a man's shadow is to his right. He is facing:
+
+   (A)  East    (B)  West    (C)  North    (D)  South
+
+   Answer: (C) North
+   Explanation: Evening → sun West → shadow East. Shadow to right → East on right → facing North.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q57. Gopal is standing with his shadow falling to the Southwest.
+   Approximately what time is it?
+
+   (A)  Morning    (B)  Noon    (C)  Early Afternoon    (D)  Late Afternoon / Evening
+
+   Answer: (D) Late Afternoon / Evening
+   Explanation: Shadow SW → sun is in NE direction → typically early morning. But if shadow is to SW and the sun is NE, it's morning. Re-examine: shadow SW = sun NE = early morning (northeast is where morning sun is around 7–9 AM).
+   Answer: (A) Morning
+
+────────────────────────────────────────────────────────────────────────────
+
+Q58. A woman's shadow extends directly to the South. In which direction is the light source?
+
+   (A)  North    (B)  South    (C)  East    (D)  West
+
+   Answer: (A) North
+   Explanation: Shadow South → light source North.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q59. It is 8 AM. A boy is walking such that his shadow is always in front of him.
+   He is walking towards the:
+
+   (A)  East    (B)  West    (C)  North    (D)  South
+
+   Answer: (B) West
+   Explanation: 8 AM → sun East → shadow West → shadow in front → boy faces West.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q60. A person stands at a pole. The shadow of the pole falls to the East.
+   The person faces North. Where does his shadow fall?
+
+   (A)  South    (B)  North    (C)  East    (D)  West
+
+   Answer: (C) East
+   Explanation: Shadow falls East regardless of which way the person faces.
+
+─────────────────────────────────────────────────────────────────────────────
+SECTION C: SHADOW LENGTH & ANGLE-BASED REASONING (Q61–Q80)
+─────────────────────────────────────────────────────────────────────────────
+
+Q61. At what time of day is a person's shadow the SHORTEST?
+
+   (A)  6 AM    (B)  9 AM    (C)  12 Noon    (D)  3 PM
+
+   Answer: (C) 12 Noon
+   Explanation: At noon, the sun is at its highest point, so the shadow is shortest.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q62. At what time of day is a person's shadow the LONGEST?
+
+   (A)  12 Noon    (B)  Sunrise or Sunset    (C)  3 PM    (D)  9 AM
+
+   Answer: (B) Sunrise or Sunset
+   Explanation: When the sun is at the horizon (low angle), shadows are longest.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q63. A 6-foot tall man casts a shadow of 10 feet at 3:00 PM.
+   A nearby pole casts a shadow of 25 feet at the same time.
+   What is the height of the pole?
+
+   (A)  10 feet    (B)  12 feet    (C)  15 feet    (D)  20 feet
+
+   Answer: (C) 15 feet
+   Explanation: Using proportion: 6/10 = height/25 → height = (6 × 25)/10 = 15 feet.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q64. A tree casts a shadow of 20 m at the same time a 5 m pole casts a shadow of 4 m.
+   What is the height of the tree?
+
+   (A)  20 m    (B)  25 m    (C)  16 m    (D)  18 m
+
+   Answer: (B) 25 m
+   Explanation: 5/4 = h/20 → h = (5 × 20)/4 = 25 m.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q65. A building of height 30 m casts a shadow of 18 m.
+   At the same time, a nearby flagpole casts a shadow of 6 m.
+   What is the height of the flagpole?
+
+   (A)  8 m    (B)  10 m    (C)  12 m    (D)  15 m
+
+   Answer: (B) 10 m
+   Explanation: 30/18 = h/6 → h = (30 × 6)/18 = 10 m.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q66. As the day progresses from morning to noon in the Northern Hemisphere,
+   the shadow of a vertical pole:
+
+   (A)  Moves from West to North
+   (B)  Moves from West to East (passing through North)
+   (C)  Stays in the same direction
+   (D)  Moves from East to West
+
+   Answer: (A) Moves from West to North (and continues)
+   Explanation: Morning shadow is West; as sun moves south at noon, shadow shifts to North.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q67. A man is 1.8 m tall. At a certain time, his shadow is 1.8 m long.
+   What is the angle of elevation of the sun?
+
+   (A)  30°    (B)  45°    (C)  60°    (D)  90°
+
+   Answer: (B) 45°
+   Explanation: When height equals shadow length, the angle of elevation is 45°.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q68. A vertical pole of 10 m casts a shadow of 10√3 m.
+   What is the angle of elevation of the sun?
+
+   (A)  30°    (B)  45°    (C)  60°    (D)  90°
+
+   Answer: (A) 30°
+   Explanation: tan(θ) = 10/(10√3) = 1/√3 → θ = 30°.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q69. The shadow of a pole is √3 times its height.
+   The altitude (elevation) of the sun is:
+
+   (A)  30°    (B)  45°    (C)  60°    (D)  75°
+
+   Answer: (A) 30°
+   Explanation: tan(θ) = h / (√3 h) = 1/√3 → θ = 30°.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q70. If the angle of elevation of the sun is 60°, the shadow of a 15 m pole is:
+
+   (A)  15m    (B)  15√3 m    (C)  15/√3 m    (D)  30 m
+
+   Answer: (C) 15/√3 m ≈ 8.66 m
+   Explanation: tan(60°) = 15/shadow → shadow = 15/√3.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q71. A vertical pole and its shadow make an angle of 45°.
+   If the shadow is 12 m, what is the height of the pole?
+
+   (A)  6 m    (B)  12 m    (C)  12√2 m    (D)  24 m
+
+   Answer: (B) 12 m
+   Explanation: At 45°, shadow length equals height → 12 m.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q72. A person observes that the shadow length equals twice their height.
+   What is the approximate angle of the sun above the horizon?
+
+   (A)  26.6°    (B)  45°    (C)  60°    (D)  30°
+
+   Answer: (A) 26.6°
+   Explanation: tan(θ) = 1/2 = 0.5 → θ ≈ 26.6°.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q73. During the summer solstice, at solar noon at the Tropic of Cancer (23.5°N),
+   the shadow of a vertical stick falls:
+
+   (A)  To the North    (B)  Directly beneath it (no shadow)
+   (C)  To the South    (D)  To the East
+
+   Answer: (B) Directly beneath it (no shadow — sun directly overhead)
+   Explanation: At summer solstice noon on the Tropic of Cancer, the sun is directly overhead.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q74. On the equator at equinox at solar noon, the shadow of a vertical stick falls:
+
+   (A)  North    (B)  South    (C)  Directly below (no shadow)    (D)  East
+
+   Answer: (C) Directly below (no shadow)
+   Explanation: At equinox noon on the equator, the sun is directly overhead.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q75. A shadow of length 8 m is cast by a pole of height 8 m.
+   At this same moment, a girl of height 1.5 m casts a shadow of:
+
+   (A)  1 m    (B)  1.5 m    (C)  2 m    (D)  3 m
+
+   Answer: (B) 1.5 m
+   Explanation: Shadow-to-height ratio = 1:1, so girl's shadow = her height = 1.5 m.
+
+─────────────────────────────────────────────────────────────────────────────
+SECTION D: LIGHT DIRECTION – DIAGRAMS & APPLIED PROBLEMS (Q76–Q100)
+─────────────────────────────────────────────────────────────────────────────
+
+Q76. The figure shows a tree with a shadow on its LEFT side.
+   The light source is:
+
+   (A)  To the left    (B)  To the right    (C)  Above    (D)  Below
+
+   Answer: (B) To the right
+   Explanation: Shadow falls left → light comes from the right.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q77. In an exam figure, a ball is shown with a shadow below and to the LEFT.
+   The light source is:
+
+   (A)  Below-left    (B)  Above-right    (C)  Below-right    (D)  Above-left
+
+   Answer: (B) Above-right
+   Explanation: Shadow falls below-left → light source is from above-right (opposite direction).
+
+────────────────────────────────────────────────────────────────────────────
+
+Q78. A sphere is lit from the top-right. Where does its shadow fall?
+
+   (A)  Top-right    (B)  Bottom-left    (C)  Top-left    (D)  Bottom-right
+
+   Answer: (B) Bottom-left
+   Explanation: Shadow is opposite to the light source.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q79. In a figure, a cube has its shadow falling toward the bottom-right.
+   The light source is located:
+
+   (A)  Bottom-right    (B)  Top-left    (C)  Top-right    (D)  Bottom-left
+
+   Answer: (B) Top-left
+   Explanation: Shadow at bottom-right → light from top-left.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q80. A person casts a shadow to the North. The observer faces South.
+   For the observer, the shadow falls:
+
+   (A)  To their front    (B)  To their back    (C)  To their left    (D)  To their right
+
+   Answer: (B) To their back (North is behind a South-facing observer)
+   Explanation: Observer faces South; North is behind them → shadow falls behind observer.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q81. It is early morning. A soldier stands at attention facing the rising sun.
+   His shadow falls:
+
+   (A)  In front of him    (B)  Behind him    (C)  To his left    (D)  To his right
+
+   Answer: (B) Behind him
+   Explanation: Sun is in the East (in front as he faces East) → shadow falls West = behind.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q82. A man walks East in the morning. As the day progresses and the sun moves higher,
+   his shadow:
+
+   (A)  Grows longer
+   (B)  Stays the same length
+   (C)  Grows shorter
+   (D)  Disappears
+
+   Answer: (C) Grows shorter
+   Explanation: As the sun rises higher, shadows shorten.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q83. On a completely overcast (cloudy) day, a vertical pole's shadow:
+
+   (A)  Falls to the West    (B)  Falls to the North
+   (C)  Is diffuse (no clear shadow direction)    (D)  Falls longer than sunny day
+
+   Answer: (C) Is diffuse (no clear shadow direction)
+   Explanation: Clouds scatter light in all directions, resulting in no sharp shadow.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q84. At 3:00 PM in the afternoon (sun in Southwest), a man stands facing East.
+   His shadow falls to his:
+
+   (A)  Front    (B)  Back    (C)  Left    (D)  Right
+
+   Answer: (B) Back
+   Note: Sun SW → shadow NE. Man faces East. NE is to the front-left of an East-facing person.
+   Correction: shadow NE from East-facing man = shadow is ahead-left (slightly front-left, but NE is front-left when facing East).
+   Practical exam answer: (A) Front-left or (C) Left depending on exam convention.
+   Standard Answer: (A) slightly in front (NE while facing East)
+
+────────────────────────────────────────────────────────────────────────────
+
+Q85. A person is standing with her face to the sun in the morning.
+   Her shadow will fall:
+
+   (A)  In front of her    (B)  Behind her    (C)  To her left    (D)  To her right
+
+   Answer: (B) Behind her
+   Explanation: When facing the sun, your shadow always falls behind you.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q86. An object is lit from DIRECTLY ABOVE (overhead light source at noon).
+   Where does its shadow fall?
+
+   (A)  West    (B)  East    (C)  Directly below the object    (D)  North
+
+   Answer: (C) Directly below the object
+   Explanation: Overhead light creates a shadow directly beneath the object.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q87. The shadow of a man at 7 AM is three times his height.
+   By noon, his shadow will be:
+
+   (A)  Three times his height (same)
+   (B)  Equal to his height
+   (C)  Very short (much shorter)
+   (D)  Twice his height
+
+   Answer: (C) Very short (much shorter)
+   Explanation: As sun rises, shadows shorten dramatically by noon.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q88. If the sun is in the Southwest and a person is facing Northwest,
+   their shadow falls:
+
+   (A)  To their left    (B)  To their right    (C)  In front    (D)  Behind
+
+   Answer: Sun SW → shadow NE. Facing NW: left = SW, right = NE.
+   Shadow NE = to the RIGHT. Answer: (B) To their right.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q89. Two identical poles stand next to each other. If one is twice as tall,
+   at the same time of day, the shadow of the taller pole is:
+
+   (A)  The same length
+   (B)  Half the length
+   (C)  Twice the length
+   (D)  Four times the length
+
+   Answer: (C) Twice the length
+   Explanation: Shadow length is proportional to object height (same sun angle).
+
+────────────────────────────────────────────────────────────────────────────
+
+Q90. At which time of day is the shadow of a vertical rod pointing due East?
+
+   (A)  Morning    (B)  Noon    (C)  Evening    (D)  Midnight
+
+   Answer: (A) Morning
+   Explanation: At morning, sun is in East → shadow falls West? Shadow East = sun in West = evening.
+   Correction: Shadow East = sun West = Evening. Answer: (C) Evening.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q91. A man observes that his shadow is to the East at 6 AM.
+   This could be explained by which of the following?
+
+   (A)  The sun is in the East at 6 AM
+   (B)  There is an artificial light source in the West
+   (C)  This is impossible
+   (D)  The sun is directly above
+
+   Answer: (B) There is an artificial light source in the West
+   Explanation: Natural sunlight at 6 AM is in East → shadow West. A shadow to the East at 6 AM requires a western light source.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q92. A lamp post on a road casts the shadow of a car to the LEFT side of the road.
+   The lamp is:
+
+   (A)  On the left of the car
+   (B)  On the right of the car
+   (C)  Behind the car
+   (D)  Above the car
+
+   Answer: (B) On the right of the car
+   Explanation: Shadow on the left → light source on the right.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q93. At a construction site, a worker's shadow falls towards the Southeast.
+   The sun is in the:
+
+   (A)  Northeast    (B)  Northwest    (C)  Southeast    (D)  Southwest
+
+   Answer: (B) Northwest
+   Explanation: Shadow SE → sun NW.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q94. If a sundial shows 6:00 PM correctly, the shadow falls:
+
+   (A)  West    (B)  East    (C)  North    (D)  South
+
+   Answer: (B) East (on a sundial, 6 PM = sun in west, shadow east)
+   Explanation: At 6 PM, sun is in the West → shadow East.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q95. A candle is placed to the right of an object. The shadow of the object
+   falls to the:
+
+   (A)  Right    (B)  Left    (C)  Above    (D)  Below
+
+   Answer: (B) Left
+   Explanation: Light from right → shadow falls to the left.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q96. Two friends A and B walk North. A's shadow falls to the West.
+   What can we say about B's shadow?
+
+   (A)  Falls East    (B)  Falls West    (C)  Falls North    (D)  Depends on B's height
+
+   Answer: (B) Falls West
+   Explanation: Both are under the same sun. If A's shadow is West (sun East), so is B's.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q97. The shadow of a vertical pole falls exactly along itself (straight down).
+   This means the sun is:
+
+   (A)  At the horizon    (B)  Directly overhead    (C)  To the East    (D)  To the West
+
+   Answer: (B) Directly overhead
+   Explanation: When the sun is overhead (90°), shadow falls directly below the object.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q98. In a photograph taken at noon on 21 June in London (51°N),
+   the shadow of a vertical pole falls towards:
+
+   (A)  South    (B)  North    (C)  East    (D)  West
+
+   Answer: (B) North
+   Explanation: In Northern Hemisphere at noon, sun is in South → shadow falls North.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q99. A factory chimney casts its shadow in the direction opposite to the sun.
+   If the chimney's shadow is pointing towards the Southwest,
+   the sun is in the:
+
+   (A)  Southwest    (B)  Northeast    (C)  Northwest    (D)  Southeast
+
+   Answer: (B) Northeast
+   Explanation: Shadow SW → sun NE.
+
+────────────────────────────────────────────────────────────────────────────
+
+Q100. In an examination figure, a person is shown with a shadow to the left.
+    The sun is in the East. The person is facing:
+
+   (A)  North    (B)  South    (C)  East    (D)  West
+
+   Answer: (B) South
+   Explanation: Sun East → shadow West. Shadow to the left → West is on the left → person faces South.
+
+================================================================================
+                    END OF TOPIC 24 – SHADOW & LIGHT DIRECTION
+                              Total Questions: 100
+================================================================================

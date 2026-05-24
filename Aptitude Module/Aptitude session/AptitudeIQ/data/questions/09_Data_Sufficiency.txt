@@ -1,0 +1,721 @@
+================================================================
+       TOPIC 9: DATA SUFFICIENCY — 100 QUESTIONS
+       Type: NON-PICTORIAL (Text-Based Questions)
+================================================================
+
+INSTRUCTIONS:
+Each question has a main question and two statements (I and II).
+Choose the correct option:
+  (A) Statement I alone is sufficient
+  (B) Statement II alone is sufficient
+  (C) Both statements together are sufficient, but neither alone
+  (D) Either statement alone is sufficient
+  (E) Neither statement, nor both together, are sufficient
+
+================================================================
+
+Q1. What is the value of integer x?
+    I.  x² = 49
+    II. x > 0
+    (A) A  (B) B  (C) C  (D) D  (E) E
+    ANSWER: C
+    EXPLANATION: Statement I gives x = ±7. Statement II alone doesn't fix x. Together, x = 7.
+
+Q2. Is the number N divisible by 6?
+    I.  N is divisible by 2
+    II. N is divisible by 3
+    (A) A  (B) B  (C) C  (D) D  (E) E
+    ANSWER: C
+    EXPLANATION: Divisibility by 6 requires divisibility by both 2 and 3. Neither alone is sufficient.
+
+Q3. What is the area of rectangle R?
+    I.  The perimeter of R is 36 cm
+    II. The length of R is twice its breadth
+    (A) A  (B) B  (C) C  (D) D  (E) E
+    ANSWER: C
+    EXPLANATION: From both: 2(l+b)=36 and l=2b → b=6, l=12 → Area=72.
+
+Q4. Is x > y?
+    I.  x + y = 10
+    II. x – y = 4
+    (A) A  (B) B  (C) C  (D) D  (E) E
+    ANSWER: B
+    EXPLANATION: Statement II: x – y = 4 > 0, so x > y directly.
+
+Q5. What is the value of (a + b)?
+    I.  a = 5
+    II. b = 7
+    (A) A  (B) B  (C) C  (D) D  (E) E
+    ANSWER: C
+    EXPLANATION: Both values are needed individually to compute their sum.
+
+Q6. How many students are in the class?
+    I.  35% of the students are girls
+    II. There are 21 girls in the class
+    (A) A  (B) B  (C) C  (D) D  (E) E
+    ANSWER: C
+    EXPLANATION: 21 = 35% of total → Total = 60. Both statements needed.
+
+Q7. Is quadrilateral ABCD a square?
+    I.  All four sides are equal
+    II. All four angles are equal
+    (A) A  (B) B  (C) C  (D) D  (E) E
+    ANSWER: C
+    EXPLANATION: Equal sides alone → rhombus. Equal angles alone → rectangle. Together → square.
+
+Q8. What is the rate of interest per annum?
+    I.  Simple interest on Rs 5000 for 2 years is Rs 600
+    II. The principal is Rs 5000
+    (A) A  (B) B  (C) C  (D) D  (E) E
+    ANSWER: A
+    EXPLANATION: SI = PRT/100 → R = (600×100)/(5000×2) = 6%. Statement I is sufficient.
+
+Q9. What is the average of five numbers?
+    I.  The sum of four of the numbers is 48
+    II. The fifth number is 12
+    (A) A  (B) B  (C) C  (D) D  (E) E
+    ANSWER: C
+    EXPLANATION: Average = (48+12)/5 = 12. Both statements are required.
+
+Q10. Is p a prime number?
+     I.  p is odd
+     II. p is not divisible by any prime less than 10
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: E
+     EXPLANATION: Numbers like 121 (=11²) satisfy both but aren't prime. Neither sufficient together.
+
+Q11. What is the value of x + y + z?
+     I.  x + y = 14
+     II. y + z = 18
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: E
+     EXPLANATION: We have two equations but three unknowns. Cannot determine x+y+z.
+
+Q12. What is the two-digit number?
+     I.  The number is greater than 75
+     II. The sum of its digits is 11
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: >75 with digit sum 11: candidates are 83, 92. Still ambiguous. → E
+     ANSWER: E
+
+Q13. In how many days can A alone finish the work?
+     I.  A and B together finish in 10 days
+     II. B alone finishes in 15 days
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: 1/A = 1/10 – 1/15 = 1/30. A takes 30 days. Both needed.
+
+Q14. What is the selling price of an article?
+     I.  Cost price is Rs 400
+     II. Profit percentage is 25%
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: SP = 400 × 1.25 = Rs 500. Both statements required.
+
+Q15. Is x an even number?
+     I.  x/2 is an integer
+     II. x + 1 is odd
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: D
+     EXPLANATION: Either statement independently confirms x is even.
+
+Q16. What is the value of m?
+     I.  3m + 4 = 19
+     II. m² = 25
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: A
+     EXPLANATION: Statement I: m = 5 uniquely. Statement II: m = ±5, not unique.
+
+Q17. What is the perimeter of the triangle?
+     I.  Two sides are 8 cm and 10 cm
+     II. The triangle is isosceles
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: E
+     EXPLANATION: Isosceles with sides 8 and 10 can be 8+8+10=26 or 8+10+10=28. Ambiguous.
+
+Q18. What is the age of the father?
+     I.  The father is 30 years older than his son
+     II. The son's age is 15 years
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: Father = 15 + 30 = 45. Both statements needed.
+
+Q19. Is the triangle equilateral?
+     I.  All three sides are equal
+     II. Each interior angle is 60°
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: D
+     EXPLANATION: Either condition alone confirms equilateral triangle.
+
+Q20. What is the speed of the train?
+     I.  The train covers 300 km in 5 hours
+     II. The train covers 600 km in 10 hours
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: D
+     EXPLANATION: Both give speed = 60 km/h. Either alone is sufficient.
+
+Q21. What is the value of x²+y²?
+     I.  x + y = 10
+     II. xy = 24
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: x²+y² = (x+y)² – 2xy = 100 – 48 = 52. Both needed.
+
+Q22. How much does Ravi earn per month?
+     I.  He spends 60% of his salary
+     II. His monthly savings are Rs 8,000
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: Savings = 40% of salary → Salary = 8000/0.4 = Rs 20,000.
+
+Q23. Is the integer n divisible by 4?
+     I.  n is divisible by 8
+     II. n is divisible by 12
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: D
+     EXPLANATION: Any multiple of 8 is divisible by 4; any multiple of 12 is divisible by 4.
+
+Q24. What is the compound interest for 2 years?
+     I.  Principal is Rs 10,000
+     II. Rate of interest is 10% per annum
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: CI = 10000×[(1.1)²–1] = Rs 2100. Both values needed.
+
+Q25. What is the ratio of boys to girls in the school?
+     I.  There are 240 boys in the school
+     II. Girls are 40% of the total students
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: B
+     EXPLANATION: Statement II: Girls=40%, Boys=60%. Ratio = 60:40 = 3:2. Sufficient alone.
+
+Q26. What is the LCM of two numbers?
+     I.  HCF of the two numbers is 12
+     II. Product of the two numbers is 1440
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: LCM = Product/HCF = 1440/12 = 120. Both needed.
+
+Q27. What is the number of terms in an AP?
+     I.  First term = 4, Common difference = 3
+     II. Last term = 46
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: n = (46–4)/3 + 1 = 15. Both statements needed.
+
+Q28. Is a > b?
+     I.  a² > b²
+     II. a > 0 and b > 0
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: Statement I alone: a could be negative. Together: both positive and a²>b² → a>b.
+
+Q29. What is the profit percentage?
+     I.  An item is bought for Rs 500 and sold for Rs 600
+     II. The profit is Rs 100
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: A
+     EXPLANATION: Profit% = (100/500)×100 = 20%. Statement I alone is sufficient.
+
+Q30. In what ratio does C divide line segment AB?
+     I.  A = (0,0), B = (6,0)
+     II. C = (2,0)
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: AC = 2, CB = 4. Ratio = 1:2. Both statements needed.
+
+Q31. What is the volume of the cylinder?
+     I.  The radius is 7 cm
+     II. The height is 10 cm
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: V = π×7²×10 = 1540 cm³. Both measurements needed.
+
+Q32. What is the value of x – y?
+     I.  x + y = 20
+     II. 2x = 26
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: x = 13, then y = 7, so x–y = 6. Both statements needed.
+
+Q33. Is the product of two numbers positive?
+     I.  The sum of the numbers is positive
+     II. Both numbers are positive
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: B
+     EXPLANATION: Statement II directly confirms product is positive.
+
+Q34. What is the speed of the boat in still water?
+     I.  The boat goes 20 km downstream in 2 hours
+     II. The stream speed is 3 km/h
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: Downstream speed = 10 km/h. Boat speed = 10–3 = 7 km/h. Both needed.
+
+Q35. Is x divisible by 15?
+     I.  x is divisible by 5
+     II. x is divisible by 3
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: 15 = 3×5. Both conditions together are required and sufficient.
+
+Q36. What is the value of the angle A in triangle ABC?
+     I.  Angle B = 70°
+     II. Angle C = 50°
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: D
+     EXPLANATION: Either alone gives A = 180 – B – C. Statement I: A = 180–70–C (need C). Statement II: A = 180–50–B (need B). Together: A = 60°. → C
+     ANSWER: C
+
+Q37. What is the marked price of the article?
+     I.  A discount of 20% is given on the marked price
+     II. The selling price is Rs 800
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: MP × 0.8 = 800 → MP = Rs 1000. Both needed.
+
+Q38. In how many years will the simple interest double the principal?
+     I.  Rate of interest is 10% per annum
+     II. Principal is Rs 5,000
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: A
+     EXPLANATION: SI = P → PRT/100 = P → T = 100/R = 10 years. Only rate matters.
+
+Q39. What is the median of five consecutive integers?
+     I.  The smallest integer is 11
+     II. The largest integer is 15
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: D
+     EXPLANATION: Either statement gives the sequence 11–15. Median = 13. Either alone is sufficient.
+
+Q40. Is x + y = 0?
+     I.  x = –y
+     II. |x| = |y|
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: A
+     EXPLANATION: Statement I directly gives x+y=0. Statement II could mean x=y or x=–y.
+
+Q41. What is the average speed for the entire journey?
+     I.  A man travels 60 km at 30 km/h and 60 km at 60 km/h
+     II. Total distance is 120 km
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: A
+     EXPLANATION: Statement I gives all needed data. Avg speed = 2×30×60/(30+60) = 40 km/h.
+
+Q42. What is the sum of the first n natural numbers?
+     I.  n = 20
+     II. The sum formula is n(n+1)/2
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: Using both: Sum = 20×21/2 = 210.
+
+Q43. What is the discount percentage?
+     I.  Marked price is Rs 1200
+     II. Selling price is Rs 900
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: Discount% = (300/1200)×100 = 25%. Both values needed.
+
+Q44. Is the number a perfect square?
+     I.  The number ends in 5
+     II. The number is 225
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: B
+     EXPLANATION: Statement II confirms 225 = 15². Statement I is not conclusive.
+
+Q45. How long will it take Pipe A alone to fill the tank?
+     I.  Pipe A and B together fill the tank in 6 hours
+     II. Pipe B alone fills the tank in 10 hours
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: 1/A = 1/6 – 1/10 = 1/15 → A = 15 hours. Both needed.
+
+Q46. What is the probability of selecting a red ball?
+     I.  There are 4 red and 6 blue balls
+     II. Total balls = 10
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: A
+     EXPLANATION: Statement I alone gives P = 4/10. Statement II alone is not sufficient.
+
+Q47. What is the present age of the son?
+     I.  Father's present age is 42
+     II. Father is 3 times as old as the son
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: Son = 42/3 = 14 years. Both statements needed.
+
+Q48. Is the given polygon a regular polygon?
+     I.  All sides are equal
+     II. All angles are equal
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: Both conditions together define a regular polygon.
+
+Q49. What is the cost price of the item?
+     I.  Loss percentage is 15%
+     II. Loss amount is Rs 300
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: CP = 300/0.15 = Rs 2000. Both statements needed.
+
+Q50. What is the value of n! (n factorial)?
+     I.  n = 5
+     II. n is a single-digit prime number greater than 3
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: A
+     EXPLANATION: Statement I: n=5, 5!=120. Statement II: could be 5 or 7, not unique.
+
+Q51. Is xy > 0?
+     I.  x > 0
+     II. y > 0
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: Both must be positive for xy > 0.
+
+Q52. What is the value of the expression (a – b)?
+     I.  a² – b² = 36
+     II. a + b = 9
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: a–b = (a²–b²)/(a+b) = 36/9 = 4. Both needed.
+
+Q53. What is the number of ways to arrange 3 books on a shelf?
+     I.  The books are all distinct
+     II. There are exactly 3 books
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: 3! = 6 arrangements. Both conditions needed.
+
+Q54. What is the value of log x?
+     I.  x = 1000
+     II. The base of the logarithm is 10
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: log₁₀(1000) = 3. Both the value and base are needed.
+
+Q55. What is the cost of painting 4 walls of a room?
+     I.  Rate of painting is Rs 50 per sq meter
+     II. Each wall is 5m × 3m
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: Area = 4×15=60 sq m. Cost = 60×50 = Rs 3000. Both needed.
+
+Q56. Is x a multiple of 7?
+     I.  x = 7k for some integer k
+     II. x + 7 is a multiple of 7
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: D
+     EXPLANATION: Both independently confirm x is a multiple of 7.
+
+Q57. How many oranges did the shopkeeper sell?
+     I.  He sold 30% of his total stock
+     II. He had 200 oranges originally
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: 30% of 200 = 60 oranges. Both statements needed.
+
+Q58. What is the distance between two stations?
+     I.  A train takes 3 hours to travel between them at 80 km/h
+     II. Another train takes 4 hours at 60 km/h
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: D
+     EXPLANATION: Both give 240 km. Either alone is sufficient.
+
+Q59. What is the value of (x+y)²?
+     I.  x – y = 4
+     II. xy = 12
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: (x+y)² = (x–y)² + 4xy = 16+48 = 64. Both needed.
+
+Q60. Is the number N a multiple of 10?
+     I.  N is a multiple of 5
+     II. N is a multiple of 2
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: 10 = 2×5. Both divisibility conditions together are sufficient.
+
+Q61. What is the income tax paid?
+     I.  Taxable income is Rs 5,00,000
+     II. Tax rate is 20%
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: Tax = 5,00,000 × 0.20 = Rs 1,00,000. Both required.
+
+Q62. What is the value of 2x + 3y?
+     I.  x = 5
+     II. y = 4
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: 2(5)+3(4) = 22. Both values needed.
+
+Q63. What is the sum of angles in the polygon?
+     I.  The polygon has 6 sides
+     II. The polygon is a hexagon
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: D
+     EXPLANATION: Both statements say the same thing. Sum = (6–2)×180 = 720°.
+
+Q64. How many liters of pure acid are in the mixture?
+     I.  Mixture is 15 liters
+     II. Acid is 40% of the mixture
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: Pure acid = 40% of 15 = 6 liters. Both needed.
+
+Q65. What is the next term in the sequence?
+     I.  The sequence is 2, 4, 8, 16, ...
+     II. Each term is double the previous term
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: D
+     EXPLANATION: Either statement alone gives the next term as 32.
+
+Q66. What is the diagonal of the square?
+     I.  Side of the square is 5 cm
+     II. Area of the square is 25 cm²
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: D
+     EXPLANATION: Both give side=5. Diagonal = 5√2. Either alone is sufficient.
+
+Q67. Is the slope of line L positive?
+     I.  Line L passes through (0,0) and (3,4)
+     II. Line L has y-intercept of zero
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: A
+     EXPLANATION: Statement I: slope = 4/3 > 0. Statement II alone doesn't fix slope.
+
+Q68. What is the number of hours B takes to complete the task alone?
+     I.  A and B together take 8 hours
+     II. A alone takes 12 hours
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: 1/B = 1/8 – 1/12 = 1/24 → B = 24 hours.
+
+Q69. What is the HCF of two numbers?
+     I.  The two numbers are 36 and 48
+     II. Difference of the two numbers is 12
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: A
+     EXPLANATION: Statement I gives HCF(36,48)=12 directly. Statement II alone is insufficient.
+
+Q70. What is the value of 3ⁿ?
+     I.  n = 4
+     II. 3ⁿ > 80
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: A
+     EXPLANATION: Statement I: 3⁴ = 81. Statement II: n could be 4, 5, 6, ... Not unique.
+
+Q71. What is the monthly rent of the house?
+     I.  Annual rent is Rs 1,44,000
+     II. The tenant pays rent every month
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: A
+     EXPLANATION: Monthly rent = 1,44,000/12 = Rs 12,000. Statement I alone sufficient.
+
+Q72. What is the distance covered by the car?
+     I.  Car travels at 60 km/h
+     II. It travels for 2.5 hours
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: Distance = 60 × 2.5 = 150 km. Both needed.
+
+Q73. What is the total salary of 10 employees?
+     I.  Average salary is Rs 25,000
+     II. There are 10 employees
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: Total = 25,000 × 10 = Rs 2,50,000. Both needed.
+
+Q74. Is the fraction p/q less than 1?
+     I.  p < q
+     II. p and q are both positive integers
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: Both conditions together confirm p/q < 1.
+
+Q75. How many distinct factors does N have?
+     I.  N = 36
+     II. N = 2² × 3²
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: D
+     EXPLANATION: Both represent the same number. Factors = (2+1)(2+1) = 9. Either alone works.
+
+Q76. What is the price after two successive discounts?
+     I.  Original price is Rs 2000
+     II. Two discounts of 10% and 20% are applied
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: Price = 2000 × 0.9 × 0.8 = Rs 1440. Both needed.
+
+Q77. Is point P inside the circle?
+     I.  The radius of the circle is 5
+     II. The distance from the center to P is 4
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: 4 < 5 confirms P is inside. Both needed.
+
+Q78. What is the capacity of the tank?
+     I.  Pipe A fills 50 liters per hour
+     II. The tank is full in 6 hours with pipe A alone
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: Capacity = 50 × 6 = 300 liters. Both needed.
+
+Q79. Is the series arithmetic?
+     I.  The sequence is 5, 10, 15, 20
+     II. The difference between consecutive terms is constant
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: D
+     EXPLANATION: Either statement independently identifies an AP.
+
+Q80. What is the value of cos θ?
+     I.  sin θ = 3/5
+     II. θ is in the first quadrant
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: cos θ = 4/5 (positive because first quadrant). Both needed.
+
+Q81. What is the price per kg of the mixture?
+     I.  Two varieties at Rs 40/kg and Rs 60/kg are mixed equally
+     II. They are mixed in ratio 1:1
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: D
+     EXPLANATION: Both say same (1:1 ratio). Price = (40+60)/2 = Rs 50/kg. Either sufficient.
+
+Q82. What is the surface area of the cube?
+     I.  Volume of the cube is 125 cm³
+     II. Each side of the cube is 5 cm
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: D
+     EXPLANATION: Both give side=5. SA = 6×25 = 150 cm². Either alone sufficient.
+
+Q83. What is the number of students who passed?
+     I.  60% of 250 students passed
+     II. 40% failed
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: A
+     EXPLANATION: Statement I: 0.6×250 = 150 passed. Statement II alone lacks total count.
+
+Q84. What is the value of x³?
+     I.  x = –3
+     II. x³ < 0 and |x| = 3
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: D
+     EXPLANATION: Statement I: (–3)³=–27. Statement II: x=–3 → x³=–27. Either sufficient.
+
+Q85. How many red marbles are there?
+     I.  Red marbles are 3 times the blue marbles
+     II. Total marbles = 40
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: Red = 3b, blue = b, total = 4b = 40 → b=10, red=30.
+
+Q86. What is the average of a and b?
+     I.  a + b = 30
+     II. a – b = 6
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: A
+     EXPLANATION: Average = (a+b)/2 = 30/2 = 15. Statement I alone is sufficient.
+
+Q87. Is the quadratic equation ax²+bx+c=0 having real roots?
+     I.  b² – 4ac > 0
+     II. a = 1, b = –5, c = 6
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: D
+     EXPLANATION: Statement I: discriminant > 0 → real roots. Statement II: 25–24=1>0 → real. Either sufficient.
+
+Q88. What is the distance between A and B?
+     I.  A person walks from A to B at 5 km/h in 3 hours
+     II. He returns from B to A at 3 km/h
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: A
+     EXPLANATION: Statement I: Distance = 5×3 = 15 km. Sufficient alone.
+
+Q89. What is the total number of handshakes if everyone shakes hands once?
+     I.  There are 6 people in the room
+     II. Each person shakes hands with everyone else exactly once
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: Handshakes = 6C2 = 15. Both conditions needed.
+
+Q90. What is the area of a right triangle?
+     I.  One leg is 6 cm
+     II. Other leg is 8 cm
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: Area = (1/2)×6×8 = 24 cm². Both legs needed.
+
+Q91. What is the number of boys in the class?
+     I.  Ratio of boys to girls is 3:2
+     II. Number of girls is 20
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: Boys = (3/2)×20 = 30. Both statements needed.
+
+Q92. Is the interest compounded annually?
+     I.  Interest doubles in 10 years
+     II. Rate of interest is 10%
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: E
+     EXPLANATION: Cannot determine compounding method from these alone.
+
+Q93. What is the weighted average score?
+     I.  Scores are 70, 80, 90 with weights 1, 2, 3
+     II. Sum of weights is 6
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: A
+     EXPLANATION: Weighted avg = (70×1+80×2+90×3)/6 = 500/6 ≈ 83.3. Statement I alone sufficient.
+
+Q94. What is the number of ways to choose a team of 3 from 7 players?
+     I.  There are 7 players
+     II. Team size is 3
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: 7C3 = 35. Both values needed.
+
+Q95. What is the GST amount?
+     I.  Original price is Rs 2000
+     II. GST rate is 18%
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: GST = 2000 × 0.18 = Rs 360. Both needed.
+
+Q96. Is the given number N > 100?
+     I.  N = 5 × 25
+     II. N = 5³
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: D
+     EXPLANATION: Statement I: N=125>100. Statement II: N=125>100. Either alone sufficient.
+
+Q97. What is the number of passengers in the bus?
+     I.  20 more passengers boarded at the next stop
+     II. There were 35 passengers originally
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: Total = 35+20 = 55. Both statements needed.
+
+Q98. What is the value of (p + q + r)?
+     I.  p + q = 15 and q + r = 18
+     II. q = 7
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: p=8, r=11 from both statements → p+q+r = 26.
+
+Q99. What is the ratio of the areas of two circles?
+     I.  Radius of circle A is 4 cm
+     II. Radius of circle B is 6 cm
+     (A) A  (B) B  (C) C  (D) D  (E) E
+     ANSWER: C
+     EXPLANATION: Ratio = π×16 : π×36 = 4:9. Both radii needed.
+
+Q100. What is the number of prime numbers between 1 and N?
+      I.  N = 20
+      II. N is an even number between 15 and 25
+      (A) A  (B) B  (C) C  (D) D  (E) E
+      ANSWER: A
+      EXPLANATION: Statement I: primes up to 20 = {2,3,5,7,11,13,17,19} = 8 primes. Statement II: N could be 16,18,20,22,24 — not unique.
+
+================================================================
+                    END OF DATA SUFFICIENCY
+================================================================

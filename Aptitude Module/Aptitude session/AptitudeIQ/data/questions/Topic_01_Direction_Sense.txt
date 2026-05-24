@@ -1,0 +1,812 @@
+================================================================================
+TOPIC 1: DIRECTION SENSE (With Turns & Angles)
+TYPE: NON-PICTORIAL
+TOTAL QUESTIONS: 100
+================================================================================
+
+INSTRUCTIONS: In all questions, assume standard compass directions unless stated otherwise.
+North is UP, South is DOWN, East is RIGHT, West is LEFT.
+
+--------------------------------------------------------------------------------
+Q1. A man walks 10 km North, then turns Right and walks 5 km, then turns Right and walks 10 km. How far is he from the starting point and in which direction?
+A) 5 km West
+B) 5 km East
+C) 10 km South
+D) 5 km South
+Answer: A) 5 km West
+
+--------------------------------------------------------------------------------
+Q2. Riya starts from her home, walks 4 km East, turns Left and walks 3 km, then turns Left and walks 4 km. What is the shortest distance from her home?
+A) 4 km
+B) 3 km
+C) 7 km
+D) 5 km
+Answer: B) 3 km
+
+--------------------------------------------------------------------------------
+Q3. A person faces North-East. He turns 90° clockwise. Which direction does he face now?
+A) South-East
+B) North-West
+C) South-West
+D) East
+Answer: A) South-East
+
+--------------------------------------------------------------------------------
+Q4. Mohan walks 6 km West, then turns South and walks 8 km. How far is he from the starting point?
+A) 10 km
+B) 14 km
+C) 8 km
+D) 6 km
+Answer: A) 10 km
+
+--------------------------------------------------------------------------------
+Q5. A boy faces South. He turns 135° anti-clockwise. Which direction does he now face?
+A) North-West
+B) South-East
+C) North-East
+D) East
+Answer: C) North-East
+
+--------------------------------------------------------------------------------
+Q6. Priya walks 5 km towards North, then turns Right and walks 4 km, then turns Right and walks 5 km, then turns Left and walks 3 km. How far is she from the starting point?
+A) 6 km
+B) 7 km
+C) 8 km
+D) 3 km
+Answer: B) 7 km
+
+--------------------------------------------------------------------------------
+Q7. If South-East becomes North, then what does North-West become?
+A) South
+B) South-East
+C) East
+D) West
+Answer: A) South
+
+--------------------------------------------------------------------------------
+Q8. A man starts from point A, walks 3 km East, then 4 km North. What is the minimum distance from A?
+A) 5 km
+B) 7 km
+C) 3 km
+D) 4 km
+Answer: A) 5 km
+
+--------------------------------------------------------------------------------
+Q9. Ramesh faces West. He turns 45° clockwise. Which direction does he face?
+A) South-West
+B) North-West
+C) North
+D) South
+Answer: B) North-West
+
+--------------------------------------------------------------------------------
+Q10. A girl walks 12 km South, turns Left and walks 5 km, then turns Left and walks 12 km. How far is she from her starting point and in which direction?
+A) 5 km East
+B) 5 km West
+C) 12 km North
+D) 5 km North
+Answer: A) 5 km East
+
+--------------------------------------------------------------------------------
+Q11. A person starts walking East. He turns Left twice, then turns Right once. In which direction is he walking now?
+A) West
+B) North
+C) East
+D) South
+Answer: D) South
+
+--------------------------------------------------------------------------------
+Q12. Arjun walks 7 km towards the South, then 5 km towards the East, then 7 km towards the North. How far is he from the starting point?
+A) 5 km
+B) 7 km
+C) 12 km
+D) 0 km
+Answer: A) 5 km
+
+--------------------------------------------------------------------------------
+Q13. A man faces North. He turns 270° clockwise. Which direction does he now face?
+A) East
+B) West
+C) South
+D) North
+Answer: B) West
+
+--------------------------------------------------------------------------------
+Q14. Neha walks 10 km North, 6 km East, 10 km South. In which direction and how far is she from the start?
+A) 6 km East
+B) 6 km West
+C) 10 km South
+D) 0 km
+Answer: A) 6 km East
+
+--------------------------------------------------------------------------------
+Q15. Suresh starts facing East. After turning Left, Left, and Right, which direction does he face?
+A) North
+B) South
+C) West
+D) East
+Answer: C) West
+
+--------------------------------------------------------------------------------
+Q16. A man walks 15 km North, then turns Right and walks 20 km, then turns Right and walks 15 km. He is how far from the starting point?
+A) 20 km West
+B) 20 km East
+C) 15 km South
+D) 5 km
+Answer: A) 20 km West
+
+--------------------------------------------------------------------------------
+Q17. If a person faces South-West and turns 180°, which direction does he face?
+A) North-East
+B) North-West
+C) South-East
+D) East
+Answer: A) North-East
+
+--------------------------------------------------------------------------------
+Q18. Kavya walks 4 km East, 3 km North, 4 km West, 3 km South. What is the displacement from the starting point?
+A) 0 km
+B) 14 km
+C) 6 km
+D) 4 km
+Answer: A) 0 km
+
+--------------------------------------------------------------------------------
+Q19. A person facing North turns 90° anti-clockwise, walks 5 km, then again turns 90° anti-clockwise and walks 3 km. How far from the origin?
+A) √34 km
+B) 8 km
+C) 5 km
+D) 3 km
+Answer: A) √34 km
+
+--------------------------------------------------------------------------------
+Q20. Arun is facing North-East. He turns 90° anti-clockwise twice. Which direction is he now facing?
+A) South-West
+B) North-West
+C) South-East
+D) South
+Answer: A) South-West
+
+--------------------------------------------------------------------------------
+Q21. A man walks 9 km South, then 12 km East. What is the straight-line distance from the start?
+A) 15 km
+B) 21 km
+C) 9 km
+D) 12 km
+Answer: A) 15 km
+
+--------------------------------------------------------------------------------
+Q22. Pointing to a man, Sheela says "He walked 8 km North, then 6 km West." What is the shortest distance from the start?
+A) 10 km
+B) 14 km
+C) 8 km
+D) 6 km
+Answer: A) 10 km
+
+--------------------------------------------------------------------------------
+Q23. A man is facing West. He turns 45° clockwise and then 180° clockwise. Which direction is he facing?
+A) North-East
+B) South-West
+C) South-East
+D) North-West
+Answer: D) North-West
+
+--------------------------------------------------------------------------------
+Q24. Pooja walks 2 km North, turns Left and walks 2 km, turns Left and walks 2 km, turns Left and walks 2 km. Where is she?
+A) Starting point
+B) 4 km North
+C) 2 km East
+D) 2 km West
+Answer: A) Starting point
+
+--------------------------------------------------------------------------------
+Q25. A man starts facing South-East. He turns 135° anti-clockwise. Which direction does he face?
+A) North
+B) East
+C) West
+D) South
+Answer: A) North
+
+--------------------------------------------------------------------------------
+Q26. From point X, Rahul walks 8 km West, then 6 km North, then 8 km East. In which direction is he from X?
+A) North
+B) South
+C) East
+D) West
+Answer: A) North
+
+--------------------------------------------------------------------------------
+Q27. Tanvi walks 5 km towards East, then turns 90° clockwise and walks 5 km, then turns 90° clockwise and walks 5 km. How far is she from start and in which direction?
+A) 5 km North
+B) 5 km West
+C) 5 km South
+D) 5 km East
+Answer: A) 5 km North
+
+--------------------------------------------------------------------------------
+Q28. A man faces East. He turns Right and walks 5 km, then turns Right and walks 5 km. In which direction is he from starting point?
+A) South-West
+B) North-West
+C) North-East
+D) South-East
+Answer: A) South-West
+
+--------------------------------------------------------------------------------
+Q29. If you face North and turn clockwise by 135°, which direction do you face?
+A) South-East
+B) North-East
+C) South-West
+D) North-West
+Answer: A) South-East
+
+--------------------------------------------------------------------------------
+Q30. Two friends start from the same point. A walks 6 km North and B walks 6 km South. How far apart are they?
+A) 12 km
+B) 0 km
+C) 6 km
+D) 3 km
+Answer: A) 12 km
+
+--------------------------------------------------------------------------------
+Q31. A car travels 10 km East, then 10 km South, then 10 km West, then 10 km North. Where is the car?
+A) Starting point
+B) 10 km East
+C) 10 km South
+D) 10 km West
+Answer: A) Starting point
+
+--------------------------------------------------------------------------------
+Q32. Raj faces North-West. He turns 90° clockwise. He now faces:
+A) South-West
+B) North-East
+C) South-East
+D) East
+Answer: B) North-East
+
+--------------------------------------------------------------------------------
+Q33. A boy walks 12 km North, then turns Right and walks 16 km. What is the shortest distance from the starting point?
+A) 20 km
+B) 28 km
+C) 16 km
+D) 12 km
+Answer: A) 20 km
+
+--------------------------------------------------------------------------------
+Q34. Sneha starts from home, walks 3 km East, turns Left and walks 4 km, then turns Right and walks 2 km. What is the total distance?
+A) 9 km
+B) 7 km
+C) 5 km
+D) 4 km
+Answer: A) 9 km
+
+--------------------------------------------------------------------------------
+Q35. A person is facing East. He turns 180° anti-clockwise. Which direction is he facing?
+A) West
+B) East
+C) North
+D) South
+Answer: A) West
+
+--------------------------------------------------------------------------------
+Q36. Amit walks 5 km North, 3 km East, 5 km South, 3 km West. What is his displacement?
+A) 0 km
+B) 8 km
+C) 16 km
+D) 5 km
+Answer: A) 0 km
+
+--------------------------------------------------------------------------------
+Q37. A lady faces North. She turns 45° clockwise three times. Which direction does she now face?
+A) South-East
+B) North-East
+C) South-West
+D) East
+Answer: A) South-East
+
+--------------------------------------------------------------------------------
+Q38. From office, Deepak walks 4 km North, then 3 km West. What is the shortest path back to office?
+A) 5 km
+B) 7 km
+C) 4 km
+D) 3 km
+Answer: A) 5 km
+
+--------------------------------------------------------------------------------
+Q39. A man faces South-West. He turns 90° anti-clockwise. He now faces:
+A) North-West
+B) South-East
+C) North-East
+D) South
+Answer: B) South-East
+
+--------------------------------------------------------------------------------
+Q40. Vikram walks 20 m East, turns Left and walks 10 m, turns Left and walks 20 m. How far from start?
+A) 10 m North
+B) 10 m South
+C) 20 m East
+D) 0 m
+Answer: A) 10 m North
+
+--------------------------------------------------------------------------------
+Q41. If North-West becomes South, what does South-East become?
+A) North
+B) East
+C) West
+D) South-West
+Answer: A) North
+
+--------------------------------------------------------------------------------
+Q42. A man walks 100 m North, 75 m East, 100 m South, 25 m West. How far from start and in which direction?
+A) 50 m East
+B) 75 m East
+C) 25 m West
+D) 0 m
+Answer: A) 50 m East
+
+--------------------------------------------------------------------------------
+Q43. A cat walks 6 km West, 8 km South. Shortest distance from start?
+A) 10 km
+B) 14 km
+C) 6 km
+D) 8 km
+Answer: A) 10 km
+
+--------------------------------------------------------------------------------
+Q44. Facing South-East, a person turns 135° clockwise. Which direction?
+A) North
+B) West
+C) South
+D) East
+Answer: A) North
+
+--------------------------------------------------------------------------------
+Q45. A child walks 3 km East, 4 km South, 3 km West. The child is now how far from start?
+A) 4 km South
+B) 3 km West
+C) 7 km South
+D) 6 km East
+Answer: A) 4 km South
+
+--------------------------------------------------------------------------------
+Q46. Lakshmi starts facing East and turns 270° anti-clockwise. She now faces:
+A) North
+B) South
+C) East
+D) West
+Answer: B) South
+
+--------------------------------------------------------------------------------
+Q47. Two poles are placed 10 km apart (one North, one South of origin). A person at origin walks 6 km East. How far is he from the North pole?
+A) √136 km
+B) 10 km
+C) 6 km
+D) 16 km
+Answer: A) √136 km
+
+--------------------------------------------------------------------------------
+Q48. A man walks 8 km East and then 15 km North. The bearing from start to current position?
+A) North-East
+B) East
+C) North
+D) South-West
+Answer: A) North-East
+
+--------------------------------------------------------------------------------
+Q49. Meera faces West. She turns 90° clockwise, walks 5 km, then turns 90° anti-clockwise and walks 3 km. She is now facing:
+A) North
+B) South
+C) East
+D) West
+Answer: A) North
+
+--------------------------------------------------------------------------------
+Q50. A person walks 5 km North, then turns to face East and walks 12 km. Straight-line distance from origin?
+A) 13 km
+B) 17 km
+C) 12 km
+D) 7 km
+Answer: A) 13 km
+
+--------------------------------------------------------------------------------
+Q51. Sanjay stands facing South. He turns 225° clockwise. Which direction does he face?
+A) North-West
+B) South-East
+C) North-East
+D) East
+Answer: C) North-East
+
+--------------------------------------------------------------------------------
+Q52. From point P, Ram walks 10 m South, then 10 m East, then 10 m North. He is now __ from P.
+A) 10 m East
+B) 10 m West
+C) 0 m
+D) 10 m South
+Answer: A) 10 m East
+
+--------------------------------------------------------------------------------
+Q53. A train starts from station A going East, travels 40 km, turns North and travels 30 km. Shortest distance from A?
+A) 50 km
+B) 70 km
+C) 40 km
+D) 30 km
+Answer: A) 50 km
+
+--------------------------------------------------------------------------------
+Q54. If East becomes North, what does South-West become?
+A) North-West
+B) South-East
+C) North-East
+D) South-West
+Answer: A) North-West
+
+--------------------------------------------------------------------------------
+Q55. Radha faces South-East. She turns 270° anti-clockwise. She now faces:
+A) North-East
+B) South-West
+C) North-West
+D) South-East
+Answer: A) North-East
+
+--------------------------------------------------------------------------------
+Q56. A soldier marches 5 km North, 4 km East, 3 km South. His displacement from start?
+A) √20 km, North-East
+B) 5 km North
+C) 4 km East
+D) 8 km
+Answer: A) √20 km, North-East
+
+--------------------------------------------------------------------------------
+Q57. Sunil faces North. Turns 90° Right, then 90° Right again, then 45° Left. He now faces:
+A) South-East
+B) North-East
+C) South-West
+D) West
+Answer: C) South-West
+
+--------------------------------------------------------------------------------
+Q58. A person walks 6 km East, 8 km North, 6 km West. His displacement from origin?
+A) 8 km North
+B) 12 km East
+C) 6 km West
+D) 0 km
+Answer: A) 8 km North
+
+--------------------------------------------------------------------------------
+Q59. Rita walks 5 km East, turns Right and walks 4 km, turns Right and walks 5 km. She is now how far from origin?
+A) 4 km South
+B) 5 km East
+C) 4 km North
+D) 0 km
+Answer: A) 4 km South
+
+--------------------------------------------------------------------------------
+Q60. Starting North, a person turns 45° clockwise 6 times. Direction now?
+A) South-East
+B) West
+C) South-West
+D) North-East
+Answer: C) South-West
+
+--------------------------------------------------------------------------------
+Q61. Anil walks 7 km West, 24 km North. What is his minimum distance from start?
+A) 25 km
+B) 31 km
+C) 24 km
+D) 17 km
+Answer: A) 25 km
+
+--------------------------------------------------------------------------------
+Q62. A car faces East, turns Left and goes 3 km, turns Left again and goes 4 km. The car is now facing:
+A) East
+B) West
+C) South
+D) North
+Answer: A) East
+
+--------------------------------------------------------------------------------
+Q63. Facing North-West, a person turns 45° clockwise. He now faces:
+A) North
+B) West
+C) North-East
+D) South-West
+Answer: A) North
+
+--------------------------------------------------------------------------------
+Q64. Pradeep walks 20 m North, 15 m East, 20 m South, 15 m West. Where is he?
+A) Starting point
+B) 30 m North
+C) 15 m East
+D) 20 m West
+Answer: A) Starting point
+
+--------------------------------------------------------------------------------
+Q65. A man faces East. He turns 45° anti-clockwise 3 times. He now faces:
+A) North-West
+B) North-East
+C) South-West
+D) West
+Answer: A) North-West
+
+--------------------------------------------------------------------------------
+Q66. Starting South, a person takes 4 Right turns and 2 Left turns. Direction faced?
+A) South
+B) North
+C) East
+D) West
+Answer: A) South
+
+--------------------------------------------------------------------------------
+Q67. Renu walks 16 km North, then turns East and walks 12 km. How far from start?
+A) 20 km
+B) 28 km
+C) 16 km
+D) 12 km
+Answer: A) 20 km
+
+--------------------------------------------------------------------------------
+Q68. A car travels North 3 km, East 4 km, South 3 km, West 2 km. It is now __ from starting.
+A) 2 km East
+B) 4 km East
+C) 2 km West
+D) 0 km
+Answer: A) 2 km East
+
+--------------------------------------------------------------------------------
+Q69. Facing West, a man turns 225° clockwise. Direction now?
+A) North-East
+B) South-East
+C) South-West
+D) North-West
+Answer: A) North-East
+
+--------------------------------------------------------------------------------
+Q70. Sheela walks 4 km North-East, then turns 90° Right and walks 4 km. She is now facing?
+A) South-East
+B) North-West
+C) North-East
+D) South-West
+Answer: A) South-East
+
+--------------------------------------------------------------------------------
+Q71. A watchman walks 10 km East and 10 km South. Straight-line distance from origin?
+A) 10√2 km
+B) 20 km
+C) 10 km
+D) 15 km
+Answer: A) 10√2 km
+
+--------------------------------------------------------------------------------
+Q72. Starting at origin facing South, person walks 5 km, turns Right, walks 5 km, turns Right, walks 5 km. He is now __ from origin.
+A) 5 km East
+B) 5 km North
+C) 5 km West
+D) 0 km
+Answer: A) 5 km East
+
+--------------------------------------------------------------------------------
+Q73. Facing North-East, a person turns 180°. He now faces:
+A) South-West
+B) South-East
+C) North-West
+D) West
+Answer: A) South-West
+
+--------------------------------------------------------------------------------
+Q74. A man walks 1 km North, 2 km East, 1 km South, 1 km East. Total displacement from start?
+A) 3 km East
+B) 5 km
+C) 3 km
+D) 2 km
+Answer: A) 3 km East
+
+--------------------------------------------------------------------------------
+Q75. Kamla faces South-West. Turns 90° anti-clockwise. She now faces:
+A) South-East
+B) North-West
+C) North-East
+D) East
+Answer: A) South-East
+
+--------------------------------------------------------------------------------
+Q76. A man at P walks 5 km West to Q, then 12 km North to R. Distance PR?
+A) 13 km
+B) 17 km
+C) 7 km
+D) 12 km
+Answer: A) 13 km
+
+--------------------------------------------------------------------------------
+Q77. Facing East, turn 90° clockwise twice. Direction now?
+A) West
+B) East
+C) North
+D) South
+Answer: A) West
+
+--------------------------------------------------------------------------------
+Q78. A person walks 30 m East, turns North and walks 40 m. He then turns West and walks 30 m. Displacement?
+A) 40 m North
+B) 30 m West
+C) 50 m North-East
+D) 0 m
+Answer: A) 40 m North
+
+--------------------------------------------------------------------------------
+Q79. A man walks 50 m North, 30 m East, 50 m South, 10 m West. Displacement from start?
+A) 20 m East
+B) 30 m East
+C) 10 m West
+D) 0 m
+Answer: A) 20 m East
+
+--------------------------------------------------------------------------------
+Q80. Facing South, a person turns 45° clockwise 5 times. Direction now?
+A) North-West
+B) South-East
+C) North-East
+D) West
+Answer: C) North-East
+
+--------------------------------------------------------------------------------
+Q81. A girl starts at O, walks 6 km East to A, then 8 km South to B. OB = ?
+A) 10 km
+B) 14 km
+C) 6 km
+D) 8 km
+Answer: A) 10 km
+
+--------------------------------------------------------------------------------
+Q82. Person walks 20 m North, turns Right, walks 20 m, turns Right, walks 20 m. From start, distance and direction?
+A) 20 m West
+B) 20 m East
+C) 20 m North
+D) 0 m
+Answer: A) 20 m West
+
+--------------------------------------------------------------------------------
+Q83. A man faces East. Turns Left. Walks. Turns Right. Walks. Turns Right. He is now facing?
+A) East
+B) West
+C) South
+D) North
+Answer: A) East
+
+--------------------------------------------------------------------------------
+Q84. Starting from home facing North, a boy turns Left, Left, Right. He is now facing?
+A) East
+B) West
+C) North
+D) South
+Answer: D) South
+
+--------------------------------------------------------------------------------
+Q85. From school, Vikrant walks 4 km South, then 3 km East, then 4 km North. He is now from school?
+A) 3 km East
+B) 4 km North
+C) 5 km North-East
+D) 3 km West
+Answer: A) 3 km East
+
+--------------------------------------------------------------------------------
+Q86. A person moves 4 km South, turns 90° anti-clockwise and walks 4 km. Displacement from origin?
+A) 4√2 km, South-East
+B) 8 km
+C) 4 km South
+D) 4 km East
+Answer: A) 4√2 km, South-East
+
+--------------------------------------------------------------------------------
+Q87. Facing North-West, a person turns 135° clockwise. He now faces:
+A) East
+B) West
+C) South
+D) North
+Answer: C) South
+
+--------------------------------------------------------------------------------
+Q88. A man starts facing East. After five 90° clockwise turns, which direction?
+A) North
+B) South
+C) East
+D) West
+Answer: A) North
+
+--------------------------------------------------------------------------------
+Q89. Yusuf walks 10 km North-East, then turns to face South-East and walks 10 km. He is now how far from start?
+A) 10√2 km
+B) 20 km
+C) 10 km
+D) 0 km
+Answer: A) 10√2 km
+
+--------------------------------------------------------------------------------
+Q90. A person walks 100 m West, 75 m South, 100 m East. Displacement from start?
+A) 75 m South
+B) 100 m East
+C) 175 m
+D) 0 m
+Answer: A) 75 m South
+
+--------------------------------------------------------------------------------
+Q91. Rani faces South. Turns 135° anti-clockwise. She now faces:
+A) North-East
+B) South-East
+C) North-West
+D) East
+Answer: C) North-West
+
+--------------------------------------------------------------------------------
+Q92. A man walks 8 km East, 6 km North, 8 km West, 6 km South. He is now at?
+A) Starting point
+B) 16 km East
+C) 12 km North
+D) 6 km West
+Answer: A) Starting point
+
+--------------------------------------------------------------------------------
+Q93. From city A to B is 50 km East. From B, north 120 km to C. Straight line A to C?
+A) 130 km
+B) 170 km
+C) 70 km
+D) 120 km
+Answer: A) 130 km
+
+--------------------------------------------------------------------------------
+Q94. A man faces West. He turns 45° anti-clockwise 3 times. He now faces?
+A) South-East
+B) North-East
+C) North-West
+D) South-West
+Answer: A) South-East
+
+--------------------------------------------------------------------------------
+Q95. Starting North-East, a person turns 135° anti-clockwise. He faces?
+A) West
+B) East
+C) North
+D) South
+Answer: C) North
+
+--------------------------------------------------------------------------------
+Q96. A cycle goes 20 km North, 15 km East, 20 km South. Displacement from start?
+A) 15 km East
+B) 20 km North
+C) 35 km
+D) 0 km
+Answer: A) 15 km East
+
+--------------------------------------------------------------------------------
+Q97. Facing South-East, turning 225° clockwise. Direction now?
+A) North
+B) South
+C) West
+D) East
+Answer: A) North
+
+--------------------------------------------------------------------------------
+Q98. A man walks 5 km East, 4 km North-East. He is now in which direction from start?
+A) North-East
+B) East
+C) North
+D) South-East
+Answer: A) North-East
+
+--------------------------------------------------------------------------------
+Q99. Ram walks 9 km North, 12 km East. Straight-line distance from origin?
+A) 15 km
+B) 21 km
+C) 13 km
+D) 9 km
+Answer: A) 15 km
+
+--------------------------------------------------------------------------------
+Q100. Starting from origin facing North, a man turns 315° clockwise. He now faces?
+A) North-West
+B) North-East
+C) South-West
+D) West
+Answer: D) West
+
+================================================================================
+END OF TOPIC 1 - DIRECTION SENSE (100 Questions)
+================================================================================
