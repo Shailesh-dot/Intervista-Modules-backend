@@ -125,12 +125,12 @@ def get_test_lookup(test_code: str, db: Session = Depends(get_db)):
         LEFT JOIN coding_mappings cm ON tm.id = cm.test_mapping_id
         LEFT JOIN verbal_mappings vm ON tm.id = vm.test_mapping_id
         LEFT JOIN ai_interview_mappings im ON tm.id = im.test_mapping_id
-        WHERE LOWER(t.test_code) = LOWER(:test_code)
+        WHERE LOWER(t.test_id) = LOWER(:test_code) OR LOWER(t.test_code) = LOWER(:test_code)
     """)
 
     result = db.execute(query, {"test_code": test_code.strip()}).first()
     if not result:
-        raise HTTPException(status_code=404, detail="Test code not found")
+        raise HTTPException(status_code=404, detail="Test not found")
 
     def parse_json_field(val):
         if val is None:

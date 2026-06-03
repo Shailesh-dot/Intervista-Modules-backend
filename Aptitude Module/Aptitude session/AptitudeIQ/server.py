@@ -280,4 +280,4 @@ def serve_react(path):
 if __name__ == "__main__":
     print("\n[START] AptitudeIQ (Supabase Cloud Only) -> http://localhost:5000\n")
     load_json_to_db(reset=False)
-    app.run(debug=True, use_reloader=False, port=5000)
+    app.run(debug=True, use_reloader=False, host="0.0.0.0", port=5000)

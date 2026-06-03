@@ -18,6 +18,7 @@ Usage:
   python api_bridge_monitor.py
 """
 
+import os
 import cv2
 import time
 import threading
@@ -173,7 +174,7 @@ def _tint(frame, color, alpha=0.08):
 # ─── Camera source: read from Port 8004's MJPEG stream ──────────────────────
 # This avoids camera hardware conflict — Port 8004 owns the physical camera;
 # Port 8005 reads the already-captured frames from its HTTP stream.
-FACE_STREAM_URL = "http://localhost:8004/video_feed"
+FACE_STREAM_URL = os.environ.get("FACE_STREAM_URL", "http://localhost:8004/video_feed")
 
 # ─── Background Monitoring Loop ───────────────────────────────────────────────
 

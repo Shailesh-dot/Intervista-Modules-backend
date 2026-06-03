@@ -113,4 +113,5 @@ def debug_portal():
 
 if __name__ == "__main__":
     import uvicorn
+    # Trigger uvicorn reload to pick up new .env config
     uvicorn.run("main:app", host="0.0.0.0", port=8001, reload=True)
