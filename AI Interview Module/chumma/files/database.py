@@ -78,9 +78,9 @@ def save_interview_session(
                         None,
                     ),
                 )
-        log.info("DB ✅ interview_sessions saved for session %s", session_id)
+        log.info("DB [OK] interview_sessions saved for session %s", session_id)
     except Exception:
-        log.error("DB ❌ Failed to save interview_session %s:\n%s", session_id, traceback.format_exc())
+        log.error("DB [ERROR] Failed to save interview_session %s:\n%s", session_id, traceback.format_exc())
 
 
 def save_candidate_profile(
@@ -124,9 +124,9 @@ def save_candidate_profile(
                         json.dumps(additional_information),
                     ),
                 )
-        log.info("DB ✅ candidate_profiles saved for session %s", session_id)
+        log.info("DB [OK] candidate_profiles saved for session %s", session_id)
     except Exception:
-        log.error("DB ❌ Failed to save candidate_profile %s:\n%s", session_id, traceback.format_exc())
+        log.error("DB [ERROR] Failed to save candidate_profile %s:\n%s", session_id, traceback.format_exc())
 
 
 def save_questions_and_ideal_answers(
@@ -177,9 +177,9 @@ def save_questions_and_ideal_answers(
                             (q_uuid, ideal_text),
                         )
 
-        log.info("DB ✅ questions + ideal_answers saved for session %s (%d questions)", session_id, len(questions))
+        log.info("DB [OK] questions + ideal_answers saved for session %s (%d questions)", session_id, len(questions))
     except Exception:
-        log.error("DB ❌ Failed to save questions for session %s:\n%s", session_id, traceback.format_exc())
+        log.error("DB [ERROR] Failed to save questions for session %s:\n%s", session_id, traceback.format_exc())
 
     return ordinal_to_uuid
 
@@ -197,7 +197,7 @@ def save_answer_evaluations(
                 for r in results:
                     q_uuid = ordinal_to_uuid.get(r.question_id)
                     if not q_uuid:
-                        log.warning("DB ⚠️  No UUID found for ordinal question_id=%s, skipping.", r.question_id)
+                        log.warning("DB [WARNING] No UUID found for ordinal question_id=%s, skipping.", r.question_id)
                         continue
                     cur.execute(
                         """
@@ -219,9 +219,9 @@ def save_answer_evaluations(
                             r.badge,
                         ),
                     )
-        log.info("DB ✅ answer_evaluations saved for session %s (%d rows)", session_id, len(results))
+        log.info("DB [OK] answer_evaluations saved for session %s (%d rows)", session_id, len(results))
     except Exception:
-        log.error("DB ❌ Failed to save answer_evaluations for session %s:\n%s", session_id, traceback.format_exc())
+        log.error("DB [ERROR] Failed to save answer_evaluations for session %s:\n%s", session_id, traceback.format_exc())
 
 
 def save_interview_result(
@@ -251,9 +251,9 @@ def save_interview_result(
                     """,
                     (session_id, total_score, max_score, percentage, grade, summary),
                 )
-        log.info("DB ✅ interview_results saved for session %s", session_id)
+        log.info("DB [OK] interview_results saved for session %s", session_id)
     except Exception:
-        log.error("DB ❌ Failed to save interview_result for session %s:\n%s", session_id, traceback.format_exc())
+        log.error("DB [ERROR] Failed to save interview_result for session %s:\n%s", session_id, traceback.format_exc())
 
 
 def mark_session_submitted(*, session_id: str, submitted_at: str) -> None:
@@ -269,9 +269,9 @@ def mark_session_submitted(*, session_id: str, submitted_at: str) -> None:
                     """,
                     (_parse_dt(submitted_at), session_id),
                 )
-        log.info("DB ✅ interview_sessions marked submitted for session %s", session_id)
+        log.info("DB [OK] interview_sessions marked submitted for session %s", session_id)
     except Exception:
-        log.error("DB ❌ Failed to mark session submitted %s:\n%s", session_id, traceback.format_exc())
+        log.error("DB [ERROR] Failed to mark session submitted %s:\n%s", session_id, traceback.format_exc())
 
 
 # ── Private helpers ───────────────────────────────────────────────────────────────

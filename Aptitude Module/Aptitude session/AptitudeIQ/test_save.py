@@ -3,7 +3,7 @@ import json
 from db import get_connection
 
 # Get one question from the API
-req = urllib.request.urlopen('http://localhost:5000/api/questions')
+req = urllib.request.urlopen('http://localhost:5002/api/questions')
 qs = json.loads(req.read())
 q1 = qs[0]
 
@@ -15,7 +15,7 @@ payload = json.dumps({
     ]
 }).encode('utf-8')
 
-req = urllib.request.Request('http://localhost:5000/api/save', data=payload, headers={'Content-Type': 'application/json'}, method='POST')
+req = urllib.request.Request('http://localhost:5002/api/save', data=payload, headers={'Content-Type': 'application/json'}, method='POST')
 res = urllib.request.urlopen(req)
 print('Save response:', json.loads(res.read()))
 

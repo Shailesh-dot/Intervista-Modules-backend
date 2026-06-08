@@ -9558,22 +9558,22 @@
   {
     "question": "Find the next number: 1, 3, 6, 10, 15, __ Differences: 3 - 1 = 2, 6 - 3 = 3, 10 - 6 = 4, 15 - 10 = 5. Differences increase by 1. Next difference = 6. Next: 15 + 6 = 21.",
     "options": {
-      "A": "40",
-      "B": "21",
-      "C": "144",
-      "D": "391"
+      "A": "720",
+      "B": "144",
+      "C": "86",
+      "D": "21"
     },
-    "answer": "B",
+    "answer": "D",
     "category": "Number Sequence Questions (1–20)",
     "source": "sandy.md"
   },
   {
     "question": "Find the next number: 2, 5, 11, 23, 47, __ Each number is obtained by doubling the previous and adding 1: 2 × 2 + 1 = 5, 5 × 2 + 1 = 11, 11 × 2 + 1 = 23, 23 × 2 + 1 = 47. Next: 47 × 2 + 1 = 95.",
     "options": {
-      "A": "289",
-      "B": "720",
+      "A": "1373",
+      "B": "48",
       "C": "95",
-      "D": "67"
+      "D": "244"
     },
     "answer": "C",
     "category": "Number Sequence Questions (1–20)",
@@ -9582,36 +9582,36 @@
   {
     "question": "Find the next number: 1, 4, 10, 22, 46, __ Each number is obtained by doubling the previous and adding a sequence of 2, 2, 2, 2, ...: 1 × 2 + 2 = 4, 4 × 2 + 2 = 10, 10 × 2 + 2 = 22, 22 × 2 + 2 = 46. Next: 46 × 2 + 2 = 94.",
     "options": {
-      "A": "391",
-      "B": "63",
-      "C": "94",
-      "D": "144"
+      "A": "94",
+      "B": "289",
+      "C": "67",
+      "D": "110"
     },
-    "answer": "C",
+    "answer": "A",
     "category": "Number Sequence Questions (1–20)",
     "source": "sandy.md"
   },
   {
     "question": "Find the next number: 3, 6, 12, 21, 33, __ Differences: 3, 6, 9, 12. Differences increase by 3. Next difference = 15. Next: 33 + 15 = 48.",
     "options": {
-      "A": "76",
-      "B": "63",
-      "C": "110",
-      "D": "48"
+      "A": "48",
+      "B": "76",
+      "C": "391",
+      "D": "720"
     },
-    "answer": "D",
+    "answer": "A",
     "category": "Number Sequence Questions (1–20)",
     "source": "sandy.md"
   },
   {
     "question": "Find the next number: 2, 8, 18, 32, 50, __ Numbers follow: 1² + 1, 2² + 4, 3² + 9, 4² + 16, 5² + 25. Next: 6² + 36 = 36 + 36 = 72.",
     "options": {
-      "A": "86",
-      "B": "72",
-      "C": "67",
-      "D": "720"
+      "A": "63",
+      "B": "94",
+      "C": "60",
+      "D": "72"
     },
-    "answer": "B",
+    "answer": "D",
     "category": "Number Sequence Questions (1–20)",
     "source": "sandy.md"
   },
@@ -9619,9 +9619,9 @@
     "question": "Find the next number: 100, 96, 88, 76, 60, __ Differences: -4, -8, -12, -16. Differences decrease by 4. Next difference = -20. Next: 60 - 20 = 40.",
     "options": {
       "A": "40",
-      "B": "110",
-      "C": "48",
-      "D": "86"
+      "B": "63",
+      "C": "289",
+      "D": "72"
     },
     "answer": "A",
     "category": "Number Sequence Questions (1–20)",
@@ -9631,9 +9631,9 @@
     "question": "Find the next number: 1, 2, 6, 24, 120, __ Each number is multiplied by increasing integers: 1 × 1 = 1, 1 × 2 = 2, 2 × 3 = 6, 6 × 4 = 24, 24 × 5 = 120. Next: 120 × 6 = 720.",
     "options": {
       "A": "720",
-      "B": "63",
-      "C": "244",
-      "D": "72"
+      "B": "60",
+      "C": "40",
+      "D": "67"
     },
     "answer": "A",
     "category": "Number Sequence Questions (1–20)",
@@ -9642,34 +9642,34 @@
   {
     "question": "Find the next number: 5, 7, 11, 19, 35, __ Each number is obtained by adding increasing primes: 5 + 2 = 7, 7 + 4 = 11, 11 + 8 = 19, 19 + 16 = 35. Next prime = 5 (doubled: 32). Next: 35 + 32 = 67.",
     "options": {
-      "A": "1373",
-      "B": "67",
-      "C": "48",
-      "D": "40"
-    },
-    "answer": "B",
-    "category": "Number Sequence Questions (1–20)",
-    "source": "sandy.md"
-  },
-  {
-    "question": "Find the next number: 4, 9, 25, 64, 144, __ Numbers are: 2², 3², 5², 8², 12². Bases: 2, 3, 5, 8, 12. Differences: 1, 2, 3, 4. Next base = 12 + 5 = 17. Next: 17² = 289.",
-    "options": {
-      "A": "289",
-      "B": "94",
-      "C": "60",
-      "D": "67"
+      "A": "67",
+      "B": "720",
+      "C": "40",
+      "D": "144"
     },
     "answer": "A",
     "category": "Number Sequence Questions (1–20)",
     "source": "sandy.md"
   },
   {
+    "question": "Find the next number: 4, 9, 25, 64, 144, __ Numbers are: 2², 3², 5², 8², 12². Bases: 2, 3, 5, 8, 12. Differences: 1, 2, 3, 4. Next base = 12 + 5 = 17. Next: 17² = 289.",
+    "options": {
+      "A": "63",
+      "B": "86",
+      "C": "289",
+      "D": "1373"
+    },
+    "answer": "C",
+    "category": "Number Sequence Questions (1–20)",
+    "source": "sandy.md"
+  },
+  {
     "question": "Find the next number: 1, 5, 14, 30, 54, __ Differences: 4, 9, 16, 24. Second differences: 5, 7, 8. Next second difference ≈ 8. Next difference = 24 + 8 = 32. Next: 54 + 32 = 86.",
     "options": {
-      "A": "391",
+      "A": "289",
       "B": "108",
       "C": "86",
-      "D": "72"
+      "D": "110"
     },
     "answer": "C",
     "category": "Number Sequence Questions (1–20)",
@@ -9678,9 +9678,9 @@
   {
     "question": "Find the next number: 3, 12, 27, 48, 75, __ Numbers are: 1 × 3, 2 × 6, 3 × 9, 4 × 12, 5 × 15. Multipliers: 3, 6, 9, 12, 15 (+3). Next: 6 × 18 = 108.",
     "options": {
-      "A": "40",
-      "B": "60",
-      "C": "86",
+      "A": "289",
+      "B": "27",
+      "C": "1373",
       "D": "108"
     },
     "answer": "D",
@@ -9690,69 +9690,69 @@
   {
     "question": "Find the next number: 2, 3, 7, 22, 78, __ Each number is obtained by multiplying by increasing integers and adding 1: 2 × 1 + 1 = 3, 3 × 2 + 1 = 7, 7 × 3 + 1 = 22, 22 × 4 + 1 = 89. Next: 78 × 5 + 1 = 391.",
     "options": {
-      "A": "63",
-      "B": "48",
-      "C": "108",
-      "D": "391"
+      "A": "289",
+      "B": "391",
+      "C": "48",
+      "D": "72"
     },
-    "answer": "D",
+    "answer": "B",
     "category": "Number Sequence Questions (1–20)",
     "source": "sandy.md"
   },
   {
     "question": "Find the next number: 10, 20, 35, 55, 80, __ Differences: 10, 15, 20, 25. Differences increase by 5. Next difference = 30. Next: 80 + 30 = 110.",
     "options": {
-      "A": "1373",
-      "B": "720",
-      "C": "94",
-      "D": "110"
-    },
-    "answer": "D",
-    "category": "Number Sequence Questions (1–20)",
-    "source": "sandy.md"
-  },
-  {
-    "question": "Find the next number: 1, 6, 16, 31, 51, __ Differences: 5, 10, 15, 20. Differences increase by 5. Next difference = 25. Next: 51 + 25 = 76.",
-    "options": {
-      "A": "108",
-      "B": "21",
-      "C": "76",
-      "D": "27"
-    },
-    "answer": "C",
-    "category": "Number Sequence Questions (1–20)",
-    "source": "sandy.md"
-  },
-  {
-    "question": "Find the next number: 4, 16, 36, 64, 100, __ Numbers are: 2², 4², 6², 8², 10². Next: 12² = 144.",
-    "options": {
-      "A": "144",
-      "B": "63",
-      "C": "40",
-      "D": "67"
+      "A": "110",
+      "B": "40",
+      "C": "720",
+      "D": "76"
     },
     "answer": "A",
     "category": "Number Sequence Questions (1–20)",
     "source": "sandy.md"
   },
   {
+    "question": "Find the next number: 1, 6, 16, 31, 51, __ Differences: 5, 10, 15, 20. Differences increase by 5. Next difference = 25. Next: 51 + 25 = 76.",
+    "options": {
+      "A": "244",
+      "B": "76",
+      "C": "95",
+      "D": "289"
+    },
+    "answer": "B",
+    "category": "Number Sequence Questions (1–20)",
+    "source": "sandy.md"
+  },
+  {
+    "question": "Find the next number: 4, 16, 36, 64, 100, __ Numbers are: 2², 4², 6², 8², 10². Next: 12² = 144.",
+    "options": {
+      "A": "110",
+      "B": "144",
+      "C": "94",
+      "D": "86"
+    },
+    "answer": "B",
+    "category": "Number Sequence Questions (1–20)",
+    "source": "sandy.md"
+  },
+  {
     "question": "Find the next number: 2, 4, 10, 28, 82, __ Each number is obtained by multiplying by 3 and subtracting 2: 2 × 3 - 2 = 4, 4 × 3 - 2 = 10, 10 × 3 - 2 = 28, 28 × 3 - 2 = 82. Next: 82 × 3 - 2 = 244.",
     "options": {
-      "A": "40",
-      "B": "72",
-      "C": "244",
-      "D": "76"
+      "A": "27",
+      "B": "67",
+      "C": "1373",
+      "D": "244"
     },
-    "answer": "C",
+    "answer": "D",
     "category": "Number Sequence Questions (1–20)",
     "source": "sandy.md"
   },
   {
     "question": "Find the next number: 1, 3, 7, 15, 31, __ Each number is doubled and increased by 1: 1 × 2 + 1 = 3, 3 × 2 + 1 = 7, 7 × 2 + 1 = 15, 15 × 2 + 1 = 31. Next: 31 × 2 + 1 = 63.",
     "options": {
-      "A": "144",
-      "B": "94",
-      "C": "1373",
+      "A": "1373",
+      "B": "48",
+      "C": "72",
       "D": "63"
     },
     "answer": "D",
@@ -9762,60 +9762,60 @@
   {
     "question": "Find the next number: 5, 10, 25, 80, 305, __ Each number is multiplied by increasing factors: 5 × 2 = 10, 10 × 2.5 = 25, 25 × 3.2 = 80, 80 × 3.8125 = 305. Next factor ≈ 4.5. Next: 305 × 4.5 = 1372.5 ≈ 1373.",
     "options": {
-      "A": "60",
-      "B": "1373",
-      "C": "289",
+      "A": "1373",
+      "B": "60",
+      "C": "63",
       "D": "110"
     },
-    "answer": "B",
+    "answer": "A",
     "category": "Number Sequence Questions (1–20)",
     "source": "sandy.md"
   },
   {
     "question": "Find the next number: 2, 5, 9, 14, 20, __ Differences: 3, 4, 5, 6. Differences increase by 1. Next difference = 7. Next: 20 + 7 = 27.",
     "options": {
-      "A": "63",
-      "B": "60",
-      "C": "1373",
-      "D": "27"
+      "A": "40",
+      "B": "108",
+      "C": "27",
+      "D": "67"
     },
-    "answer": "D",
+    "answer": "C",
     "category": "Number Sequence Questions (1–20)",
     "source": "sandy.md"
   },
   {
     "question": "Find the next number: 100, 98, 93, 85, 74, __ Differences: -2, -5, -8, -11. Differences decrease by 3. Next difference = -14. Next: 74 - 14 = 60.",
     "options": {
-      "A": "27",
-      "B": "60",
-      "C": "144",
-      "D": "244"
+      "A": "1373",
+      "B": "95",
+      "C": "60",
+      "D": "391"
     },
-    "answer": "B",
+    "answer": "C",
     "category": "Number Sequence Questions (1–20)",
     "source": "sandy.md"
   },
   {
     "question": "A square rotates 90° clockwise and adds one small square inside each step: 1, 2, 3, __. What is the next number of small squares? Small squares increase by 1: 1, 2, 3. Next: 3 + 1 = 4.",
     "options": {
-      "A": "24 sides, 120° clockwise",
-      "B": "Octagon, 288° anticlockwise",
-      "C": "16×4",
-      "D": "4 small squares"
+      "A": "Circle, Red",
+      "B": "4 small squares",
+      "C": "11-gon, 144° clockwise",
+      "D": "Star, Filled"
     },
-    "answer": "D",
+    "answer": "B",
     "category": "Shape Pattern Questions (21–40)",
     "source": "sandy.md"
   },
   {
     "question": "A triangle alternates colors (Red, Blue) and rotates 120° clockwise. After three steps, what is the color and rotation? Colors: Red, Blue, Red. Rotation: 120° × 3 = 360° = 0°.",
     "options": {
-      "A": "Triangle, Red",
-      "B": "16×4",
-      "C": "32 sectors, 90° clockwise",
-      "D": "Red, 0° rotation"
+      "A": "Circle, Red",
+      "B": "Empty, 8 circles",
+      "C": "Red, 0° rotation",
+      "D": "Nonagon, 240° anticlockwise"
     },
-    "answer": "D",
+    "answer": "C",
     "category": "Shape Pattern Questions (21–40)",
     "source": "sandy.md"
   },
@@ -9824,8 +9824,8 @@
     "options": {
       "A": "Empty, 8 circles",
       "B": "4 small squares",
-      "C": "16×0.5",
-      "D": "11-gon, 144° clockwise"
+      "C": "Star, Filled",
+      "D": "Triangle, Red"
     },
     "answer": "A",
     "category": "Shape Pattern Questions (21–40)",
@@ -9834,33 +9834,33 @@
   {
     "question": "A pentagon increases sides by 1 and rotates 72° anticlockwise each step: Pentagon, Hexagon, Heptagon, __. What is the next shape and rotation? Sides: 5, 6, 7, 8 (Octagon). Rotation: 72° × 4 = 288° anticlockwise.",
     "options": {
-      "A": "8×8, 180° clockwise",
-      "B": "4 small squares",
-      "C": "Octagon, 288° anticlockwise",
-      "D": "Triangle, Red"
+      "A": "11-gon, 144° clockwise",
+      "B": "Nonagon, 240° anticlockwise",
+      "C": "r=8, 180° anticlockwise",
+      "D": "Octagon, 288° anticlockwise"
     },
-    "answer": "C",
+    "answer": "D",
     "category": "Shape Pattern Questions (21–40)",
     "source": "sandy.md"
   },
   {
     "question": "A sequence alternates shapes and colors: Circle (Red), Square (Blue), Circle (Red), Square (Blue), __. What is the next shape and color? Pattern alternates: Circle (Red), Square (Blue). Next: Circle (Red).",
     "options": {
-      "A": "Square, Green",
-      "B": "Circle, Red",
-      "C": "Octagon, 288° anticlockwise",
-      "D": "Red, 0° rotation"
+      "A": "4 squares, Blue",
+      "B": "4 triangles, Empty",
+      "C": "Circle, Red",
+      "D": "Nonagon, 240° anticlockwise"
     },
-    "answer": "B",
+    "answer": "C",
     "category": "Shape Pattern Questions (21–40)",
     "source": "sandy.md"
   },
   {
     "question": "A rectangle doubles length and halves width: 2×4, 4×2, 8×1, __. What is the next rectangle? Length: 2, 4, 8, 16. Width: 4, 2, 1, 0.5. Next: 16×0.5.",
     "options": {
-      "A": "Square, Green",
-      "B": "Circle, Red",
-      "C": "32 sectors, 90° clockwise",
+      "A": "11-gon, 144° clockwise",
+      "B": "16×4",
+      "C": "4 triangles, Empty",
       "D": "16×0.5"
     },
     "answer": "D",
@@ -9870,130 +9870,130 @@
   {
     "question": "A sequence of triangles adds one and alternates fill: 1 (Filled), 2 (Empty), 3 (Filled), __. What is the next number and state? Number: 1, 2, 3, 4. Fill alternates: Filled, Empty, Filled, Empty.",
     "options": {
-      "A": "4 triangles, Empty",
-      "B": "16×0.5",
-      "C": "Red, 0° rotation",
-      "D": "Octagon, 288° anticlockwise"
+      "A": "Empty, 8 circles",
+      "B": "4 triangles, Empty",
+      "C": "Nonagon, 240° anticlockwise",
+      "D": "Triangle, Red"
     },
-    "answer": "A",
+    "answer": "B",
     "category": "Shape Pattern Questions (21–40)",
     "source": "sandy.md"
   },
   {
     "question": "A square increases side length by 2 and rotates 45° clockwise: 2×2, 4×4, 6×6, __. What is the next square and rotation? Side: 2, 4, 6, 8. Rotation: 45°, 90°, 135°, 180°.",
     "options": {
-      "A": "24 sides, 120° clockwise",
-      "B": "11-gon, 144° clockwise",
-      "C": "Empty, 8 circles",
-      "D": "8×8, 180° clockwise"
-    },
-    "answer": "D",
-    "category": "Shape Pattern Questions (21–40)",
-    "source": "sandy.md"
-  },
-  {
-    "question": "A sequence cycles colors (Red, Blue, Green) and shapes (Circle, Square): Circle (Red), Square (Blue), Circle (Green), Square (Red), Circle (Blue), __. What is the next shape and color? Shapes alternate: Circle, Square. Colors cycle: Red, Blue, Green. Next: Square (Green).",
-    "options": {
-      "A": "16×0.5",
-      "B": "11-gon, 144° clockwise",
-      "C": "Triangle, Empty",
-      "D": "Square, Green"
-    },
-    "answer": "D",
-    "category": "Shape Pattern Questions (21–40)",
-    "source": "sandy.md"
-  },
-  {
-    "question": "A circle is divided into sectors: 2, 4, 8, 16, __. What is the next number, and if it rotates 90° clockwise per step, what is the rotation? Sectors double: 2, 4, 8, 16, 32. Rotation: 90° × 5 = 450° = 90°.",
-    "options": {
       "A": "Triangle, Empty",
-      "B": "16×4",
-      "C": "Nonagon, 240° anticlockwise",
-      "D": "32 sectors, 90° clockwise"
-    },
-    "answer": "D",
-    "category": "Shape Pattern Questions (21–40)",
-    "source": "sandy.md"
-  },
-  {
-    "question": "A sequence alternates shapes: Star (Filled), Circle (Empty), Star (Filled), Circle (Empty), __. What is the next shape and state? Pattern alternates: Star (Filled), Circle (Empty). Next: Star (Filled).",
-    "options": {
-      "A": "r=8, 180° anticlockwise",
-      "B": "Star, Filled",
-      "C": "4 triangles, Empty",
-      "D": "Empty, 8 circles"
-    },
-    "answer": "B",
-    "category": "Shape Pattern Questions (21–40)",
-    "source": "sandy.md"
-  },
-  {
-    "question": "A hexagon rotates 60° anticlockwise and adds one side: Hexagon, Heptagon, Octagon, __. What is the next shape and rotation? Sides: 6, 7, 8, 9 (Nonagon). Rotation: 60° × 4 = 240° anticlockwise.",
-    "options": {
-      "A": "16×0.5",
-      "B": "4 squares, Blue",
-      "C": "4 triangles, Empty",
-      "D": "Nonagon, 240° anticlockwise"
-    },
-    "answer": "D",
-    "category": "Shape Pattern Questions (21–40)",
-    "source": "sandy.md"
-  },
-  {
-    "question": "A sequence of squares adds 1 small square and alternates colors: 1 (Red), 2 (Blue), 3 (Red), __. What is the next number and color? Squares: 1, 2, 3, 4. Colors alternate: Red, Blue, Red, Blue.",
-    "options": {
-      "A": "16×0.5",
-      "B": "Octagon, 288° anticlockwise",
-      "C": "4 squares, Blue",
-      "D": "Nonagon, 240° anticlockwise"
+      "B": "32 sectors, 90° clockwise",
+      "C": "8×8, 180° clockwise",
+      "D": "24 sides, 120° clockwise"
     },
     "answer": "C",
     "category": "Shape Pattern Questions (21–40)",
     "source": "sandy.md"
   },
   {
-    "question": "A triangle doubles sides and rotates 120° clockwise: 3, 6, 12, __. What is the next number of sides and rotation? Sides: 3, 6, 12, 24. Rotation: 120° × 4 = 480° = 120°.",
+    "question": "A sequence cycles colors (Red, Blue, Green) and shapes (Circle, Square): Circle (Red), Square (Blue), Circle (Green), Square (Red), Circle (Blue), __. What is the next shape and color? Shapes alternate: Circle, Square. Colors cycle: Red, Blue, Green. Next: Square (Green).",
     "options": {
-      "A": "Circle, Red",
-      "B": "8×8, 180° clockwise",
-      "C": "Octagon, 288° anticlockwise",
-      "D": "24 sides, 120° clockwise"
+      "A": "8×8, 180° clockwise",
+      "B": "16×0.5",
+      "C": "Square, Green",
+      "D": "4 small squares"
     },
-    "answer": "D",
+    "answer": "C",
     "category": "Shape Pattern Questions (21–40)",
     "source": "sandy.md"
   },
   {
-    "question": "A sequence cycles shapes (Circle, Square, Triangle) and fills: Circle (Filled), Square (Empty), Triangle (Filled), Circle (Empty), Square (Filled), __. What is the next shape and state? Shapes cycle: Circle, Square, Triangle. Fill cycles: Filled, Empty, Filled. Next: Triangle (Empty).",
+    "question": "A circle is divided into sectors: 2, 4, 8, 16, __. What is the next number, and if it rotates 90° clockwise per step, what is the rotation? Sectors double: 2, 4, 8, 16, 32. Rotation: 90° × 5 = 450° = 90°.",
     "options": {
-      "A": "Triangle, Empty",
-      "B": "11-gon, 144° clockwise",
-      "C": "Circle, Red",
-      "D": "Red, 0° rotation"
+      "A": "32 sectors, 90° clockwise",
+      "B": "r=8, 180° anticlockwise",
+      "C": "16×4",
+      "D": "16×0.5"
     },
     "answer": "A",
     "category": "Shape Pattern Questions (21–40)",
     "source": "sandy.md"
   },
   {
-    "question": "A rectangle increases width by 1 and doubles length: 2×1, 4×2, 8×3, __. What is the next rectangle? Length: 2, 4, 8, 16. Width: 1, 2, 3, 4. Next: 16×4.",
+    "question": "A sequence alternates shapes: Star (Filled), Circle (Empty), Star (Filled), Circle (Empty), __. What is the next shape and state? Pattern alternates: Star (Filled), Circle (Empty). Next: Star (Filled).",
     "options": {
-      "A": "Square, Green",
-      "B": "16×4",
-      "C": "32 sectors, 90° clockwise",
-      "D": "Triangle, Empty"
+      "A": "4 squares, Blue",
+      "B": "Red, 0° rotation",
+      "C": "Star, Filled",
+      "D": "11-gon, 144° clockwise"
+    },
+    "answer": "C",
+    "category": "Shape Pattern Questions (21–40)",
+    "source": "sandy.md"
+  },
+  {
+    "question": "A hexagon rotates 60° anticlockwise and adds one side: Hexagon, Heptagon, Octagon, __. What is the next shape and rotation? Sides: 6, 7, 8, 9 (Nonagon). Rotation: 60° × 4 = 240° anticlockwise.",
+    "options": {
+      "A": "4 small squares",
+      "B": "Nonagon, 240° anticlockwise",
+      "C": "Octagon, 288° anticlockwise",
+      "D": "Star, Filled"
     },
     "answer": "B",
     "category": "Shape Pattern Questions (21–40)",
     "source": "sandy.md"
   },
   {
+    "question": "A sequence of squares adds 1 small square and alternates colors: 1 (Red), 2 (Blue), 3 (Red), __. What is the next number and color? Squares: 1, 2, 3, 4. Colors alternate: Red, Blue, Red, Blue.",
+    "options": {
+      "A": "Circle, Red",
+      "B": "4 squares, Blue",
+      "C": "Nonagon, 240° anticlockwise",
+      "D": "8 circles, Empty"
+    },
+    "answer": "B",
+    "category": "Shape Pattern Questions (21–40)",
+    "source": "sandy.md"
+  },
+  {
+    "question": "A triangle doubles sides and rotates 120° clockwise: 3, 6, 12, __. What is the next number of sides and rotation? Sides: 3, 6, 12, 24. Rotation: 120° × 4 = 480° = 120°.",
+    "options": {
+      "A": "4 squares, Blue",
+      "B": "Octagon, 288° anticlockwise",
+      "C": "24 sides, 120° clockwise",
+      "D": "Circle, Red"
+    },
+    "answer": "C",
+    "category": "Shape Pattern Questions (21–40)",
+    "source": "sandy.md"
+  },
+  {
+    "question": "A sequence cycles shapes (Circle, Square, Triangle) and fills: Circle (Filled), Square (Empty), Triangle (Filled), Circle (Empty), Square (Filled), __. What is the next shape and state? Shapes cycle: Circle, Square, Triangle. Fill cycles: Filled, Empty, Filled. Next: Triangle (Empty).",
+    "options": {
+      "A": "4 small squares",
+      "B": "Empty, 8 circles",
+      "C": "Triangle, Empty",
+      "D": "11-gon, 144° clockwise"
+    },
+    "answer": "C",
+    "category": "Shape Pattern Questions (21–40)",
+    "source": "sandy.md"
+  },
+  {
+    "question": "A rectangle increases width by 1 and doubles length: 2×1, 4×2, 8×3, __. What is the next rectangle? Length: 2, 4, 8, 16. Width: 1, 2, 3, 4. Next: 16×4.",
+    "options": {
+      "A": "Star, Filled",
+      "B": "4 triangles, Empty",
+      "C": "16×4",
+      "D": "8×8, 180° clockwise"
+    },
+    "answer": "C",
+    "category": "Shape Pattern Questions (21–40)",
+    "source": "sandy.md"
+  },
+  {
     "question": "A sequence of circles adds 2 and alternates fill: 2 (Filled), 4 (Empty), 6 (Filled), __. What is the next number and state? Number: 2, 4, 6, 8. Fill alternates: Filled, Empty, Filled, Empty.",
     "options": {
-      "A": "24 sides, 120° clockwise",
+      "A": "Empty, 8 circles",
       "B": "8 circles, Empty",
-      "C": "Nonagon, 240° anticlockwise",
-      "D": "11-gon, 144° clockwise"
+      "C": "32 sectors, 90° clockwise",
+      "D": "Star, Filled"
     },
     "answer": "B",
     "category": "Shape Pattern Questions (21–40)",
@@ -10002,72 +10002,72 @@
   {
     "question": "A pentagon increases sides by 2 and rotates 36° clockwise: 5, 7, 9, __. What is the next shape and rotation? Sides: 5, 7, 9, 11 (11-gon). Rotation: 36° × 4 = 144°.",
     "options": {
-      "A": "11-gon, 144° clockwise",
-      "B": "16×0.5",
-      "C": "Nonagon, 240° anticlockwise",
-      "D": "16×4"
+      "A": "Empty, 8 circles",
+      "B": "Triangle, Empty",
+      "C": "11-gon, 144° clockwise",
+      "D": "Square, Green"
     },
-    "answer": "A",
+    "answer": "C",
     "category": "Shape Pattern Questions (21–40)",
     "source": "sandy.md"
   },
   {
     "question": "A sequence alternates shapes and colors: Triangle (Red), Square (Blue), Triangle (Red), Square (Blue), __. What is the next shape and color? Pattern alternates: Triangle (Red), Square (Blue). Next: Triangle (Red).",
     "options": {
-      "A": "8×8, 180° clockwise",
-      "B": "Triangle, Red",
-      "C": "Empty, 8 circles",
-      "D": "4 squares, Blue"
+      "A": "Nonagon, 240° anticlockwise",
+      "B": "r=8, 180° anticlockwise",
+      "C": "8 circles, Empty",
+      "D": "Triangle, Red"
     },
-    "answer": "B",
+    "answer": "D",
     "category": "Shape Pattern Questions (21–40)",
     "source": "sandy.md"
   },
   {
     "question": "A circle increases radius by 2 and rotates 45° anticlockwise: r=2, r=4, r=6, __. What is the next radius and rotation? Radius: 2, 4, 6, 8. Rotation: 45° × 4 = 180° anticlockwise.",
     "options": {
-      "A": "Red, 0° rotation",
-      "B": "4 triangles, Empty",
-      "C": "11-gon, 144° clockwise",
-      "D": "r=8, 180° anticlockwise"
+      "A": "8×8, 180° clockwise",
+      "B": "r=8, 180° anticlockwise",
+      "C": "4 squares, Blue",
+      "D": "Triangle, Empty"
     },
-    "answer": "D",
+    "answer": "B",
     "category": "Shape Pattern Questions (21–40)",
     "source": "sandy.md"
   },
   {
     "question": "2 : 6 :: 5 : __ 2 × 3 = 6. Similarly, 5 × 3 = 15.",
     "options": {
-      "A": "18",
-      "B": "16",
-      "C": "32",
-      "D": "15"
+      "A": "16",
+      "B": "15",
+      "C": "8",
+      "D": "32"
     },
-    "answer": "D",
+    "answer": "B",
     "category": "Analogy Questions (41–60)",
     "source": "sandy.md"
   },
   {
     "question": "Circle (Red) : Square (Blue) :: Triangle (Green) : __ Circle to Square changes shape, Red to Blue changes color. Triangle to Square, Green to Red (next color).",
     "options": {
-      "A": "Square (Red)",
-      "B": "Octagon (8)",
-      "C": "Empty Square",
-      "D": "Down"
+      "A": "Down",
+      "B": "Heptagon (7)",
+      "C": "Square (Red)",
+      "D": "Circle (Empty)"
     },
-    "answer": "A",
+    "answer": "C",
     "category": "Analogy Questions (41–60)",
     "source": "sandy.md"
   },
   {
     "question": "3 : 12 :: 4 : __ 3 × 4 = 12. Similarly, 4 × 4 = 16.",
     "options": {
-      "A": "8",
-      "B": "16",
-      "C": "48",
-      "D": "15"
+      "A": "18",
+      "B": "32",
+      "C": "16",
+      "D": "48"
     },
-    "answer": "B",
+    "answer": "C",
     "category": "Analogy Questions (41–60)",
     "source": "sandy.md"
   },
@@ -10076,8 +10076,8 @@
     "options": {
       "A": "Circle (Empty)",
       "B": "Empty Square",
-      "C": "Heptagon (7)",
-      "D": "Red Square"
+      "C": "Square (Red)",
+      "D": "Yellow"
     },
     "answer": "B",
     "category": "Analogy Questions (41–60)",
@@ -10086,12 +10086,12 @@
   {
     "question": "5 : 30 :: 6 : __ 5 × (5 + 1) = 30. Similarly, 6 × (6 + 1) = 42.",
     "options": {
-      "A": "25",
-      "B": "42",
-      "C": "8",
-      "D": "18"
+      "A": "42",
+      "B": "56",
+      "C": "15",
+      "D": "48"
     },
-    "answer": "B",
+    "answer": "A",
     "category": "Analogy Questions (41–60)",
     "source": "sandy.md"
   },
@@ -10099,9 +10099,9 @@
     "question": "Star (3) : Circle (0) :: Pentagon (5) : __ Star (3 sides) to Circle (0 sides). Pentagon (5 sides) to Circle (0 sides).",
     "options": {
       "A": "Circle (0)",
-      "B": "Yellow",
-      "C": "Red Square",
-      "D": "Heptagon (7)"
+      "B": "Red Square",
+      "C": "Yellow",
+      "D": "Octagon (8)"
     },
     "answer": "A",
     "category": "Analogy Questions (41–60)",
@@ -10112,8 +10112,8 @@
     "options": {
       "A": "32",
       "B": "18",
-      "C": "8",
-      "D": "15"
+      "C": "56",
+      "D": "48"
     },
     "answer": "B",
     "category": "Analogy Questions (41–60)",
@@ -10122,106 +10122,106 @@
   {
     "question": "Red : Green :: Blue : __ Red to Green is a color shift. Blue to Yellow (next in sequence: Red, Green, Blue, Yellow).",
     "options": {
-      "A": "Down",
-      "B": "Circle (Empty)",
-      "C": "Hexagon (6)",
-      "D": "Yellow"
-    },
-    "answer": "D",
-    "category": "Analogy Questions (41–60)",
-    "source": "sandy.md"
-  },
-  {
-    "question": "4 : 20 :: 5 : __ 4 × 5 = 20. Similarly, 5 × 5 = 25.",
-    "options": {
-      "A": "32",
-      "B": "15",
-      "C": "25",
-      "D": "42"
-    },
-    "answer": "C",
-    "category": "Analogy Questions (41–60)",
-    "source": "sandy.md"
-  },
-  {
-    "question": "Triangle (3) : Square (4) :: Pentagon (5) : __ Triangle (3 sides) to Square (4 sides). Pentagon (5 sides) to Hexagon (6 sides).",
-    "options": {
-      "A": "Heptagon (7)",
-      "B": "Octagon (8)",
-      "C": "Hexagon (6)",
-      "D": "Circle (Empty)"
-    },
-    "answer": "C",
-    "category": "Analogy Questions (41–60)",
-    "source": "sandy.md"
-  },
-  {
-    "question": "1 : 4 :: 3 : __ 1 × 2 + 2 = 4. Similarly, 3 × 2 + 2 = 8.",
-    "options": {
-      "A": "32",
-      "B": "42",
-      "C": "16",
-      "D": "8"
-    },
-    "answer": "D",
-    "category": "Analogy Questions (41–60)",
-    "source": "sandy.md"
-  },
-  {
-    "question": "Filled : Empty :: Up : __ Filled to Empty is opposite. Up to Down is opposite.",
-    "options": {
-      "A": "Circle (0)",
-      "B": "Down",
-      "C": "Square (Red)",
-      "D": "Empty Square"
+      "A": "Square (Red)",
+      "B": "Yellow",
+      "C": "Circle (Empty)",
+      "D": "Hexagon (6)"
     },
     "answer": "B",
     "category": "Analogy Questions (41–60)",
     "source": "sandy.md"
   },
   {
-    "question": "6 : 42 :: 7 : __ 6 × (6 + 1) = 42. Similarly, 7 × (7 + 1) = 56.",
+    "question": "4 : 20 :: 5 : __ 4 × 5 = 20. Similarly, 5 × 5 = 25.",
+    "options": {
+      "A": "15",
+      "B": "25",
+      "C": "56",
+      "D": "42"
+    },
+    "answer": "B",
+    "category": "Analogy Questions (41–60)",
+    "source": "sandy.md"
+  },
+  {
+    "question": "Triangle (3) : Square (4) :: Pentagon (5) : __ Triangle (3 sides) to Square (4 sides). Pentagon (5 sides) to Hexagon (6 sides).",
+    "options": {
+      "A": "Red Square",
+      "B": "Hexagon (6)",
+      "C": "Heptagon (7)",
+      "D": "Down"
+    },
+    "answer": "B",
+    "category": "Analogy Questions (41–60)",
+    "source": "sandy.md"
+  },
+  {
+    "question": "1 : 4 :: 3 : __ 1 × 2 + 2 = 4. Similarly, 3 × 2 + 2 = 8.",
     "options": {
       "A": "42",
       "B": "8",
       "C": "56",
-      "D": "15"
+      "D": "18"
     },
-    "answer": "C",
+    "answer": "B",
+    "category": "Analogy Questions (41–60)",
+    "source": "sandy.md"
+  },
+  {
+    "question": "Filled : Empty :: Up : __ Filled to Empty is opposite. Up to Down is opposite.",
+    "options": {
+      "A": "Down",
+      "B": "Circle (Empty)",
+      "C": "Hexagon (6)",
+      "D": "Heptagon (7)"
+    },
+    "answer": "A",
+    "category": "Analogy Questions (41–60)",
+    "source": "sandy.md"
+  },
+  {
+    "question": "6 : 42 :: 7 : __ 6 × (6 + 1) = 42. Similarly, 7 × (7 + 1) = 56.",
+    "options": {
+      "A": "25",
+      "B": "32",
+      "C": "16",
+      "D": "56"
+    },
+    "answer": "D",
     "category": "Analogy Questions (41–60)",
     "source": "sandy.md"
   },
   {
     "question": "Circle (0) : Triangle (3) :: Square (4) : __ Circle (0 sides) to Triangle (3 sides). Square (4 sides) to Heptagon (7 sides, +3).",
     "options": {
-      "A": "Heptagon (7)",
-      "B": "Circle (0)",
-      "C": "Hexagon (6)",
-      "D": "Square (Red)"
+      "A": "Yellow",
+      "B": "Heptagon (7)",
+      "C": "Square (Red)",
+      "D": "Circle (Empty)"
     },
-    "answer": "A",
+    "answer": "B",
     "category": "Analogy Questions (41–60)",
     "source": "sandy.md"
   },
   {
     "question": "2 : 12 :: 4 : __ 2 × (2 + 4) = 12. Similarly, 4 × (4 + 4) = 32.",
     "options": {
-      "A": "32",
-      "B": "48",
-      "C": "16",
-      "D": "15"
+      "A": "8",
+      "B": "16",
+      "C": "56",
+      "D": "32"
     },
-    "answer": "A",
+    "answer": "D",
     "category": "Analogy Questions (41–60)",
     "source": "sandy.md"
   },
   {
     "question": "Red Circle : Blue Square :: Green Triangle : __ Red to Blue, Circle to Square. Green to Red, Triangle to Square.",
     "options": {
-      "A": "Square (Red)",
+      "A": "Circle (0)",
       "B": "Red Square",
-      "C": "Hexagon (6)",
-      "D": "Circle (Empty)"
+      "C": "Square (Red)",
+      "D": "Yellow"
     },
     "answer": "B",
     "category": "Analogy Questions (41–60)",
@@ -10230,94 +10230,94 @@
   {
     "question": "3 : 15 :: 5 : __ 3 × 5 = 15. Similarly, 5 × 5 = 25.",
     "options": {
-      "A": "25",
-      "B": "8",
+      "A": "32",
+      "B": "42",
       "C": "56",
-      "D": "18"
+      "D": "25"
     },
-    "answer": "A",
+    "answer": "D",
     "category": "Analogy Questions (41–60)",
     "source": "sandy.md"
   },
   {
     "question": "Square (Filled) : Circle (Empty) :: Triangle (Filled) : __ Square to Circle changes shape, Filled to Empty changes state. Triangle to Circle, Filled to Empty.",
     "options": {
-      "A": "Octagon (8)",
-      "B": "Square (Red)",
-      "C": "Circle (Empty)",
-      "D": "Hexagon (6)"
-    },
-    "answer": "C",
-    "category": "Analogy Questions (41–60)",
-    "source": "sandy.md"
-  },
-  {
-    "question": "4 : 24 :: 6 : __ 4 × (4 + 2) = 24. Similarly, 6 × (6 + 2) = 48.",
-    "options": {
-      "A": "42",
-      "B": "48",
-      "C": "25",
-      "D": "32"
-    },
-    "answer": "B",
-    "category": "Analogy Questions (41–60)",
-    "source": "sandy.md"
-  },
-  {
-    "question": "Pentagon (5) : Hexagon (6) :: Heptagon (7) : __ Pentagon (5 sides) to Hexagon (6 sides). Heptagon (7 sides) to Octagon (8 sides).",
-    "options": {
-      "A": "Octagon (8)",
-      "B": "Empty Square",
-      "C": "Yellow",
-      "D": "Red Square"
+      "A": "Circle (Empty)",
+      "B": "Hexagon (6)",
+      "C": "Down",
+      "D": "Empty Square"
     },
     "answer": "A",
     "category": "Analogy Questions (41–60)",
     "source": "sandy.md"
   },
   {
+    "question": "4 : 24 :: 6 : __ 4 × (4 + 2) = 24. Similarly, 6 × (6 + 2) = 48.",
+    "options": {
+      "A": "48",
+      "B": "32",
+      "C": "15",
+      "D": "16"
+    },
+    "answer": "A",
+    "category": "Analogy Questions (41–60)",
+    "source": "sandy.md"
+  },
+  {
+    "question": "Pentagon (5) : Hexagon (6) :: Heptagon (7) : __ Pentagon (5 sides) to Hexagon (6 sides). Heptagon (7 sides) to Octagon (8 sides).",
+    "options": {
+      "A": "Empty Square",
+      "B": "Circle (Empty)",
+      "C": "Down",
+      "D": "Octagon (8)"
+    },
+    "answer": "D",
+    "category": "Analogy Questions (41–60)",
+    "source": "sandy.md"
+  },
+  {
     "question": "Matrix: [1, 4, 10; 2, 7, 16; 3, 10, __]. What is the missing number? Columns: 1, 2, 3 (+1); 4, 7, 10 (+3); 10, 16, x (+6). Next: 16 + 6 = 22.",
     "options": {
-      "A": "19",
-      "B": "22",
-      "C": "36",
-      "D": "48"
+      "A": "22",
+      "B": "23",
+      "C": "52",
+      "D": "19"
     },
-    "answer": "B",
+    "answer": "A",
     "category": "Matrix Pattern Questions (61–80)",
     "source": "sandy.md"
   },
   {
     "question": "Matrix: [2, 6, 12; 3, 12, 36; 4, 24, __]. What is the missing number? Each row: 2 × 1, 2 × 3, 2 × 6; 3 × 1, 3 × 4, 3 × 12; 4 × 1, 4 × 6, 4 × 18. Next: 4 × 18 = 72.",
     "options": {
-      "A": "30",
-      "B": "22",
-      "C": "72",
-      "D": "27"
+      "A": "54",
+      "B": "72",
+      "C": "36",
+      "D": "20"
     },
-    "answer": "C",
+    "answer": "B",
     "category": "Matrix Pattern Questions (61–80)",
     "source": "sandy.md"
   },
   {
     "question": "Matrix: [Red, Blue, Green; Blue, Green, Red; Green, Red, __]. What is the missing color? Each column shifts down: Red → Blue → Green; Blue → Green → Red; Green → Red → Blue.",
     "options": {
-      "A": "Green",
-      "B": "Square",
-      "C": "Circle",
-      "D": "Blue"
+      "A": "Blue",
+      "B": "Filled",
+      "C": "Green",
+      "D": "Square"
     },
-    "answer": "D",
+    "answer": "A",
     "category": "Matrix Pattern Questions (61–80)",
     "source": "sandy.md"
   },
   {
     "question": "Matrix: [1, 3, 6; 8, 10, 12; 15, 17, __]. What is the missing number? Numbers increase by differences: 1, 3 (+2), 6 (+3), 8 (+2), 10 (+2), 12 (+2), 15 (+3), 17 (+2), x (+2). Next: 17 + 2 = 19.",
     "options": {
-      "A": "54",
+      "A": "27",
       "B": "19",
-      "C": "72",
-      "D": "40"
+      "C": "30",
+      "D": "52"
     },
     "answer": "B",
     "category": "Matrix Pattern Questions (61–80)",
@@ -10329,7 +10329,7 @@
       "A": "Blue",
       "B": "Filled",
       "C": "Square",
-      "D": "Green"
+      "D": "Empty Square"
     },
     "answer": "C",
     "category": "Matrix Pattern Questions (61–80)",
@@ -10338,24 +10338,24 @@
   {
     "question": "Matrix: [2, 8, 18; 3, 12, 24; 4, 16, __]. What is the missing number? Each row: 2 × 1², 2 × 2², 2 × 3²; 3 × 1², 3 × 2², 3 × 3²; 4 × 1², 4 × 2², 4 × 3². Next: 4 × 3² = 36.",
     "options": {
-      "A": "27",
-      "B": "36",
-      "C": "22",
-      "D": "52"
+      "A": "54",
+      "B": "23",
+      "C": "20",
+      "D": "36"
     },
-    "answer": "B",
+    "answer": "D",
     "category": "Matrix Pattern Questions (61–80)",
     "source": "sandy.md"
   },
   {
     "question": "Matrix: [1, 5, 11; 2, 8, 17; 3, 11, __]. What is the missing number? Columns: 1, 2, 3 (+1); 5, 8, 11 (+3); 11, 17, x (+6). Next: 17 + 6 = 23.",
     "options": {
-      "A": "23",
-      "B": "72",
-      "C": "48",
-      "D": "30"
+      "A": "54",
+      "B": "52",
+      "C": "22",
+      "D": "23"
     },
-    "answer": "A",
+    "answer": "D",
     "category": "Matrix Pattern Questions (61–80)",
     "source": "sandy.md"
   },
@@ -10363,8 +10363,8 @@
     "question": "Matrix: [Filled, Empty, Filled; Empty, Filled, Empty; Filled, Empty, __]. What is the missing state? Each column alternates: Filled → Empty → Filled; Empty → Filled → Empty; Filled → Empty → Filled.",
     "options": {
       "A": "Green",
-      "B": "Empty Square",
-      "C": "Blue",
+      "B": "Circle",
+      "C": "Square",
       "D": "Filled"
     },
     "answer": "D",
@@ -10374,10 +10374,10 @@
   {
     "question": "Matrix: [4, 12, 24; 6, 18, 36; 8, 24, __]. What is the missing number? Each row: 4 × 1, 4 × 3, 4 × 6; 6 × 1, 6 × 3, 6 × 6; 8 × 1, 8 × 3, 8 × 6. Next: 8 × 6 = 48.",
     "options": {
-      "A": "22",
+      "A": "19",
       "B": "48",
-      "C": "23",
-      "D": "52"
+      "C": "30",
+      "D": "72"
     },
     "answer": "B",
     "category": "Matrix Pattern Questions (61–80)",
@@ -10386,21 +10386,21 @@
   {
     "question": "Matrix: [1, 4, 16; 2, 8, 32; 3, 12, __]. What is the missing number? Each row: 1 × 4⁰, 1 × 4¹, 1 × 4²; 2 × 4⁰, 2 × 4¹, 2 × 4²; 3 × 4⁰, 3 × 4¹, 3 × 4². Next: 3 × 4² = 48.",
     "options": {
-      "A": "72",
-      "B": "54",
-      "C": "48",
-      "D": "36"
+      "A": "52",
+      "B": "48",
+      "C": "27",
+      "D": "20"
     },
-    "answer": "C",
+    "answer": "B",
     "category": "Matrix Pattern Questions (61–80)",
     "source": "sandy.md"
   },
   {
     "question": "Matrix: [Star, Circle, Square; Circle, Square, Star; Square, Star, __]. What is the missing shape? Each column shifts down: Star → Circle → Square; Circle → Square → Star; Square → Star → Circle.",
     "options": {
-      "A": "Green",
-      "B": "Filled",
-      "C": "Blue",
+      "A": "Blue",
+      "B": "Square",
+      "C": "Empty Square",
       "D": "Circle"
     },
     "answer": "D",
@@ -10411,21 +10411,21 @@
     "question": "Matrix: [2, 10, 26; 3, 15, 39; 4, 20, __]. What is the missing number? Each row: 2 × (1 + 4), 2 × (5 + 0), 2 × (13 - 0); 3 × (1 + 4), 3 × 5, 3 × 13; 4 × (1 + 4), 4 × 5, 4 × 13. Next: 4 × 13 = 52.",
     "options": {
       "A": "72",
-      "B": "19",
-      "C": "52",
-      "D": "48"
+      "B": "40",
+      "C": "54",
+      "D": "52"
     },
-    "answer": "C",
+    "answer": "D",
     "category": "Matrix Pattern Questions (61–80)",
     "source": "sandy.md"
   },
   {
     "question": "Matrix: [1, 6, 14; 2, 8, 17; 3, 10, __]. What is the missing number? Columns: 1, 2, 3 (+1); 6, 8, 10 (+2); 14, 17, x (+3). Next: 17 + 3 = 20.",
     "options": {
-      "A": "72",
+      "A": "40",
       "B": "20",
-      "C": "19",
-      "D": "30"
+      "C": "22",
+      "D": "27"
     },
     "answer": "B",
     "category": "Matrix Pattern Questions (61–80)",
@@ -10434,22 +10434,22 @@
   {
     "question": "Matrix: [Red, Green, Blue; Green, Blue, Red; Blue, Red, __]. What is the missing color? Each column shifts down: Red → Green → Blue; Green → Blue → Red; Blue → Red → Green.",
     "options": {
-      "A": "Circle",
-      "B": "Blue",
-      "C": "Green",
-      "D": "Square"
+      "A": "Square",
+      "B": "Green",
+      "C": "Blue",
+      "D": "Circle"
     },
-    "answer": "C",
+    "answer": "B",
     "category": "Matrix Pattern Questions (61–80)",
     "source": "sandy.md"
   },
   {
     "question": "Matrix: [3, 9, 18; 4, 12, 24; 5, 15, __]. What is the missing number? Each row: 3 × 1, 3 × 3, 3 × 6; 4 × 1, 4 × 3, 4 × 6; 5 × 1, 5 × 3, 5 × 6. Next: 5 × 6 = 30.",
     "options": {
-      "A": "54",
-      "B": "36",
+      "A": "23",
+      "B": "19",
       "C": "30",
-      "D": "48"
+      "D": "40"
     },
     "answer": "C",
     "category": "Matrix Pattern Questions (61–80)",
@@ -10458,48 +10458,48 @@
   {
     "question": "Matrix: [1, 3, 7; 9, 11, 15; 17, 19, __]. What is the missing number? Numbers increase by differences: 1, 3 (+2), 7 (+4), 9 (+2), 11 (+2), 15 (+4), 17 (+2), 19 (+2), x (+4). Next: 19 + 4 = 23.",
     "options": {
-      "A": "52",
-      "B": "54",
-      "C": "23",
+      "A": "23",
+      "B": "36",
+      "C": "19",
       "D": "40"
-    },
-    "answer": "C",
-    "category": "Matrix Pattern Questions (61–80)",
-    "source": "sandy.md"
-  },
-  {
-    "question": "Matrix: [2, 8, 20; 3, 12, 30; 4, 16, __]. What is the missing number? Each row: 2 × 1, 2 × 4, 2 × 10; 3 × 1, 3 × 4, 3 × 10; 4 × 1, 4 × 4, 4 × 10. Next: 4 × 10 = 40.",
-    "options": {
-      "A": "48",
-      "B": "72",
-      "C": "23",
-      "D": "40"
-    },
-    "answer": "D",
-    "category": "Matrix Pattern Questions (61–80)",
-    "source": "sandy.md"
-  },
-  {
-    "question": "Matrix: [Filled Circle, Empty Square, Filled Triangle; Empty Square, Filled Triangle, Filled Circle; Filled Triangle, Filled Circle, __]. What is the missing shape? Each column shifts down: Circle → Square → Triangle; Square → Triangle → Circle; Triangle → Circle → Square.",
-    "options": {
-      "A": "Empty Square",
-      "B": "Filled",
-      "C": "Circle",
-      "D": "Square"
     },
     "answer": "A",
     "category": "Matrix Pattern Questions (61–80)",
     "source": "sandy.md"
   },
   {
-    "question": "Matrix: [4, 16, 36; 5, 20, 45; 6, 24, __]. What is the missing number? Each row: 4 × 1², 4 × 2², 4 × 3²; 5 × 1², 5 × 2², 5 × 3²; 6 × 1², 6 × 2², 6 × 3². Next: 6 × 3² = 54.",
+    "question": "Matrix: [2, 8, 20; 3, 12, 30; 4, 16, __]. What is the missing number? Each row: 2 × 1, 2 × 4, 2 × 10; 3 × 1, 3 × 4, 3 × 10; 4 × 1, 4 × 4, 4 × 10. Next: 4 × 10 = 40.",
     "options": {
       "A": "30",
       "B": "72",
-      "C": "23",
-      "D": "54"
+      "C": "40",
+      "D": "23"
     },
-    "answer": "D",
+    "answer": "C",
+    "category": "Matrix Pattern Questions (61–80)",
+    "source": "sandy.md"
+  },
+  {
+    "question": "Matrix: [Filled Circle, Empty Square, Filled Triangle; Empty Square, Filled Triangle, Filled Circle; Filled Triangle, Filled Circle, __]. What is the missing shape? Each column shifts down: Circle → Square → Triangle; Square → Triangle → Circle; Triangle → Circle → Square.",
+    "options": {
+      "A": "Square",
+      "B": "Green",
+      "C": "Empty Square",
+      "D": "Filled"
+    },
+    "answer": "C",
+    "category": "Matrix Pattern Questions (61–80)",
+    "source": "sandy.md"
+  },
+  {
+    "question": "Matrix: [4, 16, 36; 5, 20, 45; 6, 24, __]. What is the missing number? Each row: 4 × 1², 4 × 2², 4 × 3²; 5 × 1², 5 × 2², 5 × 3²; 6 × 1², 6 × 2², 6 × 3². Next: 6 × 3² = 54.",
+    "options": {
+      "A": "54",
+      "B": "36",
+      "C": "72",
+      "D": "52"
+    },
+    "answer": "A",
     "category": "Matrix Pattern Questions (61–80)",
     "source": "sandy.md"
   },
@@ -10507,9 +10507,9 @@
     "question": "Matrix: [1, 5, 13; 2, 8, 20; 3, 11, __]. What is the missing number? Columns: 1, 2, 3 (+1); 5, 8, 11 (+3); 13, 20, x (+7). Next: 20 + 7 = 27.",
     "options": {
       "A": "36",
-      "B": "22",
+      "B": "30",
       "C": "27",
-      "D": "52"
+      "D": "23"
     },
     "answer": "C",
     "category": "Matrix Pattern Questions (61–80)",
@@ -10518,22 +10518,22 @@
   {
     "question": "Which is the odd one out: 3, 9, 18, 27, 36? 3, 9, 27, 36 are multiples of 3. 18 is not divisible by 3 evenly in this context.",
     "options": {
-      "A": "22",
-      "B": "81",
-      "C": "18",
-      "D": "2"
+      "A": "81",
+      "B": "18",
+      "C": "30",
+      "D": "76"
     },
-    "answer": "C",
+    "answer": "B",
     "category": "Odd One Out Questions (81–100)",
     "source": "sandy.md"
   },
   {
     "question": "Which is the odd one out: Circle (Red), Square (Blue), Triangle (Green), Pentagon (Red), Star (Blue)? Circle, Square, Triangle, Pentagon are polygons. Star is not.",
     "options": {
-      "A": "Empty",
+      "A": "144 (contextual)",
       "B": "Star",
       "C": "Circle",
-      "D": "Filled Pentagon"
+      "D": "Empty"
     },
     "answer": "B",
     "category": "Odd One Out Questions (81–100)",
@@ -10542,33 +10542,57 @@
   {
     "question": "Which is the odd one out: 2, 6, 12, 20, 30? Differences: 4, 6, 8, 10. 2 does not fit the pattern of increasing differences.",
     "options": {
-      "A": "81",
-      "B": "2",
-      "C": "70",
-      "D": "18"
-    },
-    "answer": "B",
-    "category": "Odd One Out Questions (81–100)",
-    "source": "sandy.md"
-  },
-  {
-    "question": "Which is the odd one out: Filled Circle, Empty Square, Filled Triangle, Empty Pentagon, Red Hexagon? Filled, Empty are states. Red is a color.",
-    "options": {
-      "A": "Green Pentagon",
-      "B": "Circle",
-      "C": "Red Hexagon",
-      "D": "144 (contextual)"
+      "A": "54",
+      "B": "305",
+      "C": "2",
+      "D": "22"
     },
     "answer": "C",
     "category": "Odd One Out Questions (81–100)",
     "source": "sandy.md"
   },
   {
+    "question": "Which is the odd one out: Filled Circle, Empty Square, Filled Triangle, Empty Pentagon, Red Hexagon? Filled, Empty are states. Red is a color.",
+    "options": {
+      "A": "Empty",
+      "B": "Red Hexagon",
+      "C": "Circle",
+      "D": "Green Pentagon"
+    },
+    "answer": "B",
+    "category": "Odd One Out Questions (81–100)",
+    "source": "sandy.md"
+  },
+  {
     "question": "Which is the odd one out: 4, 16, 36, 64, 81? 4, 16, 36, 64 are squares of even numbers (2², 4², 6², 8²). 81 is 9² (odd).",
     "options": {
-      "A": "81",
-      "B": "305",
-      "C": "22",
+      "A": "30",
+      "B": "81",
+      "C": "305",
+      "D": "76"
+    },
+    "answer": "B",
+    "category": "Odd One Out Questions (81–100)",
+    "source": "sandy.md"
+  },
+  {
+    "question": "Which is the odd one out: Star, Circle, Square, Triangle, Filled Pentagon? Filled Pentagon has a state; others are shapes only.",
+    "options": {
+      "A": "Red Hexagon",
+      "B": "Filled Pentagon",
+      "C": "Empty",
+      "D": "Star"
+    },
+    "answer": "B",
+    "category": "Odd One Out Questions (81–100)",
+    "source": "sandy.md"
+  },
+  {
+    "question": "Which is the odd one out: 1, 5, 14, 30, 54? Differences: 4, 9, 16, 24. 54 does not fit the pattern of increasing differences.",
+    "options": {
+      "A": "54",
+      "B": "30",
+      "C": "81",
       "D": "2"
     },
     "answer": "A",
@@ -10576,47 +10600,23 @@
     "source": "sandy.md"
   },
   {
-    "question": "Which is the odd one out: Star, Circle, Square, Triangle, Filled Pentagon? Filled Pentagon has a state; others are shapes only.",
+    "question": "Which is the odd one out: Red, Blue, Green, Yellow, Empty? Red, Blue, Green, Yellow are colors. Empty is a state.",
     "options": {
-      "A": "Filled Pentagon",
+      "A": "Empty",
       "B": "Red Hexagon",
-      "C": "Empty",
-      "D": "144 (contextual)"
+      "C": "Green Pentagon",
+      "D": "Filled Circle"
     },
     "answer": "A",
     "category": "Odd One Out Questions (81–100)",
     "source": "sandy.md"
   },
   {
-    "question": "Which is the odd one out: 1, 5, 14, 30, 54? Differences: 4, 9, 16, 24. 54 does not fit the pattern of increasing differences.",
-    "options": {
-      "A": "30",
-      "B": "81",
-      "C": "18",
-      "D": "54"
-    },
-    "answer": "D",
-    "category": "Odd One Out Questions (81–100)",
-    "source": "sandy.md"
-  },
-  {
-    "question": "Which is the odd one out: Red, Blue, Green, Yellow, Empty? Red, Blue, Green, Yellow are colors. Empty is a state.",
-    "options": {
-      "A": "Circle",
-      "B": "144 (contextual)",
-      "C": "Red Hexagon",
-      "D": "Empty"
-    },
-    "answer": "D",
-    "category": "Odd One Out Questions (81–100)",
-    "source": "sandy.md"
-  },
-  {
     "question": "Which is the odd one out: 2, 8, 20, 40, 70? Differences: 6, 12, 20, 30. 70 does not fit the pattern.",
     "options": {
-      "A": "30",
-      "B": "54",
-      "C": "76",
+      "A": "305",
+      "B": "22",
+      "C": "30",
       "D": "70"
     },
     "answer": "D",
@@ -10626,9 +10626,9 @@
   {
     "question": "Which is the odd one out: Triangle, Square, Pentagon, Circle, Hexagon? Circle has no sides; others are polygons.",
     "options": {
-      "A": "Filled Circle",
-      "B": "Green Pentagon",
-      "C": "Empty",
+      "A": "Star",
+      "B": "Filled Circle",
+      "C": "Filled Pentagon",
       "D": "Circle"
     },
     "answer": "D",
@@ -10638,48 +10638,48 @@
   {
     "question": "Which is the odd one out: 3, 12, 27, 48, 76? Numbers are: 1 × 3, 2 × 6, 3 × 9, 4 × 12, 5 × 15. 76 ≠ 5 × 15.",
     "options": {
-      "A": "70",
-      "B": "76",
-      "C": "18",
-      "D": "305"
+      "A": "305",
+      "B": "30",
+      "C": "76",
+      "D": "81"
     },
-    "answer": "B",
+    "answer": "C",
     "category": "Odd One Out Questions (81–100)",
     "source": "sandy.md"
   },
   {
     "question": "Which is the odd one out: Blue Circle, Red Square, Green Triangle, Yellow Pentagon, Star? Star has no color; others have colors.",
     "options": {
-      "A": "Circle",
-      "B": "Filled Pentagon",
+      "A": "Filled Pentagon",
+      "B": "Star",
       "C": "Red Hexagon",
-      "D": "Star"
+      "D": "Circle"
     },
-    "answer": "D",
+    "answer": "B",
     "category": "Odd One Out Questions (81–100)",
     "source": "sandy.md"
   },
   {
     "question": "Which is the odd one out: 5, 10, 25, 80, 305? Each number is multiplied by increasing factors. 305 does not fit exactly.",
     "options": {
-      "A": "54",
-      "B": "22",
-      "C": "76",
-      "D": "305"
+      "A": "2",
+      "B": "305",
+      "C": "18",
+      "D": "76"
     },
-    "answer": "D",
+    "answer": "B",
     "category": "Odd One Out Questions (81–100)",
     "source": "sandy.md"
   },
   {
     "question": "Which is the odd one out: Pentagon, Hexagon, Heptagon, Octagon, Filled Circle? Filled Circle has a state; others are shapes.",
     "options": {
-      "A": "Red Hexagon",
-      "B": "Star",
-      "C": "Filled Circle",
-      "D": "Empty"
+      "A": "Filled Pentagon",
+      "B": "Filled Circle",
+      "C": "Circle",
+      "D": "Red Hexagon"
     },
-    "answer": "C",
+    "answer": "B",
     "category": "Odd One Out Questions (81–100)",
     "source": "sandy.md"
   },
@@ -10687,8 +10687,8 @@
     "question": "Which is the odd one out: 2, 5, 9, 14, 22? Differences: 3, 4, 5, 8. 22 does not fit the pattern.",
     "options": {
       "A": "76",
-      "B": "81",
-      "C": "18",
+      "B": "18",
+      "C": "70",
       "D": "22"
     },
     "answer": "D",
@@ -10711,33 +10711,33 @@
     "question": "Which is the odd one out: 1, 3, 7, 15, 30? Each number doubles and adds 1. 30 does not fit.",
     "options": {
       "A": "18",
-      "B": "2",
-      "C": "30",
-      "D": "70"
+      "B": "76",
+      "C": "70",
+      "D": "30"
     },
-    "answer": "C",
+    "answer": "D",
     "category": "Odd One Out Questions (81–100)",
     "source": "sandy.md"
   },
   {
     "question": "Which is the odd one out: Red, Blue, Circle, Green, Yellow? Circle is a shape; others are colors.",
     "options": {
-      "A": "Circle",
-      "B": "Empty",
+      "A": "Filled Circle",
+      "B": "Circle",
       "C": "Star",
-      "D": "Filled Pentagon"
+      "D": "Green Pentagon"
     },
-    "answer": "A",
+    "answer": "B",
     "category": "Odd One Out Questions (81–100)",
     "source": "sandy.md"
   },
   {
     "question": "Which is the odd one out: 4, 16, 36, 100, 144? 4, 16, 36, 100 are squares of even numbers (2², 4², 6², 10²). 144 is 12² but fits.",
     "options": {
-      "A": "Green Pentagon",
-      "B": "Star",
+      "A": "Circle",
+      "B": "Filled Pentagon",
       "C": "144 (contextual)",
-      "D": "Circle"
+      "D": "Empty"
     },
     "answer": "C",
     "category": "Odd One Out Questions (81–100)",
@@ -10746,12 +10746,12 @@
   {
     "question": "Which is the odd one out: Square (Red), Triangle (Blue), Pentagon (Green), Hexagon (Yellow), Star (Filled)? Star has a state (Filled); others have colors.",
     "options": {
-      "A": "Star",
-      "B": "Red Hexagon",
-      "C": "Green Pentagon",
-      "D": "Empty"
+      "A": "Red Hexagon",
+      "B": "Empty",
+      "C": "Filled Circle",
+      "D": "Star"
     },
-    "answer": "A",
+    "answer": "D",
     "category": "Odd One Out Questions (81–100)",
     "source": "sandy.md"
   },

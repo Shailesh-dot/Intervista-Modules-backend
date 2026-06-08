@@ -122,24 +122,24 @@ def create_interview_session(profile: CandidateProfile) -> QuestionsResponse:
             ]
             
             # successfully parsed and structured questions
-            print(f"✅ Questions generated from LLM on attempt {attempt + 1}/{MAX_RETRIES} for '{candidate_name}'.")
+            print(f"[OK] Questions generated from LLM on attempt {attempt + 1}/{MAX_RETRIES} for '{candidate_name}'.")
             break
             
         except Exception as e:
             if attempt == MAX_RETRIES - 1:
                 # ── FALLBACK: LLM exhausted → use predefined question bank ────────
                 print(
-                    f"⚠️  LLM failed after {MAX_RETRIES} attempts. "
+                    f"[WARNING] LLM failed after {MAX_RETRIES} attempts. "
                     f"Activating fallback question bank for '{candidate_name}'."
                 )
                 questions = get_fallback_questions(profile)
                 raw_ideal_answers = []     # no ideal answers from the bank
                 question_source = "fallback_bank"
-                print(f"📦 Questions retrieved from FALLBACK BANK for '{candidate_name}'. Total: {len(questions)}")
+                print(f"[FALLBACK] Questions retrieved from FALLBACK BANK for '{candidate_name}'. Total: {len(questions)}")
             else:
                 print(f"Groq question generation failed (attempt {attempt + 1}/{MAX_RETRIES}): {e}. Retrying...")
 
-    print(f"🔖 Session for '{candidate_name}' — question_source: {question_source}")
+    print(f"[SESSION] Session for '{candidate_name}' — question_source: {question_source}")
 
     # ── Persist session ───────────────────────────────────────────────────────
     session_id     = profile.session_id or str(uuid.uuid4())

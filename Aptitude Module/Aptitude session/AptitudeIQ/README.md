@@ -42,7 +42,7 @@ cd ..
 ```
 python server.py
 ```
-Open http://localhost:5000
+Open http://localhost:5002
 
 ---
 
@@ -57,7 +57,7 @@ Terminal 2:
 ```
 cd frontend
 npm run dev     # runs on http://localhost:3000
-                # proxies /api/* to Flask on 5000
+                # proxies /api/* to Flask on 5002
 ```
 
 ---
@@ -67,7 +67,7 @@ npm run dev     # runs on http://localhost:3000
 1. Drop question files into `data/questions/`
 2. Run `python scripts/convert.py`  → generates `data/all_questions.json`
 3. Run `python server.py`  → loads JSON into Postgres, starts API
-4. Open http://localhost:5000  → take quiz
+4. Open http://localhost:5002  → take quiz
 5. On submit → answers stored in `quiz_results` + `quiz_answers` tables
 6. Evaluation (correct/wrong/skipped/percentage) done entirely in Postgres
 
