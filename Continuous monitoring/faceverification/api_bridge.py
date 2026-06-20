@@ -1,4 +1,5 @@
 import cv2
+import numpy as np
 import threading
 import uvicorn
 import time
@@ -46,7 +47,7 @@ def init_monitoring():
             auditor = AuditLogger(log_dir=cfg.log_dir)
             verifier = StreamVerifier(
                 engine=engine,
-                source=0,
+                source=cfg.camera_source,
                 fps_cap=cfg.stream_fps_cap,
                 on_result=on_result
             )
@@ -57,6 +58,25 @@ def init_monitoring():
 def start_monitoring(background_tasks: BackgroundTasks):
     background_tasks.add_task(init_monitoring)
     return {"status": "starting"}
+
+@app.post("/upload_frame")
+async def upload_frame(file: UploadFile = File(...)):
+    global verifier
+    if verifier is None:
+        init_monitoring()
+    if verifier is not None:
+        try:
+            contents = await file.read()
+            nparr = np.frombuffer(contents, np.uint8)
+            frame = cv2.imdecode(nparr, cv2.IMREAD_COLOR)
+            if frame is not None:
+                verifier.update_frame(frame)
+                return {"status": "ok"}
+            else:
+                return {"status": "error", "message": "Failed to decode image"}
+        except Exception as e:
+            return {"status": "error", "message": str(e)}
+    return {"status": "not_started"}
 
 @app.get("/status")
 def get_status():

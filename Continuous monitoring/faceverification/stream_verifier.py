@@ -93,15 +93,51 @@ class StreamVerifier:
             logger.warning("StreamVerifier already running.")
             return
         self._running = True
-        self._cap_thread = threading.Thread(
-            target=self._capture_loop, daemon=True, name="FaceCap"
-        )
+        if self.source != "client":
+            self._cap_thread = threading.Thread(
+                target=self._capture_loop, daemon=True, name="FaceCap"
+            )
+            self._cap_thread.start()
         self._ver_thread = threading.Thread(
             target=self._verify_loop, daemon=True, name="FaceVer"
         )
-        self._cap_thread.start()
         self._ver_thread.start()
         logger.info("StreamVerifier started. Source: %s, FPS cap: %s", self.source, self.fps_cap)
+
+    def update_frame(self, frame: np.ndarray) -> None:
+        with self._lock:
+            self._latest_frame = frame
+
+            # Update Dlib tracker on each frame for smooth bounding box
+            if self._tracker_active and self._tracker is not None:
+                try:
+                    rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+                    confidence = self._tracker.update(rgb)
+
+                    if confidence < 6.0:
+                        # Tracker lost the face completely
+                        self._tracker_active = False
+                        self._tracker = None
+                        self._smoothed_authorised = False
+                        self._auth_window.clear()
+                        self._display_result = FaceAuthResult(
+                            status=AuthStatus.NO_FACE,
+                            authorised=False,
+                            message="Tracking lost. Re-verifying...",
+                            faces_detected=0,
+                        )
+                    else:
+                        # Update bounding box from tracker
+                        pos = self._tracker.get_position()
+                        if self._display_result:
+                            self._display_result.face_location = FaceLocation(
+                                top=int(pos.top()),
+                                right=int(pos.right()),
+                                bottom=int(pos.bottom()),
+                                left=int(pos.left()),
+                            )
+                except Exception as e:
+                    logger.error("Dlib tracker update failed in update_frame: %s", e)
 
     def stop(self, timeout: float = 5.0) -> None:
         self._running = False

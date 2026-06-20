@@ -46,7 +46,7 @@ class EngineConfig:
 
     # ── Stream ───────────────────────────────────────────────────────
     camera_source: str = field(
-        default_factory=lambda: _env("FACE_AUTH_CAMERA_SOURCE", "0")
+        default_factory=lambda: _env("FACE_AUTH_CAMERA_SOURCE", "client")
     )
     stream_fps_cap: float = field(
         default_factory=lambda: float(_env("FACE_AUTH_STREAM_FPS", "10.0"))
