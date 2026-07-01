@@ -1,4 +1,5 @@
 {
+    "aadhaar_zip_url": "https://res.cloudinary.com/dkfidppml/raw/upload/v1782226390/aadhaar_zips/edzcnxc77juz7c7smwgf",
     "reference_id": "674920260214120914600",
     "masked_aadhaar": "XXXX XXXX 6749",
     "name": "Sharan Raj P",
@@ -7,5 +8,7 @@
     "address": "SATHYA NAGAR",
     "district": "Vellore",
     "state": "Tamil Nadu",
-    "pincode": "632521"
+    "pincode": "632521",
+    "aadhaar_photo_url": "https://res.cloudinary.com/dkfidppml/image/upload/v1782226392/aadhaar_photos/goond2nqu2upngjawufq.jpg",
+    "zip_url": "https://res.cloudinary.com/dkfidppml/raw/upload/v1782226390/aadhaar_zips/edzcnxc77juz7c7smwgf"
 }
